@@ -1,0 +1,15 @@
+{
+    "Name": "PhotoZoom Pro 7（wine）",
+    "Version": "1.0",
+    "Filename": "spark-photozoom_1.0_i386.deb",
+    "Pkgname": "spark-photozoom",
+    "Author": "PhotoZoom 官方",
+    "Contributor": "gfdgd xi",
+    "Website": "https://www.photozoomchina.com/PZpro.html",
+    "Update": "2021-01-18 17:02:15",
+    "Size": "81.2 MB",
+    "More": "一个位图放大软件，使用算法尽可能减少失真程度\n但需要激活授权",
+    "Tags": "deepin;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/2e06ea70-596b-11eb-be08-2d16edb03bc5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/2dfb2aa0-596b-11eb-be08-2d16edb03bc5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/2e12f860-596b-11eb-be08-2d16edb03bc5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/57928e40-596a-11eb-be08-2d16edb03bc5.png"
+}
