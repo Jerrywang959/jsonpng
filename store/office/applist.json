@@ -604,15 +604,18 @@
   },
   {
     "Name": "Xournal++",
-    "Version": "1.0.18~git20200415.1911",
-    "Filename": "xournalpp-1.0.18-Debian-buster-x86_64.deb",
+    "Version": "1.0.20-hotfix~git20201227.1623-nogitfound-buster-1",
+    "Filename": "xournalpp-1.0.20-hotfix-hotfix-Debian-buster-x86_64.deb",
     "Pkgname": "xournalpp",
-    "Author": "Ulrich Huber & Bryan Tan",
-    "Contributor": "Andreas Butti",
-    "Website": "https://xournalpp.github.io/",
-    "Update": "2020-07-30 04:16",
-    "Size": "12.88MB",
-    "More": "Xournal++ is a hand note taking software written in C++ with the target of flexibility, functionality and speed."
+    "Author": "Xournal++ Team",
+    "Contributor": "SamLukeYes",
+    "Website": "https://xournalpp.github.io",
+    "Update": "2021-01-17 20:21:53",
+    "Size": "1.3 MB",
+    "More": "基于 Gtk3 的开源笔记软件，支持 PDF 标注。此处收录的软件包是为 Debian buster 打包的，Ubuntu 用户请从 ppa:apandada1/xournalpp-stable 安装。",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/17/7b8c72b0-58bc-11eb-baf9-63f6b1276080.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/17/781b67d0-58bc-11eb-baf9-63f6b1276080.ico"
   },
   {
     "Name": "zotero",
