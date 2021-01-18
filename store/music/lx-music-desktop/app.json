@@ -1,0 +1,15 @@
+{
+    "Name": "洛雪音乐助手",
+    "Version": "1.5.0-159",
+    "Filename": "lx-music-desktop_1.5.0-159_amd64.deb",
+    "Pkgname": "lx-music-desktop",
+    "Author": "lyswhut",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/lyswhut/lx-music-desktop/releases",
+    "Update": "2020-12-26 07:58:23",
+    "Size": "54.21 MB",
+    "More": "洛雪音乐助手桌面版\n一个基于 Electron + Vue 开发的音乐软件。\n全网搜索音乐",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/9e13ac50-474f-11eb-977c-23e0ed839864.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/9e293020-474f-11eb-977c-23e0ed839864.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/9e2dc400-474f-11eb-977c-23e0ed839864.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/26/8868cc50-474f-11eb-977c-23e0ed839864.png"
+}

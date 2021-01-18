@@ -1,0 +1,15 @@
+{
+    "Name": "PDMan",
+    "Version": "2.2.0",
+    "Filename": "PDMan-linux_v2.2.0.deb",
+    "Pkgname": "pdman",
+    "Author": "PDMan",
+    "Contributor": "sgb76",
+    "Website": "http://www.pdman.cn/#/",
+    "Update": "2020-09-23 03:41:24",
+    "Size": "86.38 MB",
+    "More": "PDMan 是一款开源免费的数据库模型建模工具，是PowerDesigner之外另一种更好的选择。支持Windows,Mac,Linux等操作系统，具有上手容易，使用简单的特点。",
+    "tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/23/36e49d50-fd4e-11ea-b5cf-81fb836b464f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/23/48d05270-fd4e-11ea-b5cf-81fb836b464f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/23/26958130-fd4e-11ea-b5cf-81fb836b464f.png"
+}

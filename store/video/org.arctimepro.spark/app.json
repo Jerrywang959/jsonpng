@@ -1,0 +1,15 @@
+{
+    "Name": "ArctimePro",
+    "Version": "2.4.1spark0",
+    "Filename": "org.arctimepro.spark_2.4.1spark0_amd64.deb",
+    "Pkgname": "org.arctimepro.spark",
+    "Author": "Arctime团队",
+    "Contributor": "sgb76",
+    "Website": "https://arctime.org/",
+    "Update": "2021-01-10 21:20:45",
+    "Size": "158.16 MB",
+    "More": "一款基于java的简单、强大、高效的跨平台字幕制作软件。打包时已将java环境打入包内，无需配置，软件依赖vlc",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/10/48a8f2e0-5346-11eb-8f77-677cc3eeef3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/10/4ab871f0-5346-11eb-8f77-677cc3eeef3a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/10/46c93660-5346-11eb-8f77-677cc3eeef3a.png"
+}

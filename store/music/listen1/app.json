@@ -1,0 +1,15 @@
+{
+    "Name": "listen1",
+    "Version": "2.13.0",
+    "Filename": "listen1_2.13.0_linux_amd64.deb",
+    "Pkgname": "listen1",
+    "Author": "listen1",
+    "Contributor": "anima",
+    "Website": "https://github.com/listen1/listen1_desktop/",
+    "Update": "2020-09-20 11:34:48",
+    "Size": "48.24 MB",
+    "More": "Listen1可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单。",
+    "tags": "uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/20/2acc6c20-fb35-11ea-a70c-6b9c9de62a69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/20/2bcfd260-fb35-11ea-a70c-6b9c9de62a69.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/20/0dc25720-fb35-11ea-a70c-6b9c9de62a69.png"
+}

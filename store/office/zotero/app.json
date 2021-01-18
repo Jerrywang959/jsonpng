@@ -1,0 +1,15 @@
+{
+    "Name": "zotero",
+    "Version": "5.0.89-5",
+    "Filename": "zotero_5.0.89-5_amd64.deb",
+    "Pkgname": "zotero",
+    "Author": "zotero",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/retorquere/zotero-deb",
+    "Update": "2020-09-05 15:46:51",
+    "Size": "60.19 MB",
+    "More": "开源文献管理器. 官网: https://www.zotero.org/ 本deb包是由github大佬retorquere打包的",
+    "tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/05/bec41a90-ef4b-11ea-b95b-bdb1632e5dd8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/05/bfaf8c00-ef4b-11ea-b95b-bdb1632e5dd8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/05/91e1ee30-ef4b-11ea-b95b-bdb1632e5dd8.png"
+}

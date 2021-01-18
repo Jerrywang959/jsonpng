@@ -1,0 +1,15 @@
+{
+    "Name": "rocketchat",
+    "Version": "3.1.1",
+    "Filename": "rocketchat_3.1.1_amd64.deb",
+    "Pkgname": "rocketchat",
+    "Author": "rocketchat",
+    "Contributor": "jerrywang",
+    "Website": "https://rocket.chat/",
+    "Update": "2020-12-29 17:24:15",
+    "Size": "52.87 MB",
+    "More": "Rocket.Chat的官方Linux客户端",
+    "Tags": "ubuntu;deepin;uos;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/29/8a36c930-49fa-11eb-98c6-4bd0150970dc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/8a09c5c0-49fa-11eb-98c6-4bd0150970dc.png"
+}

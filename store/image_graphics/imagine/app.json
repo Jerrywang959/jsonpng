@@ -1,0 +1,15 @@
+{
+    "Name": "Image",
+    "Version": "0.5.1",
+    "Filename": "imagine_0.5.1_a2d_amd64.deb",
+    "Pkgname": "imagine",
+    "Author": "meowtec",
+    "Contributor": "anima",
+    "Website": "https://github.com/meowtec/Imagine/",
+    "Update": "2020-09-08 21:34:43",
+    "Size": "68.5 MB",
+    "More": "想象一下是一款桌面应用程序，用于压缩PNG和JPEG，具有现代和友好的用户界面。",
+    "tags": "a2d;deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/08/8ad837f0-f1d7-11ea-ae68-d14c999893b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/08/8d997ad0-f1d7-11ea-ae68-d14c999893b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/08/8fdb7b90-f1d7-11ea-ae68-d14c999893b2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/08/84a06bf0-f1d7-11ea-ae68-d14c999893b2.png"
+}

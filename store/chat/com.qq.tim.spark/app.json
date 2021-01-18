@@ -1,0 +1,13 @@
+{
+   "Name":"TIM（wine）",
+   "Version":"3.2.0.21856spark0",
+   "Filename":"com.qq.tim.spark_3.2.0.21856spark0_i386.deb",
+   "Pkgname":"com.qq.tim.spark",
+   "Author":"Tencent",
+   "Contributor":"zty199",
+   "Website":"https://tim.qq.com/",
+   "Update":"2020-09-25 14:50",
+   "Size":"213.70MB",
+   "More":"Tencent TIM Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器，升级安装。\n仅供尝鲜使用。",
+   "Tags":"deepin;uos;dwine5"
+}

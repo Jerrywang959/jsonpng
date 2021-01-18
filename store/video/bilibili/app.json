@@ -1,0 +1,12 @@
+{
+   "Name":"bilibili网页版",
+   "Version":"1.0.1",
+   "Filename":"Bilibili-linux-amd64.deb",
+   "Pkgname":"bilibili",
+   "Author":"kunkun",
+   "Contributor":"kunkun",
+   "Website":" ",
+   "Update":"2020-09-04 10:43",
+   "Size":"51.25MB",
+   "More":"使用nativefier封装的哔哩哔哩网页,给不想打开浏览器的up们使用"
+}

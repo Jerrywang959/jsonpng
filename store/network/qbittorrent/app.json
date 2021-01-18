@@ -1,0 +1,15 @@
+{
+    "Name": "qBittorrent",
+    "Version": "4.3.0-1",
+    "Filename": "qbittorrent_4.3.0-1_amd64.deb",
+    "Pkgname": "qbittorrent",
+    "Author": "qbittorrent",
+    "Contributor": "咸粽子",
+    "Website": "https://www.qbittorrent.org",
+    "Update": "2020-10-19 03:16:33",
+    "Size": "5.3 MB",
+    "More": "一款使用 Qt 做界面的 BT 传输软件。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/19/6271f6f0-11b9-11eb-b6d3-b933b28bf131.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/19/627467f0-11b9-11eb-b6d3-b933b28bf131.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/19/5e2420a0-11b9-11eb-b6d3-b933b28bf131.png"
+}

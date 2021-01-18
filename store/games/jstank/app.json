@@ -1,0 +1,15 @@
+{
+    "Name": "坦克大战（网页版）",
+    "Version": "1.0.0",
+    "Filename": "jstank_1.0.0_amd64.deb",
+    "Pkgname": "jstank",
+    "Author": "From Web",
+    "Contributor": "shenmo",
+    "Website": "https://www.spark-app.store/",
+    "Update": "2020-11-03 05:24:20",
+    "Size": "419.72 KB",
+    "More": "JS写成的坦克大战，儿时的经典回忆",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/cf9f6ff0-1d94-11eb-9764-4d1acd76fd3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/cfa64dc0-1d94-11eb-9764-4d1acd76fd3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/cfaf7580-1d94-11eb-9764-4d1acd76fd3d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/bf9bb4b0-1d94-11eb-9764-4d1acd76fd3d.png"
+}

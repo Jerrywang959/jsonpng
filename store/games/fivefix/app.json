@@ -1,0 +1,15 @@
+{
+    "Name": "五子棋",
+    "Version": "1.0.0",
+    "Filename": "fivefix_1.0.0_amd64.deb",
+    "Pkgname": "fivefix",
+    "Author": "张永伟",
+    "Contributor": "张永伟",
+    "Website": "805151765@qq.com",
+    "Update": "2020-12-30 02:44:08",
+    "Size": "55.75 MB",
+    "More": "实现局域网五子棋对战，客户端自动搜索服务器和开始游戏后切换棋盘颜色，显示赢棋动画和提示落子动画。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/30/ada6c2a0-4a48-11eb-a651-3798f1e6a0b9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/30/b5cd8d60-4a48-11eb-a651-3798f1e6a0b9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/30/b5f25370-4a48-11eb-a651-3798f1e6a0b9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/30/b7c31bd0-4a48-11eb-a651-3798f1e6a0b9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/30/b9e20430-4a48-11eb-a651-3798f1e6a0b9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/30/a95bd280-4a48-11eb-a651-3798f1e6a0b9.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "Krita",
+    "Version": "4.4.1",
+    "Filename": "org.krita.krita.spark_4.4.1_amd64.deb",
+    "Pkgname": "org.krita.krita.spark",
+    "Author": "Krita Authors",
+    "Contributor": "zty199",
+    "Website": "https://krita.org/zh/",
+    "Update": "2020-11-08 19:42:29",
+    "Size": "249.21 MB",
+    "More": "Krita 是一款由社区驱动的自由开源数字绘画软件，可免费使用，无任何商用限制，让每一位画师都可以随心所欲地表达创意。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/7f1f9950-21fa-11eb-a548-cf3fa78a1668.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/08/7926f930-21fa-11eb-a548-cf3fa78a1668.png"
+}

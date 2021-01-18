@@ -1,0 +1,15 @@
+{
+    "Name": "阿里旺旺(Wine)",
+    "Version": "9.12.10",
+    "Filename": "com.taobao.wangwang.deepin.spark_9.12.10_i386.deb",
+    "Pkgname": "com.taobao.wangwang.deepin.spark",
+    "Author": "阿里旺旺",
+    "Contributor": "jerrywang",
+    "Website": "https://www.taobao.com/wangwang/index.php",
+    "Update": "2020-11-10 10:54:41",
+    "Size": "82.65 MB",
+    "More": "阿里旺旺 On Deepin wine5. 从Deepin仓库翻来. 与Deepin提供的包不能同时安装. 感谢阿里旺旺和Deepin官方.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/10/0bfdb750-2343-11eb-a918-cfc0f59ed480.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/10/fecbe0c0-2342-11eb-a918-cfc0f59ed480.png"
+}

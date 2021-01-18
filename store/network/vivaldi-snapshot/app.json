@@ -1,0 +1,15 @@
+{
+    "Name": "Vivaldi (snapshot)",
+    "Version": "3.5.2080.3-1",
+    "Filename": "vivaldi-snapshot_3.5.2080.3-1_amd64.deb",
+    "Pkgname": "vivaldi-snapshot",
+    "Author": "Vivaldi Technologies AS.",
+    "Contributor": "SamLukeYes",
+    "Website": "https://vivaldi.com",
+    "Update": "2020-10-22 14:16:37",
+    "Size": "72.23 MB",
+    "More": "Vivaldi 浏览器预览版。此软件包不一定是最新版本，但安装后可以通过系统更新收到新版本推送。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/22/2f75a070-1471-11eb-835e-b592f92c9dbf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/22/2f6fd410-1471-11eb-835e-b592f92c9dbf.png"
+}

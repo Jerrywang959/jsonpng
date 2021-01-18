@@ -1,0 +1,15 @@
+{
+    "Name": "Unicorn Viewer（wine）",
+    "Version": "0.24.spark0",
+    "Filename": "com.unicornviewer.spark_0.24.spark0_i386.deb",
+    "Pkgname": "com.unicornviewer.spark",
+    "Author": "马健",
+    "Contributor": "sgb76",
+    "Website": "不详",
+    "Update": "2020-10-13 07:38:14",
+    "Size": "8.11 MB",
+    "More": "基于deepin-wine5打包。UnicornViewer是一个针对扫描版电子文档的浏览器，程序小巧、运行流畅，打开电子文档速度非常快，具有下列功能：支持PDF、PDG格式、多页TIFF格式。PDG格式仅支持图像版0xH、1xH、28H、AxH，不支持FFH、6xH和文本PDG。支持连续翻页、并排显示、多种缩放方式及打印。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/13/c7087270-0d26-11eb-bc8d-07187a0c650c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/13/ccac3bd0-0d26-11eb-bc8d-07187a0c650c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/13/c0c4bf90-0d26-11eb-bc8d-07187a0c650c.png"
+}

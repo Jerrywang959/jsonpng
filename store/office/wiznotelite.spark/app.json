@@ -1,0 +1,15 @@
+{
+    "Name": "WiznoteLite",
+    "Version": "2.0.0",
+    "Filename": "wiznotelite.spark_2.0.0_amd64.deb",
+    "Pkgname": "wiznotelite.spark",
+    "Author": "WizTeam",
+    "Contributor": "jerrywang",
+    "Website": "https://www.wiz.cn/zh-cn/wiznote-lite",
+    "Update": "2020-11-04 11:09:27",
+    "Size": "111.65 MB",
+    "More": "为知笔记官方Linux客户端",
+    "Tags": "community;ubuntu;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/04/f7b37f50-1e8d-11eb-942c-7180648fb8b8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/04/d33f86f0-1e8d-11eb-942c-7180648fb8b8.png"
+}

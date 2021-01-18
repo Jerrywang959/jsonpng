@@ -1,0 +1,15 @@
+{
+    "Name": "PDFsam Basic",
+    "Version": "4.2.0-1",
+    "Filename": "pdfsam_4.2.0-1_amd64.deb",
+    "Pkgname": "pdfsam-basic",
+    "Author": "PDFsamOSS",
+    "Contributor": "sgb76",
+    "Website": "https://pdfsam.org/",
+    "Update": "2020-11-05 03:38:09",
+    "Size": "54.86 MB",
+    "More": "PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/4a954ee0-1f17-11eb-97bf-0980be5aa3da.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/4fb4a600-1f17-11eb-97bf-0980be5aa3da.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/53ec3530-1f17-11eb-97bf-0980be5aa3da.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/05/42d24f00-1f17-11eb-97bf-0980be5aa3da.png"
+}

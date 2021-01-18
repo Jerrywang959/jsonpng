@@ -1,0 +1,15 @@
+{
+    "Name": "BIGEMAP地图下载器（wine）",
+    "Version": "29.1.4spark0",
+    "Filename": "com.bigemap.spark_29.1.4spark0_i386.deb",
+    "Pkgname": "com.bigemap.spark",
+    "Author": "成都比格图数据处理有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.bigemap.com/",
+    "Update": "2021-01-11 11:33:07",
+    "Size": "41.78 MB",
+    "More": "BIGEMAP地图下载器是一套集地图下载、地图浏览、数据编辑为一体的地理信息系统软件。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/11/9273f790-53bd-11eb-a1fc-f7429f39f38a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/11/96bdfd50-53bd-11eb-a1fc-f7429f39f38a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/11/9bec4890-53bd-11eb-a1fc-f7429f39f38a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/11/8e66acb0-53bd-11eb-a1fc-f7429f39f38a.png"
+}

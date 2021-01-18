@@ -1,0 +1,15 @@
+{
+    "Name": "PyCharm社区版",
+    "Version": "2020.2.3",
+    "Filename": "pycharm-community-spark_2020.2.3_all.deb",
+    "Pkgname": "pycharm-community-spark",
+    "Author": "JetBrains",
+    "Contributor": "FunnyAWM",
+    "Website": "gitee.com/bilibili_FunnyAWM",
+    "Update": "2020-10-18 02:30:34",
+    "Size": "297.28 MB",
+    "More": "PyCharm社区版，全新打包 by FunnyAWM",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/18/617034e0-10e9-11eb-b12c-079bb96aa4ea.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/18/62128f60-10e9-11eb-b12c-079bb96aa4ea.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/18/0d01fab0-10e9-11eb-b12c-079bb96aa4ea.png"
+}

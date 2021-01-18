@@ -1,0 +1,15 @@
+{
+    "Name": "深度云扫描",
+    "Version": "1.2+spark0",
+    "Filename": "deepin-cloud-scanner_1.2spark0_amd64.deb",
+    "Pkgname": "deepin-cloud-scanner",
+    "Author": "The Deepin Team",
+    "Contributor": "shenmo",
+    "Website": "https://www.deepin.org/original/deepin-cloud-scan/",
+    "Update": "2020-11-23 09:35:22",
+    "Size": "370.01 KB",
+    "More": "深度云打印 请使用dpkg安装 请使用dpkg安装 请使用dpkg安装",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/300a6720-2d6f-11eb-aeb5-63f1705cc5a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/3010a8b0-2d6f-11eb-aeb5-63f1705cc5a0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/1cea0290-2d6f-11eb-aeb5-63f1705cc5a0.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "IAuto",
+    "Version": "3.1.2",
+    "Filename": "Iauto_3.1.2_amd64.deb",
+    "Pkgname": "iauto",
+    "Author": "武汉智优图科技有限责任公司",
+    "Contributor": "sgb76",
+    "Website": "暂无",
+    "Update": "2020-12-31 04:05:34",
+    "Size": "60.99 MB",
+    "More": "Iauto可视化流程绘制软件，支持画线框图，各种业务流程图，思维节点图，网络架构图，BPMN图，UML图以及工艺流程图！适用于各个行业，支持离线存储",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/31/397229d0-4b1d-11eb-8046-6510a700017f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/31/3ef090e0-4b1d-11eb-8046-6510a700017f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/31/2c229210-4b1d-11eb-8046-6510a700017f.png"
+}

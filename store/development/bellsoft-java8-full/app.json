@@ -1,0 +1,15 @@
+{
+    "Name": "Liberica JDK 8 Full",
+    "Version": "1.8.0.262+10",
+    "Filename": "bellsoft-jdk8u262_plus_10-linux-amd64-full.deb",
+    "Pkgname": "bellsoft-java8-full",
+    "Author": "Bellsoft",
+    "Contributor": "deltacatxx",
+    "Website": "https://bell-sw.com/",
+    "Update": "2020-10-13 10:22:46",
+    "Size": "108.5 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/13/b9a354e0-0d3c-11eb-8a7f-d90168731543.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/13/bb7f40d0-0d3c-11eb-8a7f-d90168731543.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/13/65cf2d40-0d3b-11eb-8a7f-d90168731543.svg"
+}

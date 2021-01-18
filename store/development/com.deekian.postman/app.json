@@ -1,0 +1,15 @@
+{
+    "Name": "Postman",
+    "Version": "7.33.1",
+    "Filename": "postman7.deb",
+    "Pkgname": "com.deekian.postman",
+    "Author": "postman",
+    "Contributor": "adinlead",
+    "Website": "https://www.postman.com/",
+    "Update": "2020-10-22 11:42:56",
+    "Size": "72.84 MB",
+    "More": "网络/接口测试神器",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/22/88a6bbe0-145b-11eb-951d-ed23401a1be2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/22/88c78a50-145b-11eb-951d-ed23401a1be2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/22/88efd2d0-145b-11eb-951d-ed23401a1be2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/22/890f8fd0-145b-11eb-951d-ed23401a1be2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/22/813a4070-145b-11eb-951d-ed23401a1be2.svg"
+}

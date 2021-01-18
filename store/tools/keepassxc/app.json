@@ -1,0 +1,15 @@
+{
+    "Name": "KeePassXC",
+    "Version": "2.6.1+dfsg.1-1",
+    "Filename": "keepassxc_2.6.1_plus_dfsg.1-1_amd64.deb",
+    "Pkgname": "keepassxc",
+    "Author": "KeePassXC 团队",
+    "Contributor": "咸粽子",
+    "Website": "https://keepassxc.org/",
+    "Update": "2020-09-18 08:27:32",
+    "Size": "4.79 MB",
+    "More": "KeePass 密码管理器的一个分支，支持网站自动填充和Freedesktop.org密钥服务，自带密码生成器。",
+    "tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/18/808fd600-f988-11ea-9433-5f813e49cebb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/18/80926e10-f988-11ea-9433-5f813e49cebb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/18/27e68a30-f988-11ea-9433-5f813e49cebb.svg"
+}

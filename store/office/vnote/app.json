@@ -1,0 +1,15 @@
+{
+    "Name": "VNote",
+    "Version": "2.10",
+    "Filename": "vnote_2.10_a2d_amd64.deb",
+    "Pkgname": "vnote",
+    "Author": "tamlok",
+    "Contributor": "xingjiapeng",
+    "Website": "https://tamlok.gitee.io/vnote/zh_cn/",
+    "Update": "2020-09-13 08:27:23",
+    "Size": "78.19 MB",
+    "More": "VNote - 一个更懂程序员和Markdown的笔记",
+    "tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/13/cf424c90-f557-11ea-806b-edd5ab484cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/13/d1a0d600-f557-11ea-806b-edd5ab484cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/13/d367da60-f557-11ea-806b-edd5ab484cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/13/d7e80b50-f557-11ea-806b-edd5ab484cb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/13/dca8eec0-f557-11ea-806b-edd5ab484cb0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/13/c64baeb0-f557-11ea-806b-edd5ab484cb0.png"
+}

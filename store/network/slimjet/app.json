@@ -1,0 +1,15 @@
+{
+    "Name": "風之影瀏覽器",
+    "Version": "28.0.3.0",
+    "Filename": "slimjet_28.0.3.0_amd64.deb",
+    "Pkgname": "slimjet",
+    "Author": "FlashPeak Inc.",
+    "Contributor": "Windsejuk",
+    "Website": "https://www.slimjet.com/",
+    "Update": "2020-11-08 05:11:58",
+    "Size": "63.61 MB",
+    "More": "Blink引擎，官方deb安裝包。高速下載管理器（1到12線程）、截取當前頁面存爲視頻、截圖、下載“你管”視頻。",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/4903b790-2176-11eb-b046-b1a1bb2b72d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/aeabe310-2176-11eb-b046-b1a1bb2b72d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/ebe28920-217e-11eb-b046-b1a1bb2b72d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/05a86fa0-217f-11eb-b046-b1a1bb2b72d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/08/133e3820-217f-11eb-b046-b1a1bb2b72d6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/08/365e9d80-2176-11eb-b046-b1a1bb2b72d6.png"
+}

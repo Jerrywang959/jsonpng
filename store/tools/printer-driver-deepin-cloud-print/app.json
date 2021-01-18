@@ -1,0 +1,15 @@
+{
+    "Name": "深度云打印配置助手",
+    "Version": "1.2.5.2+spark1",
+    "Filename": "printer-driver-deepin-cloud-print_1.2.5.2_plus_spark1_amd64.deb",
+    "Pkgname": "printer-driver-deepin-cloud-print",
+    "Author": "Deepin",
+    "Contributor": "shenmo",
+    "Website": "https://www.deepin.org/original/deepin-cloud-print/",
+    "Update": "2020-11-03 05:09:58",
+    "Size": "297.57 KB",
+    "More": "深度云打印是由深度科技团队开发的一种新型打印解决方案，它可以将您的打印机连接到网络，借助深度云打印，您可以通过日常使用的应用程序进行网络打印。同时深度云打印适用于台式机、笔记本电脑、部分平板电脑以及其他所有您已授权打印的联网设备。\\n请使用dpkg方式安装\\n请使用dpkg方式安装\\n请使用dpkg方式安装",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/cc8a79b0-1d92-11eb-9764-4d1acd76fd3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/cd0e76c0-1d92-11eb-9764-4d1acd76fd3d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/cae02510-1d92-11eb-9764-4d1acd76fd3d.png"
+}

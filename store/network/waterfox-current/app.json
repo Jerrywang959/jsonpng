@@ -1,0 +1,15 @@
+{
+    "Name": "水狐-現行版",
+    "Version": "2020.10",
+    "Filename": "waterfox-current_2020.10_amd64.deb",
+    "Pkgname": "waterfox-current",
+    "Author": "Waterfox Ltd.",
+    "Contributor": "Windsejuk",
+    "Website": "https://waterfox.net/",
+    "Update": "2020-11-06 06:26:18",
+    "Size": "45.51 MB",
+    "More": "水狐瀏覽器基於Gecko，有現行版和經典版。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/ed66fbd0-1ff5-11eb-ae6c-372bdf4498f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/f249bf20-1ff5-11eb-ae6c-372bdf4498f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/fa67d750-1ff5-11eb-ae6c-372bdf4498f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/00bf1230-1ff6-11eb-ae6c-372bdf4498f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/19773230-1ff6-11eb-ae6c-372bdf4498f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/06/e4991ba0-1ff5-11eb-ae6c-372bdf4498f7.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "网易云音乐",
+    "Version": "1.2.1",
+    "Filename": "netease-cloud-music_1.2.1_amd64_ubuntu_20190428.deb",
+    "Pkgname": "netease-cloud-music",
+    "Author": "网易",
+    "Contributor": "jerrywang",
+    "Website": "https://music.163.com/",
+    "Update": "2020-10-16 15:47:23",
+    "Size": "99.66 MB",
+    "More": "网易云音乐官方Linux客户端",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/16/c4c777c0-0fc6-11eb-9676-6de1389aeef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/16/c4c2bcd0-0fc6-11eb-9676-6de1389aeef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/16/c4e6bf90-0fc6-11eb-9676-6de1389aeef0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/16/5f3b5fc0-0fc6-11eb-9676-6de1389aeef0.svg"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "QQ音乐（wine）",
+    "Version": "17.82spark0",
+    "Filename": "com.qq.y.spark_17.82spark0_i386.deb",
+    "Pkgname": "com.qq.y.spark",
+    "Author": "gorquan & Deepin",
+    "Contributor": "zty199",
+    "Website": "https://github.com/gorquan/QQMusic",
+    "Update": "2020-11-16 14:12:00",
+    "Size": "87.81 MB",
+    "More": "Tencent QQMusic Client on Deepin Wine 5.\\\\n原始容器来自 gorquan 大佬，后模仿官方商店版本打包，解决 MV 播放引起的崩溃问题。\\\\n相比于官方商店版本去除了独立的 deepin-wine5 运行环境，支持容器内直接升级。\\\\nP.S. 应该是最后一次更新了，推荐使用官方商店版本或者 qqmusic for linux 原生版。仅供尝鲜娱乐。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/16/93c2e620-2815-11eb-99cf-3bc78e6521cb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/16/953ab910-2815-11eb-99cf-3bc78e6521cb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/16/9033f300-2815-11eb-99cf-3bc78e6521cb.png"
+}

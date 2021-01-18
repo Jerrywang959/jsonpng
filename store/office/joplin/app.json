@@ -1,0 +1,15 @@
+{
+    "Name": "Joplin",
+    "Version": "1.0.245",
+    "Filename": "joplin_1.0.245_a2d_amd64.deb",
+    "Pkgname": "joplin",
+    "Author": "laurent22",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/laurent22/joplin",
+    "Update": "2020-09-15 14:22:13",
+    "Size": "116.31 MB",
+    "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容的Windows, macOS, Linux, Android和iOS。",
+    "tags": "community;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/15/b6696b50-f75e-11ea-a87e-25b3d26dd30f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/15/8b0b9500-f75e-11ea-a87e-25b3d26dd30f.png"
+}

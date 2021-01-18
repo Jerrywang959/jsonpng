@@ -1,0 +1,15 @@
+{
+    "Name": "McMuse图标主题",
+    "Version": "1.0",
+    "Filename": "mcmuse-icons_1.0_amd64.deb",
+    "Pkgname": "McMuse-icons",
+    "Author": "yeyushengfan258",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/yeyushengfan258/McMuse-icon-theme",
+    "Update": "2020-09-05 19:33:42",
+    "Size": "3.21 MB",
+    "More": "一套多彩的仿MAC OS图标主题。换一套图标、换一个心情",
+    "tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/05/9453cb00-ef6b-11ea-b573-776f101a114d.update\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/05/68401230-ef6b-11ea-b573-776f101a114d.update"
+}

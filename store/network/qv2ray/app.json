@@ -1,0 +1,12 @@
+{
+   "Name":"Qv2ray",
+   "Version":"2.6.3-1stable2",
+   "Filename":"qv2ray_2.6.3-1stable2_amd64.deb",
+   "Pkgname":"qv2ray",
+   "Author":"Qv2ray Workgroup",
+   "Contributor":"zty199",
+   "Website":"https://qv2ray.net/",
+   "Update":"2020-08-24 22:00",
+   "Size":"1.78MB",
+   "More":"Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 SSR / Trojan / Trojan-Go / NaiveProxy | 使用 C++ / Qt5 开发 | 可拓展插件式设计"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "华宇拼音输入法",
+    "Version": "2.3.1.21",
+    "Filename": "com.thunisoft.input.spark_2.3.1.21_amd64.deb",
+    "Pkgname": "com.thunisoft.input.spark",
+    "Author": "thunisoft.com",
+    "Contributor": "jerrywang",
+    "Website": "https://pinyin.thunisoft.com/",
+    "Update": "2020-11-10 09:32:30",
+    "Size": "32.61 MB",
+    "More": "华宇拼音输入法, 基于fctix框架. 从Deepin仓库翻来的, 修改了打包, 适配了Ubuntu20.04. 安装后需要注销重启以生效",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/10/9a5cab70-2337-11eb-b0fe-7b7df11f9763.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/10/9c4c1f60-2337-11eb-b0fe-7b7df11f9763.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/10/7f495d60-2337-11eb-b0fe-7b7df11f9763.png"
+}

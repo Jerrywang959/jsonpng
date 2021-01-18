@@ -1,0 +1,15 @@
+{
+    "Name": "迅雷X（wine）",
+    "Version": "10deepin0",
+    "Filename": "cn.thunderx.gleaf.deepin.deb",
+    "Pkgname": "cn.thunderx.gleaf.deepin",
+    "Author": "xunlei",
+    "Contributor": "zkqgxlbjx",
+    "Website": "无",
+    "Update": "2020-09-12 09:09:42",
+    "Size": "265.08 MB",
+    "More": "简化版迅雷X下载工具",
+    "tags": "deepin;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/11/06cc7000-f44a-11ea-b360-8124d2fc1d06.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/11/00a93d70-f44a-11ea-b360-8124d2fc1d06.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "nteract",
+    "Version": "0.25.0",
+    "Filename": "nteract_0.25.0_amd64.deb",
+    "Pkgname": "nteract",
+    "Author": "nteract",
+    "Contributor": "jerrywang",
+    "Website": "https://nteract.io",
+    "Update": "2020-09-05 10:37:38",
+    "Size": "64 MB",
+    "More": "jupyter的桌面客户端,数据科学必备.此软件依赖于后端的 jupyter服务",
+    "tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/05/ac9fb0c0-ef20-11ea-983c-8d054728a013.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/05/94774da0-ef20-11ea-983c-8d054728a013.png"
+}

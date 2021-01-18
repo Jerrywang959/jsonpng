@@ -1,0 +1,15 @@
+{
+    "Name": "Ventoy安装器",
+    "Version": "1.0.1-1",
+    "Filename": "deepin-ventoy-installer-1.0.1-1.deb",
+    "Pkgname": "deepin-ventoy-installer",
+    "Author": "RigoLigo",
+    "Contributor": "RigoLigo",
+    "Website": "https://github.com/RigoLigoRLC/deepin-ventoy-installer",
+    "Update": "2020-12-20 17:16:34",
+    "Size": "222.36 KB",
+    "More": "专为Deepin设计的Ventoy安装器前端，一拖一放，简单设置，即可免去命令行操作的不便为你的U盘安装或升级Ventoy。\n\n注意：Shift拖放可忽略检查，如果Ventoy解压后无法识别，可以使用这种方法绕过检查。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/20/08cd1a30-42e7-11eb-8f33-ab7330ea0c51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/20/08d02770-42e7-11eb-8f33-ab7330ea0c51.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/20/fe48fe80-42e6-11eb-8f33-ab7330ea0c51.png"
+}

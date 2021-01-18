@@ -1,0 +1,15 @@
+{
+    "Name": "深度便签本",
+    "Version": "0.0.4+spark2",
+    "Filename": "dtkstickynotes_0.0.4_plus_spark2_amd64.deb",
+    "Pkgname": "dtkstickynotes",
+    "Author": "RubbishZhYic",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/ZhongYic00/DTKstickyNotes/",
+    "Update": "2020-10-12 09:36:27",
+    "Size": "274.49 KB",
+    "More": "基于dtk开发的一款便签软件。具有集中式便签管理器、托盘组件与独立式便笺窗口，支持富文本编辑与粘贴，支持插入本地图片并自动缩放，支持搜索内容文本，特性众多，UI契合DDE",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/605aee80-0c6e-11eb-945e-35b98d284b93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/60818950-0c6e-11eb-945e-35b98d284b93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/609363a0-0c6e-11eb-945e-35b98d284b93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/608c37b0-0c6e-11eb-945e-35b98d284b93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/609a6880-0c6e-11eb-945e-35b98d284b93.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/12/59d3a2f0-0c6e-11eb-945e-35b98d284b93.png"
+}

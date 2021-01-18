@@ -1,0 +1,15 @@
+{
+    "Name": "NoteExpress（wine）",
+    "Version": "3.3.0.8102+1spark1",
+    "Filename": "com.noteexpress.spark_3.3.0.8102_plus_1spark1_i386.deb",
+    "Pkgname": "com.noteexpress.spark",
+    "Author": "北京爱琴海乐之技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.inoteexpress.com/aegean/",
+    "Update": "2020-11-15 08:19:28",
+    "Size": "88.22 MB",
+    "More": "一款优秀的国产参考文献管理工具。由于是wine版本，不保证所有功能都能正常使用，仅供尝鲜试用。已知问题：点击工具栏“数据分析”会造成程序出错退出",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/15/fc745f10-271a-11eb-92a0-4f611b6fbc7f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/15/008fdac0-271b-11eb-92a0-4f611b6fbc7f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/15/046fd410-271b-11eb-92a0-4f611b6fbc7f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/15/f973f050-271a-11eb-92a0-4f611b6fbc7f.png"
+}

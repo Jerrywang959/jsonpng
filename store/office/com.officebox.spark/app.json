@@ -1,0 +1,15 @@
+{
+    "Name": "万彩办公大师（wine）",
+    "Version": "3.0.8.spark1",
+    "Filename": "com.officebox.spark_3.0.8.spark1_i386.deb",
+    "Pkgname": "com.officebox.spark",
+    "Author": "广州万彩信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.wofficebox.com/",
+    "Update": "2020-12-10 06:52:43",
+    "Size": "29.76 MB",
+    "More": "万彩办公大师是一款办公必备的小工具百宝箱。软件里集合了60+个小工具，一个软件即可搞定90%的工作需求。由于是wine打包，不能保证所有工具都可以正常使用，仅供尝鲜。此次升级修复的问题：\n1.修复了deepin升级到1003后，软件打开调用系统文管无法获取文件正常路径的问题\n2.修复了部分界面出现字体方框的问题\n3.对部分打包细节作了调整优化",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/10/d5ce82d0-3ab3-11eb-a4e2-b382792bed98.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/10/dcf20e60-3ab3-11eb-a4e2-b382792bed98.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/10/d0b26000-3ab3-11eb-a4e2-b382792bed98.png"
+}

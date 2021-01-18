@@ -1,0 +1,15 @@
+{
+    "Name": "雷鸟邮件（最新版）",
+    "Version": "78.4.3",
+    "Filename": "thunderbird.spark_78.4.3_amd64.deb",
+    "Pkgname": "thunderbird.spark",
+    "Author": "thunderbird",
+    "Contributor": "jerrywang",
+    "Website": "https://www.thunderbird.net",
+    "Update": "2020-11-17 15:30:33",
+    "Size": "49.69 MB",
+    "More": "Thunderbird 是一款免费的电子邮件应用程序，配置简单，定制自由——还附有强大功能！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/c76295f0-28e9-11eb-ab93-1ffbc58afee4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/cfed0480-28e9-11eb-ab93-1ffbc58afee4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/17/5183df60-28e9-11eb-ab93-1ffbc58afee4.png"
+}

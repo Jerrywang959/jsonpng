@@ -1,0 +1,15 @@
+{
+    "Name": "myBase Desktop",
+    "Version": "7.3.5",
+    "Filename": "mybase-desktop_7.3.5_amd64.deb",
+    "Pkgname": "mybase-desktop",
+    "Author": "Wjj Software",
+    "Contributor": "sgb76",
+    "Website": "http://www.wjjsoft.com/mybase_cn.html",
+    "Update": "2020-10-05 08:33:55",
+    "Size": "14.74 MB",
+    "More": "myBase Desktop 是一款用于分类存储管理任意格式资料的小型个人数据库软件， 有助于个人用户在（Linux/MacOSX/Windows）桌面电脑系统上实施文档、知识、笔记、日记、图片和网页的分类存储和管理。 借助软件提供的各项功能，创建和维护一个专属于自己的个人知识库将变的相对简单快捷。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/05/5772a260-06e5-11eb-8c1f-d9b91156e5ef.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/05/5d451ce0-06e5-11eb-8c1f-d9b91156e5ef.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/05/602420f0-06e5-11eb-8c1f-d9b91156e5ef.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/05/4fa59060-06e5-11eb-8c1f-d9b91156e5ef.png"
+}

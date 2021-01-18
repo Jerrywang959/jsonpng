@@ -1,0 +1,15 @@
+{
+    "Name": "深度邮箱",
+    "Version": "5.1.0.45-1",
+    "Filename": "deepin-mail_5.1.0.45-1_amd64.deb",
+    "Pkgname": "deepin-mail",
+    "Author": "deepin",
+    "Contributor": "ziggy(appj)",
+    "Website": "https://www.deepin.org/zh/",
+    "Update": "2020-10-03 10:28:23",
+    "Size": "1.87 MB",
+    "More": "官方最新版本的deepin邮箱",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/1cedcda0-0563-11eb-96b3-539058fcf0da.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/03/c19874a0-0562-11eb-96b3-539058fcf0da.desktop"
+}

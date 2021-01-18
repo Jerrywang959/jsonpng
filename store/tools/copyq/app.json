@@ -1,0 +1,15 @@
+{
+    "Name": "CopyQ",
+    "Version": "3.12.0-1",
+    "Filename": "copyq_3.12.0_amd64.deb",
+    "Pkgname": "copyq",
+    "Author": "hluk",
+    "Contributor": "咸粽子",
+    "Website": "https://hluk.github.io/CopyQ/",
+    "Update": "2020-10-09 06:35:11",
+    "Size": "1.69 MB",
+    "More": "CopyQ 是具有编辑和脚本功能的高级剪贴板管理器。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/56491970-09f9-11eb-a2ff-494e908702ee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/564b6360-09f9-11eb-a2ff-494e908702ee.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/ef999010-09f8-11eb-a2ff-494e908702ee.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "Liberica JDK 11 Full",
+    "Version": "11.0.8+10",
+    "Filename": "bellsoft-jdk11.0.8_plus_10-linux-amd64-full.deb",
+    "Pkgname": "bellsoft-java11-full",
+    "Author": "BellSoft ",
+    "Contributor": "deltacatxx",
+    "Website": "https://bell-sw.com/",
+    "Update": "2020-10-13 10:35:07",
+    "Size": "242.88 MB",
+    "More": "Liberica JDK 是由 BellSoft 开发的一个 OpenJDK 发行版。Full 版本继承了 JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/13/991d9bc0-0d3e-11eb-8a7f-d90168731543.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/13/9b5feaa0-0d3e-11eb-8a7f-d90168731543.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/13/95c0b520-0d3e-11eb-8a7f-d90168731543.svg"
+}

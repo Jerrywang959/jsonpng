@@ -1,0 +1,15 @@
+{
+    "Name": "Popcorn-Time",
+    "Version": "0.4.4",
+    "Filename": "popcorn-time-0.4.4-amd64.deb",
+    "Pkgname": "popcorn-time",
+    "Author": "Popcorn Software",
+    "Contributor": "xingjiapeng",
+    "Website": "https://popcorntime.app/",
+    "Update": "2020-09-20 02:17:25",
+    "Size": "94.71 MB",
+    "More": "一款可以让用户更好的下载观看 BT 影片的开源软件。",
+    "tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/20/ffb6e5e0-fae6-11ea-9837-89877bec4d2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/20/ffd56a60-fae6-11ea-9837-89877bec4d2e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/20/ae03a270-fae5-11ea-9837-89877bec4d2e.png"
+}

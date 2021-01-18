@@ -1,0 +1,15 @@
+{
+    "Name": "VOFA+上位机",
+    "Version": "1.0.alpha.3",
+    "Filename": "vofa_plus__1.0.alpha.3_amd64.deb",
+    "Pkgname": "vofa+",
+    "Author": "je00",
+    "Contributor": "je00",
+    "Website": "https://gitee.com/je0000",
+    "Update": "2020-12-21 15:36:19",
+    "Size": "20.97 MB",
+    "More": "VOFA+在传统串口、网络调试助手的基础上，加入了数据解析与分析，树状命令管理，动态添加控件、以实现数据可视化和命令图形化绑定发送的功能，协议、控件均使用插件化设计，软件有很高的可拓展性。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/21/fef7cb20-43a1-11eb-84cb-3b248e18f193.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/21/feffba60-43a1-11eb-84cb-3b248e18f193.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/21/ffa54930-43a1-11eb-84cb-3b248e18f193.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/21/ffb06cc0-43a1-11eb-84cb-3b248e18f193.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/21/ffab63b0-43a1-11eb-84cb-3b248e18f193.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/21/f1ef9ca0-43a1-11eb-84cb-3b248e18f193.png"
+}

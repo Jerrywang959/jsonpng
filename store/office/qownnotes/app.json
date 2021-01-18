@@ -1,0 +1,15 @@
+{
+    "Name": "QOwnNotes",
+    "Version": "20.9.11-1",
+    "Filename": "qownnotes_20.9.11-1_amd64.deb",
+    "Pkgname": "qownnotes",
+    "Author": "Patrizio Bekerle",
+    "Contributor": "sgb76",
+    "Website": "https://www.qownnotes.org/",
+    "Update": "2020-09-25 14:50:32",
+    "Size": "3.82 MB",
+    "More": "QOwnNotes是一款支持Markdown和ownCloud同步的文本编辑器。可以对文本添加注释，支持文字和字符串搜索，搜索结果高亮显示，可以对文件进行加密。笔记和ownCloud服务器同步，可以从ownCloud服务器恢复旧版本和已删除版本。",
+    "tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/25/25e325c0-ff3e-11ea-8e50-05bdd3fcef0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/25/31b67dc0-ff3e-11ea-8e50-05bdd3fcef0b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/25/1eeff900-ff3e-11ea-8e50-05bdd3fcef0b.png"
+}

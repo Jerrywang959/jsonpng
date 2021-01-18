@@ -1,0 +1,15 @@
+{
+    "Name": "桌面快捷方式编辑器",
+    "Version": "1.4.1~uos",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.1~uos_amd64.deb",
+    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+    "Author": "linuxdeepin & zty199",
+    "Contributor": "zty199",
+    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+    "Update": "2020-12-04 07:48:32",
+    "Size": "20.98 MB",
+    "More": "桌面快捷方式编辑器，支持 新建 / 保存 / 另存为 桌面快捷方式文件等操作。修复了 1.4 版本中选择分类信息后焦点还在下拉框，导致键盘快捷键失效的问题。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/04/b793add0-3604-11eb-bdce-93eaf8987d3f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/04/b9e4f0d0-3604-11eb-bdce-93eaf8987d3f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/04/bc87d640-3604-11eb-bdce-93eaf8987d3f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/04/b4d50300-3604-11eb-bdce-93eaf8987d3f.png"
+}

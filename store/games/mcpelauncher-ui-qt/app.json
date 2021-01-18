@@ -1,0 +1,15 @@
+{
+    "Name": "《我的世界》基岩版启动器",
+    "Version": "0.0.540+matrixfeather1",
+    "Filename": "mcpelauncher-ui-qt_0.0.540_plus_matrixfeather1_amd64.deb",
+    "Pkgname": "mcpelauncher-ui-qt",
+    "Author": "minecraft-linux",
+    "Contributor": "matrix-feather",
+    "Website": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+    "Update": "2020-09-14 08:21:29",
+    "Size": "94.8 MB",
+    "More": "在linux平台上玩《我的世界》基岩版（暂时与1.16.20不兼容）",
+    "tags": "deepin;ubuntu;a2d;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/bdd14d60-f662-11ea-ac2a-7f254f342feb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/bde9de70-f662-11ea-ac2a-7f254f342feb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/be03cf10-f662-11ea-ac2a-7f254f342feb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/be6046f0-f662-11ea-ac2a-7f254f342feb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/14/a88444d0-f662-11ea-ac2a-7f254f342feb.png"
+}

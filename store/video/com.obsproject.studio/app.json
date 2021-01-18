@@ -1,0 +1,15 @@
+{
+    "Name": "OBS Studio",
+    "Version": "26.0.2-40-gc16517ca",
+    "Filename": "com.obsproject.studio_26.0.2-40-gc16517ca_all.deb",
+    "Pkgname": "com.obsproject.studio",
+    "Author": "OBSProject",
+    "Contributor": "8Mi_Yile",
+    "Website": "https://obsproject.com",
+    "Update": "2020-10-29 15:58:05",
+    "Size": "55.67 MB",
+    "More": "OBS Studio是一款开源自由的视频录制与直播软件",
+    "Tags": "ubuntu;community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/29/2b74c580-19ff-11eb-88df-b9e68eaa9412.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/29/2b94a990-19ff-11eb-88df-b9e68eaa9412.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/29/2bb61440-19ff-11eb-88df-b9e68eaa9412.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/29/2bd64670-19ff-11eb-88df-b9e68eaa9412.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/29/2bf5b550-19ff-11eb-88df-b9e68eaa9412.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/29/27def490-19ff-11eb-88df-b9e68eaa9412.png"
+}

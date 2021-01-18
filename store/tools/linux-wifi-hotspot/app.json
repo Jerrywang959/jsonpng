@@ -1,0 +1,15 @@
+{
+    "Name": "虚拟WIFI热点",
+    "Version": "3.5.1",
+    "Filename": "linux-wifi-hotspot_3.5.1_amd64.deb",
+    "Pkgname": "linux-wifi-hotspot",
+    "Author": "Lakindu Akash",
+    "Contributor": "Lakindu Akash",
+    "Website": "https://github.com/lakinduakash/linux-wifi-hotspot",
+    "Update": "2020-12-04 09:55:52",
+    "Size": "31.47 KB",
+    "More": "功能丰富的虚拟wifi热点创建工具，适用于Linux，同时提供GUI和命令行界面。 它能够使用已连接wifi网络的同一块无线网卡虚拟出一块无线网卡，然后创建一个新的虚拟wifi热点（类似于Windows 10可实现的功能，或者类似猎豹虚拟wifi软件工具）。",
+    "Tags": "community;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/04/c652d5f0-3616-11eb-974b-d7b0d94bfb3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/04/cbdb9d40-3616-11eb-974b-d7b0d94bfb3b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/04/c0bdd9a0-3616-11eb-974b-d7b0d94bfb3b.png"
+}

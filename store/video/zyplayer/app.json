@@ -1,0 +1,15 @@
+{
+    "Name": "资源播放器",
+    "Version": "2.7.0",
+    "Filename": "zyplayer_2.7.0_amd64.deb",
+    "Pkgname": "zyplayer",
+    "Author": "Hunlongyu",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/Hunlongyu/ZY-Player/releases",
+    "Update": "2020-12-26 14:15:28",
+    "Size": "57.31 MB",
+    "More": "新增\n\n搜索可停止，注意搜索运行时搜索按钮会有所变化\n收藏历史列表模式下支持批量删除，支持shift快捷键\n升级更新时可查看新版日志及进度提示\n快捷键可重置\n优化调整\n\n搜索亦支持使用工具栏，工具栏收起时会重置过滤排序\n更完善的提示，可能存疑的命令按钮搜索框添加了提示，将鼠标悬浮其上可看到提示\n播放器未加载内容时，播放器正中的播放按钮可用，点击会自动播放最近记录或最近频道\n频道列表可以像换源一样不必按X按钮，点击弹窗外播放器下方菜单空白处会自动隐藏\n快捷键指南不再杂乱无序\n修复\n\n分组选择“站内”时，切换站点搜索可用\n精简模式下切换内容时退出图标消失问题\n改动播放器快捷键未及时生效的问题\n部分源站加载图片资源时会因为https错误无法加载，需要忽略证书错误\n\n注意：本次更新会自动重置快捷键",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/857318e0-4784-11eb-b6c3-1357392d09e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/856adb80-4784-11eb-b6c3-1357392d09e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/858456f0-4784-11eb-b6c3-1357392d09e0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/26/7b8040b0-4784-11eb-b6c3-1357392d09e0.png"
+}

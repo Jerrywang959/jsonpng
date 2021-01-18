@@ -1,0 +1,15 @@
+{
+    "Name": "Ciano",
+    "Version": "0.2.4",
+    "Filename": "ciano.spark_0.2.4_amd64.deb",
+    "Pkgname": "ciano.spark",
+    "Author": "robertsanseries",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/robertsanseries/ciano",
+    "Update": "2020-09-18 07:27:28",
+    "Size": "253.37 KB",
+    "More": "一个注重简单性的多媒体文件转换器",
+    "tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/18/5502fa10-f980-11ea-8a76-6d79312886cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/18/56013030-f980-11ea-8a76-6d79312886cf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/18/fb11c4f0-f97f-11ea-8a76-6d79312886cf.png"
+}

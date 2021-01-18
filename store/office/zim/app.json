@@ -1,0 +1,15 @@
+{
+    "Name": "Zim 桌面维基",
+    "Version": "0.73.4-1",
+    "Filename": "zim_0.73.4-1_all.deb",
+    "Pkgname": "zim",
+    "Author": "zim-wiki 团队",
+    "Contributor": "sgb76",
+    "Website": "https://zim-wiki.org/",
+    "Update": "2021-01-10 20:13:46",
+    "Size": "1.08 MB",
+    "More": "Zim是一款用于维护Wiki页面集合的图形文本编辑器。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/10/3378b030-533d-11eb-bcf2-2b39aa730f42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/10/3783b120-533d-11eb-bcf2-2b39aa730f42.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/10/2b054c10-533d-11eb-bcf2-2b39aa730f42.png"
+}

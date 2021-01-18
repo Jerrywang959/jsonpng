@@ -1,0 +1,15 @@
+{
+    "Name": "微信",
+    "Version": "2.0.0-2+1",
+    "Filename": "wechat-linux-spark_2.0.0-2_plus_1_amd64.deb",
+    "Pkgname": "wechat-linux-spark",
+    "Author": "热心的打包者们",
+    "Contributor": "SamLukeYes",
+    "Website": "https://aur.archlinux.org/packages/wechat-uos",
+    "Update": "2021-01-02 13:30:00",
+    "Size": "33.77 MB",
+    "More": "UOS 版微信，参考 AUR 上的打包方法使其可以在其他 Debian 系发行版上运行",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/6d7af170-4cfe-11eb-9f0d-21551717c788.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/74e43890-4cfe-11eb-9f0d-21551717c788.png"
+}

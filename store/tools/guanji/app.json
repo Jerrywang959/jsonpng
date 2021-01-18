@@ -1,0 +1,15 @@
+{
+    "Name": "关机",
+    "Version": "1.5",
+    "Filename": "GuanJi.deb",
+    "Pkgname": "guanji",
+    "Author": "liu",
+    "Contributor": "liu",
+    "Website": "gitlab.com/1314",
+    "Update": "2020-10-04 02:51:11",
+    "Size": "27.31 MB",
+    "More": "关机小程序",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/04/5d44c1e0-05ec-11eb-a203-31f633cd9568.update\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/04/63b55120-05ec-11eb-a203-31f633cd9568.update\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/04/547c8700-05ec-11eb-a203-31f633cd9568.svg"
+}

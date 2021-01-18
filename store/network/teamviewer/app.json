@@ -1,0 +1,15 @@
+{
+    "Name": "Teamviewer",
+    "Version": "15.12.4",
+    "Filename": "teamviewer_15.12.4_amd64.deb",
+    "Pkgname": "teamviewer",
+    "Author": "teamviewer",
+    "Contributor": "Anysets",
+    "Website": "www.teamviewer.com",
+    "Update": "2020-12-12 02:40:11",
+    "Size": "14 MB",
+    "More": "跨平台的远程协助软件",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/12/4e323fd0-3c23-11eb-ba94-51a320637efd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/12/4c4bf3a0-3c23-11eb-ba94-51a320637efd.png"
+}

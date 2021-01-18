@@ -1,0 +1,15 @@
+{
+    "Name": "typora官方最新版",
+    "Version": "0.9.96-1",
+    "Filename": "typora_0.9.96_amd64.deb",
+    "Pkgname": "typora",
+    "Author": "typora",
+    "Contributor": "jerrywang",
+    "Website": "https://typora.io/",
+    "Update": "2020-11-18 05:42:20",
+    "Size": "63.59 MB",
+    "More": "一个被广泛欢迎的简洁的 Markdown编辑器。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/18/bb238ac0-2960-11eb-ba84-ebf7ecc3a7ce.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/18/ab719900-2960-11eb-ba84-ebf7ecc3a7ce.png"
+}

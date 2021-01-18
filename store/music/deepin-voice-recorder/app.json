@@ -1,0 +1,15 @@
+{
+    "Name": "深度录音",
+    "Version": "1.4.2+spark1",
+    "Filename": "deepin-voice-recorder_1.4.2spark1_amd64.deb",
+    "Pkgname": "deepin-voice-recorder",
+    "Author": "The Deepin Team",
+    "Contributor": "shenmo",
+    "Website": "https://www.deepin.org/original/deepin-voice-recorder/",
+    "Update": "2020-11-13 09:33:08",
+    "Size": "384.02 KB",
+    "More": "deepin 20把深度录音取消了，在此加回来，请使用dpkg方式安装，请使用dpkg方式安装，请使用dpkg方式安装，请使用dpkg方式安装",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/13/3736ca90-2593-11eb-aa44-a16d77861c57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/13/37401960-2593-11eb-aa44-a16d77861c57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/13/3771d7c0-2593-11eb-aa44-a16d77861c57.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/13/1e4ff970-2593-11eb-aa44-a16d77861c57.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "Internet Explorer 8 (wine)",
+    "Version": "1.0.1deepin1",
+    "Filename": "ie8_for_deepin.deb",
+    "Pkgname": "deepin.com.ie8",
+    "Author": "lodan",
+    "Contributor": "gfdgd xi",
+    "Website": "https://bbs.deepin.org/post/168562",
+    "Update": "2020-11-07 02:36:16",
+    "Size": "351.99 MB",
+    "More": "在deepin论坛翻到的资源，比较老了",
+    "Tags": "ubuntu;deepin;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/56cc86c0-20a1-11eb-afa7-d55e0b07fd93.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/53afb660-20a1-11eb-afa7-d55e0b07fd93.jpeg"
+}

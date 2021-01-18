@@ -1,0 +1,15 @@
+{
+    "Name": "闪电下载（wine）",
+    "Version": "1.4.7.0spark0",
+    "Filename": "com.xiaokanba.bbs.spark_1.4.7.0spark0_i386.deb",
+    "Pkgname": "com.xiaokanba.bbs.spark",
+    "Author": "未知",
+    "Contributor": "anima",
+    "Website": "http://bbs.xiaokanba.com/",
+    "Update": "2020-09-26 14:55:29",
+    "Size": "44.97 MB",
+    "More": "闪电下载，闪电侠⚡️,支持磁力、种子、电驴、万能下载神器，支持边下边播。（注：deepin-wine5环境下未能实现边下边播）",
+    "tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/26/1ddf1670-0008-11eb-82a7-dd0a64740d3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/26/1e056320-0008-11eb-82a7-dd0a64740d3b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/26/367265d0-0007-11eb-82a7-dd0a64740d3b.png"
+}

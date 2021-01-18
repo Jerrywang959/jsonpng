@@ -1,0 +1,15 @@
+{
+    "Name": "深度输入法",
+    "Version": "2.0.5~spark0",
+    "Filename": "org.deepin.chineseime_2.0.5~spark0_amd64.deb",
+    "Pkgname": "org.deepin.chineseime",
+    "Author": "Deepin IME Team",
+    "Contributor": "shenmo",
+    "Website": "https://www.deepin.org/",
+    "Update": "2020-12-24 01:57:42",
+    "Size": "34.51 MB",
+    "More": "使用讯飞语音引擎的深度输入法，支持语音输入，从UOS提取\nUOS用户请不要在已经安装后再次安装，可能和官方版本有互相覆盖问题",
+    "Tags": "deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/4b442560-458b-11eb-b51c-7b1974db40a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/4af12360-458b-11eb-b51c-7b1974db40a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/4b36def0-458b-11eb-b51c-7b1974db40a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/4b3de3d0-458b-11eb-b51c-7b1974db40a1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/24/5bdccda0-458b-11eb-b51c-7b1974db40a1.png"
+}

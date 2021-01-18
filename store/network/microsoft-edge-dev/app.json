@@ -1,0 +1,15 @@
+{
+    "Name": "微軟前沿（開發版）",
+    "Version": "89.0.731.0-1",
+    "Filename": "microsoft-edge-dev_89.0.731.0-1_amd64.deb",
+    "Pkgname": "microsoft-edge-dev",
+    "Author": "微軟",
+    "Contributor": "Windsejuk",
+    "Website": "https://www.microsoftedgeinsider.com/zh-tw/",
+    "Update": "2020-12-16 11:30:14",
+    "Size": "85.77 MB",
+    "More": "微軟前沿瀏覽器（開發版）Linux操作系統。基於Chromium 89.0.4346.0、Blink引擎、JavaScript V8 8.9.100。官方deb安裝包。",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/16/56286320-3f90-11eb-9f78-7d688c695f61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/16/5d183480-3f90-11eb-9f78-7d688c695f61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/16/61272d10-3f90-11eb-9f78-7d688c695f61.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/16/e15a8050-3f8f-11eb-9f78-7d688c695f61.png"
+}

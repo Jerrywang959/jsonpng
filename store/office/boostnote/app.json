@@ -1,0 +1,15 @@
+{
+    "Name": "boostnote",
+    "Version": "0.16.1-1",
+    "Filename": "boostnote_0.16.1_amd64.deb",
+    "Pkgname": "boostnote",
+    "Author": "BoostIO",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/BoostIO/boost-releases/",
+    "Update": "2020-09-15 22:02:07",
+    "Size": "70.95 MB",
+    "More": "面向开发人员的直观，时尚的markdown笔记应用程序。",
+    "tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/15/f23c8ac0-f75b-11ea-ac21-fd804d8cef84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/15/f26bff30-f75b-11ea-ac21-fd804d8cef84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/15/f2a02e90-f75b-11ea-ac21-fd804d8cef84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/15/f2db3bc0-f75b-11ea-ac21-fd804d8cef84.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/15/f3633070-f75b-11ea-ac21-fd804d8cef84.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/15/d20d40f0-f75b-11ea-ac21-fd804d8cef84.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "人人钢琴（wine）",
+    "Version": "2.3.4.14spark0",
+    "Filename": "com.everyonepiano.spark_2.3.4.14spark0_i386.deb",
+    "Pkgname": "com.everyonepiano.spark",
+    "Author": "艾莱克特（北京）软件有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.everyonepiano.cn/",
+    "Update": "2021-01-10 20:08:23",
+    "Size": "18.97 MB",
+    "More": "EveryonePiano 是一款永久免费的电脑键盘钢琴模拟软件，它可以使用普通的电脑键盘演奏出美妙的钢琴曲。同时拥有强大的自带音色库，音色逼真，实时演奏，即使是在板载声卡上也可以实现无延迟演奏，同时还可以模拟钢琴的踏板效果。 \n注意：如果发出的声音有问题，请在软件的设置-选项中尝试调整切换音频输出选项",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/10/6c49a140-533c-11eb-bcf2-2b39aa730f42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/10/708c2cf0-533c-11eb-bcf2-2b39aa730f42.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/10/633fa270-533c-11eb-bcf2-2b39aa730f42.png"
+}

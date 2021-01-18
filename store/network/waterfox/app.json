@@ -1,0 +1,15 @@
+{
+    "Name": "水狐",
+    "Version": "3.0.2",
+    "Filename": "waterfox_3.0.2_all.deb",
+    "Pkgname": "waterfox",
+    "Author": "Waterfox Ltd.",
+    "Contributor": "Windsejuk",
+    "Website": "https://www.waterfox.net/",
+    "Update": "2020-12-18 12:35:44",
+    "Size": "54.3 MB",
+    "More": "水狐網頁瀏覽器基於Gecko 78.6。官網下載.tar.bz2，投遞火星應用商店。引用個人檔案參考https://www.waterfox.net/blog/waterfox-G3.0.2/。deb安裝包備份https://github.com/windsejuk/Waterfox/releases 。",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/684ca7c0-412d-11eb-9c15-6315d2108ee6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/6d94e3a0-412d-11eb-9c15-6315d2108ee6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/18/a7411980-412c-11eb-9c15-6315d2108ee6.png"
+}

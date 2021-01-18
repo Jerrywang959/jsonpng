@@ -1,0 +1,15 @@
+{
+    "Name": "Sans模拟器",
+    "Version": "1.5",
+    "Filename": "c2-sans-fight_1.5_amd64.deb",
+    "Pkgname": "c2-sans-fight",
+    "Author": "Jcw87",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/Jcw87/c2-sans-fight",
+    "Update": "2020-11-25 00:59:16",
+    "Size": "4.43 MB",
+    "More": "Sans模拟器，本地网页版。\\n运行时38326端口会被占用\\n运行时38326端口会被占用\\n运行时38326端口会被占用",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/65fdc750-2eb9-11eb-87d8-d39c5bb910b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/65f71090-2eb9-11eb-87d8-d39c5bb910b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/66031e80-2eb9-11eb-87d8-d39c5bb910b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/66078b50-2eb9-11eb-87d8-d39c5bb910b6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/64292e60-2eb9-11eb-87d8-d39c5bb910b6.png"
+}

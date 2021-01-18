@@ -1,0 +1,15 @@
+{
+    "Name": "听雨小说阅读器",
+    "Version": "1.2.0-1",
+    "Filename": "listera-novelreader_1.2.0-1_amd64.deb",
+    "Pkgname": "listera-novelreader",
+    "Author": "lidanger",
+    "Contributor": "lidanger",
+    "Website": "https://gitee.com/lidanger/listera-novelreader",
+    "Update": "2020-11-21 05:43:58",
+    "Size": "239.04 KB",
+    "More": "听雨小说阅读器是一个 txt 中文小说阅读器，基于 Qt5 和 Dtk5 开发。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/21/6de544c0-2bbc-11eb-a79d-b9dec6d18581.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/21/6dea9bf0-2bbc-11eb-a79d-b9dec6d18581.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/21/6e5c2270-2bbc-11eb-a79d-b9dec6d18581.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/21/6a99ea50-2bbc-11eb-a79d-b9dec6d18581.png"
+}

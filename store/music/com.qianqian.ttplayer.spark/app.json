@@ -1,0 +1,15 @@
+{
+    "Name": "千千静听",
+    "Version": "5.7.9.0spark0",
+    "Filename": "com.qianqian.ttplayer.spark_5.7.9.0spark0_i386.deb",
+    "Pkgname": "com.qianqian.ttplayer.spark",
+    "Author": "lizhipei78，郑南岭",
+    "Contributor": "anima",
+    "Website": "http://ttplayer.qianqian.com/",
+    "Update": "2020-09-14 15:04:36",
+    "Size": "4 MB",
+    "More": "千千静听作为国内最老牌音乐播放软件之一，目前可作为本地播放器，此版本完美彻底去除右侧音乐窗，去歌曲铃铛图标，更新了歌词搜索下载服务器，可搜索下载全网歌词.",
+    "tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/4e775a70-f69b-11ea-af1e-07b55f2cf4ef.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/8dd064f0-f69b-11ea-af1e-07b55f2cf4ef.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/8dae5e00-f69b-11ea-af1e-07b55f2cf4ef.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/14/464481c0-f69b-11ea-af1e-07b55f2cf4ef.png"
+}

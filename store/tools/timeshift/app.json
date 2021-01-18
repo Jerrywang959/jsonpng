@@ -1,0 +1,15 @@
+{
+    "Name": "Timeshift",
+    "Version": "20.11.1",
+    "Filename": "timeshift_20.11.1_amd64.deb",
+    "Pkgname": "timeshift",
+    "Author": "teejee2008",
+    "Contributor": "Anysets",
+    "Website": "https://github.com/teejee2008/timeshift",
+    "Update": "2020-12-12 02:45:58",
+    "Size": "626.59 KB",
+    "More": "Timeshift是一款Linux系统备份恢复工具。通过使用 rsync + 硬链接方式或 BTRFS 快照创建系统备份。支持定时备份，多重备份等级以及过滤文件。备份可以在系统运行时恢复，或者通过Live环境（CD/USB等介质）恢复。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/12/20fc7fc0-3c24-11eb-ba94-51a320637efd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/12/23e98d90-3c24-11eb-ba94-51a320637efd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/12/1f5cd980-3c24-11eb-ba94-51a320637efd.png"
+}

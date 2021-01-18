@@ -1,0 +1,15 @@
+{
+    "Name": "深度看图（旧版）",
+    "Version": "1.3.8-1",
+    "Filename": "deepin-image-viewer-legacy_1.3.8-1_amd64.deb",
+    "Pkgname": "deepin-image-viewer-legacy",
+    "Author": "Deepin",
+    "Contributor": "shenmo",
+    "Website": "https://www.deepin.org/original/deepin-image-viewer/",
+    "Update": "2020-12-09 06:22:03",
+    "Size": "3.7 MB",
+    "More": "旧版深度截图，因为新版有些恼人的bug\n请把新版卸载再安装\n请把新版卸载再安装\n请把新版卸载再安装\n请把新版卸载再安装\n请把新版卸载再安装",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/cc562fb0-39e0-11eb-9ae5-f7d98206edde.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/cc5f3060-39e0-11eb-9ae5-f7d98206edde.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/cc648790-39e0-11eb-9ae5-f7d98206edde.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/09/c02e4f10-39e0-11eb-9ae5-f7d98206edde.png"
+}

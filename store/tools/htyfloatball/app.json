@@ -1,0 +1,15 @@
+{
+    "Name": "海天鹰浮球",
+    "Version": "1.0.0",
+    "Filename": "htyfloatball_1.0.0_amd64.deb",
+    "Pkgname": "htyfloatball",
+    "Author": "海天鹰",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/sonichy",
+    "Update": "2020-10-29 10:24:05",
+    "Size": "29.87 KB",
+    "More": "一个通过桌面浮球、托盘图标显示网速、内存使用情况的小工具",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/29/cac85270-19d0-11eb-b8b3-37b029de4eb6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/29/cfbec4d0-19d0-11eb-b8b3-37b029de4eb6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/29/bc05f0d0-19d0-11eb-b8b3-37b029de4eb6.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "QQ音乐forLinux",
+    "Version": "1.0.4",
+    "Filename": "qqmusic_1.0.4_amd64.deb",
+    "Pkgname": "qqmusic",
+    "Author": "Tencent",
+    "Contributor": "EricZhang <ericzzhang@tencent.com>",
+    "Website": "https://y.qq.com/",
+    "Update": "2020-11-07 01:07:59",
+    "Size": "67.45 MB",
+    "More": "Linux版QQ音乐，腾讯出品，基于Electron技术。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/3816b400-2095-11eb-96a9-ff0ee4ce60e6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/a065b200-2094-11eb-96a9-ff0ee4ce60e6.png"
+}

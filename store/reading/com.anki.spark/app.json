@@ -1,0 +1,15 @@
+{
+    "Name": "Anki",
+    "Version": "2.1.34",
+    "Filename": "com.anki.spark_2.1.34_amd64.deb",
+    "Pkgname": "com.anki.spark",
+    "Author": "Anki",
+    "Contributor": "jerrywang",
+    "Website": "https://apps.ankiweb.net/",
+    "Update": "2020-10-12 06:45:18",
+    "Size": "107.95 MB",
+    "More": "Anki是一个程序，它使记住事情变得容易。 因为它比传统的学习方法有效得多，所以您可以大大减少学习时间，也可以大大增加学习量。",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/56525850-0c56-11eb-a752-59ae474ef158.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/583485d0-0c56-11eb-a752-59ae474ef158.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/59c781e0-0c56-11eb-a752-59ae474ef158.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/5c1edf60-0c56-11eb-a752-59ae474ef158.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/12/278cbb60-0c55-11eb-a752-59ae474ef158.png"
+}

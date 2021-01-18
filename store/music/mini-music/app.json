@@ -1,0 +1,15 @@
+{
+    "Name": "迷你音乐",
+    "Version": "1.1.0",
+    "Filename": "mini-music_1.1.0_amd64.deb",
+    "Pkgname": "mini-music",
+    "Author": "凤舞九天",
+    "Contributor": "凤舞九天",
+    "Website": "https://gitee.com/cgper/miniMusic",
+    "Update": "2020-11-18 14:58:28",
+    "Size": "49.65 MB",
+    "More": "款简单、美观的音乐播放器。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/18/567f6550-29ae-11eb-bf6c-ddc327788dee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/18/56628e80-29ae-11eb-bf6c-ddc327788dee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/18/57917190-29ae-11eb-bf6c-ddc327788dee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/18/57011870-29ae-11eb-bf6c-ddc327788dee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/18/56e2e210-29ae-11eb-bf6c-ddc327788dee.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/18/32da7cc0-29ae-11eb-bf6c-ddc327788dee.png"
+}

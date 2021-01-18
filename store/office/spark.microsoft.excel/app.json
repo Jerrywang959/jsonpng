@@ -1,0 +1,15 @@
+{
+    "Name": "Microsoft Office Excel 2007 Professional（wine）",
+    "Version": "1.0",
+    "Filename": "spark.microsoft.excel_1.0_i386.deb",
+    "Pkgname": "spark.microsoft.excel",
+    "Author": "Microsoft",
+    "Contributor": "gfdgd xi",
+    "Website": "https://www.microsoft.com",
+    "Update": "2020-11-30 11:53:30",
+    "Size": "692.6 MB",
+    "More": "使用deepin-wine打包的Microsoft Office Excel 2007 Professional，使用wine-QQ的容器，目前有以下问题：\n1、无法使用右键/双击打开Excel文件",
+    "Tags": "deepin;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/30/ecedf880-32ff-11eb-ba69-9bb3fb687070.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/30/ed17c7a0-32ff-11eb-ba69-9bb3fb687070.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/30/e7716630-32ff-11eb-ba69-9bb3fb687070.png"
+}

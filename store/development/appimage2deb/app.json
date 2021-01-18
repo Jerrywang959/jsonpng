@@ -1,0 +1,15 @@
+{
+    "Name": "A2D 软件打包",
+    "Version": "2.0b20201218",
+    "Filename": "appimage2deb_2.0b20201218_amd64.deb",
+    "Pkgname": "appimage2deb",
+    "Author": "dfc643",
+    "Contributor": "dfc643",
+    "Website": "https://gitlab.com/dfc643/appimage2deb/",
+    "Update": "2020-12-18 09:24:22",
+    "Size": "2.45 MB",
+    "More": "因为之前那个 DTK 的“星火商店打包器”存在打包问题，之前也说过要写一个的，这次加了简单的UI。\n使用方法：从“主菜单-系统管理-A2D软件打包”打开\n\n深度论坛帖子：https://bbs.deepin.org/post/208284",
+    "Tags": "a2d;deepin;ubuntu;community;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/c2e841f0-4112-11eb-8a74-21dbbf8cd953.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/c4fb9190-4112-11eb-8a74-21dbbf8cd953.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/18/c67698d0-4112-11eb-8a74-21dbbf8cd953.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/18/be088be0-4112-11eb-8a74-21dbbf8cd953.png"
+}
