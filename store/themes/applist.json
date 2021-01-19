@@ -69,18 +69,6 @@
     "More": "非常好看的图表主题"
   },
   {
-    "Name": "Candy-icons",
-    "Version": "1.0",
-    "Filename": "candy-icons_1.0_amd64.deb",
-    "Pkgname": "candy-icons",
-    "Author": "eliverlara",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/EliverLara/candy-icons",
-    "Update": "2020-08-17 00:48",
-    "Size": "866.58KB",
-    "More": "一套甜蜜的渐变图标主题"
-  },
-  {
     "Name": "eDEX-UI 科幻模拟终端",
     "Version": "2.2.2",
     "Filename": "edex-ui_2.2.2_a2d_amd64.deb",
@@ -123,21 +111,6 @@
     "More": "一款海洋风格的图表主题，为你平淡的生活增添一丝大海的气息～～～"
   },
   {
-    "Name": "McMuse图标主题",
-    "Version": "1.0",
-    "Filename": "mcmuse-icons_1.0_amd64.deb",
-    "Pkgname": "McMuse-icons",
-    "Author": "yeyushengfan258",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/yeyushengfan258/McMuse-icon-theme",
-    "Update": "2020-09-05 19:33:42",
-    "Size": "3.21 MB",
-    "More": "一套多彩的仿MAC OS图标主题。换一套图标、换一个心情",
-    "tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/05/9453cb00-ef6b-11ea-b573-776f101a114d.update\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/05/68401230-ef6b-11ea-b573-776f101a114d.update"
-  },
-  {
     "Name": "volantes光标主题",
     "Version": "1.0",
     "Filename": "volantes-cursors_1.0_amd64.deb",
@@ -163,6 +136,21 @@
     "Update": "2020-06-25 18:21",
     "Size": "10.53MB",
     "More": "windows10主题"
+  },
+  {
+    "Name": "McMuse图标主题",
+    "Version": "1.0spark0",
+    "Filename": "mcmuse-icons.spark_1.0spark0_all.deb",
+    "Pkgname": "mcmuse-icons.spark",
+    "Author": "yeyushengfan258",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/yeyushengfan258/McMuse-icon-theme",
+    "Update": "2021-01-19 12:57:14",
+    "Size": "3.4 MB",
+    "More": "一套多彩的仿 MAC OS 图标主题。换一套图标、换一个心情",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/adf55620-5a12-11eb-bea2-af18b155fc24.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/19/a4d648b0-5a12-11eb-bea2-af18b155fc24.png"
   },
   {
     "Name": "一只动态壁纸",
@@ -229,18 +217,6 @@
     "tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/12/b04cd1a0-f4af-11ea-9122-a3803614310b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/12/a9deb360-f4af-11ea-9122-a3803614310b.png"
-  },
-  {
-    "Name": "Tela-icons",
-    "Version": "1.0",
-    "Filename": "tela-icons_1.0_amd64.deb",
-    "Pkgname": "tela-icons",
-    "Author": "vinceliuice",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/vinceliuice/Tela-icon-theme",
-    "Update": "2020-08-17 00:30",
-    "Size": "2.02MB",
-    "More": "一套平面的彩色设计图标主题"
   },
   {
     "Name": "unsplash-wallpapers",

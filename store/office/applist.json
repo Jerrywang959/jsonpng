@@ -886,18 +886,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/04/d33f86f0-1e8d-11eb-942c-7180648fb8b8.png"
   },
   {
-    "Name": "Cmd Markdown",
-    "Version": "2017.01.14",
-    "Filename": "Cmd-Markdown_2017.01.14_amd64.deb",
-    "Pkgname": "cmd-markdown",
-    "Author": "作业部落@ghosert",
-    "Contributor": "sgb76",
-    "Website": "https://www.zybuluo.com/mdeditor",
-    "Update": "2020-07-19 18:39",
-    "Size": "25.90MB",
-    "More": "Cmd Markdown是一款漂亮简洁的Markdown写作软件。"
-  },
-  {
     "Name": "我来笔记（web）",
     "Version": "1.0spark0",
     "Filename": "web-wolai_1.0spark0_amd64.deb",
