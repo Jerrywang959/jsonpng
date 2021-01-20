@@ -1,0 +1,15 @@
+{
+    "Name": "QMPlay2",
+    "Version": "20.07.04-1",
+    "Filename": "com.qmplay2.spark_20.07.04-1_amd64.deb",
+    "Pkgname": "com.qmplay2.spark",
+    "Author": "zaps166",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/zaps166/QMPlay2",
+    "Update": "2021-01-20 15:15:31",
+    "Size": "19.12 MB",
+    "More": "QMPlay2是一款可以播放大多数格式和编解码器的视频和音频播放器。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/4508a490-5aef-11eb-bdea-55bdbb71dafd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/25d3c050-5aef-11eb-bdea-55bdbb71dafd.png"
+}
