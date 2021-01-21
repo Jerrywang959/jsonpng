@@ -1,0 +1,15 @@
+{
+    "Name": "JHelioviewer",
+    "Version": "2.15.7.9411",
+    "Filename": "org.jhelioviewer.spark_2.15.7.9411_amd64.deb",
+    "Pkgname": "org.jhelioviewer.spark",
+    "Author": "ESA JHelioviewer Team",
+    "Contributor": "solarphys",
+    "Website": "https://www.jhelioviewer.org",
+    "Update": "2021-01-21 06:23:56",
+    "Size": "81.93 MB",
+    "More": "JHelioviewer是欧空局开发的一款开源太阳观测数据获取软件，可以在线观看获取SDO, STEREO, SOHO, Yokoh, PROBA2等卫星的观测图像。该软件集成了大量丰富实用的功能，是天文爱好者和相关科研工作者必不可少的工具之一。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/68ad0690-5b60-11eb-b6af-bf29275e545b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/693f8290-5b60-11eb-b6af-bf29275e545b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/68f5a850-5b60-11eb-b6af-bf29275e545b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/21/63efa590-5b60-11eb-b6af-bf29275e545b.png"
+}
