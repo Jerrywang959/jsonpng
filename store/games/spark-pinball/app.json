@@ -1,15 +1,15 @@
 {
     "Name": "Windows 三维弹球",
-    "Version": "1.0",
-    "Filename": "spark-pinball_1.0_i386.deb",
+    "Version": "1.1",
+    "Filename": "spark-pinball_1.1_i386.deb",
     "Pkgname": "spark-pinball",
     "Author": "Maxis（Microsoft）",
     "Contributor": "gfdgd xi",
-    "Website": "http://www.microsoft.com/",
-    "Update": "2021-01-15 20:16:20",
+    "Website": "http://www.microsoft.com",
+    "Update": "2021-01-23 12:20:22",
     "Size": "9.51 MB",
-    "More": "一个 Windows XP 自带的一款游戏，后面的 Windows 版本已经没有，是一代人的回忆\n本程序使用 deepin-wine QQ 的容器进行打包",
+    "More": "一个 Windows XP 自带的一款游戏，后面的 Windows 版本已经没有，是一代人的回忆\n这个程序使用 deepin-wine QQ 的容器进行打包",
     "Tags": "deepin;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/15/6bd2f610-572b-11eb-9b07-f3433022966a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/15/6be82bc0-572b-11eb-9b07-f3433022966a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/15/62978700-572b-11eb-9b07-f3433022966a.ico"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/23/3d169450-5d32-11eb-a407-f5e8e9164154.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/23/3d2624b0-5d32-11eb-a407-f5e8e9164154.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/23/f56af420-5d31-11eb-a407-f5e8e9164154.ico"
 }

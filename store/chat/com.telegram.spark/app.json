@@ -1,0 +1,15 @@
+{
+    "Name": "telegram",
+    "Version": "2.5.1",
+    "Filename": "com.telegram.spark_2.5.1_amd64.deb",
+    "Pkgname": "com.telegram.spark",
+    "Author": "telegram",
+    "Contributor": "momen",
+    "Website": "https://telegram.org/",
+    "Update": "2021-01-24 12:33:50",
+    "Size": "33.2 MB",
+    "More": "一款国际知名聊天软件（中国大陆地区可能无法正常访问）",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/4822c780-5dfd-11eb-a7e8-39f472e1f1d8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/4529abc0-5dfd-11eb-a7e8-39f472e1f1d8.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Name": "Tor 浏览器",
+    "Version": "10.0.8",
+    "Filename": "org.torbrowser.spark_10.0.8_amd64.deb",
+    "Pkgname": "org.torbrowser.spark",
+    "Author": "Tor project",
+    "Contributor": "jerrywang",
+    "Website": "https://www.torproject.org",
+    "Update": "2021-01-24 21:57:34",
+    "Size": "83.02 MB",
+    "More": "保持匿名上网",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/eb55c630-5e4a-11eb-88ed-3db249f5fde4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/ea06d800-5e4a-11eb-88ed-3db249f5fde4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/e7919240-5e4a-11eb-88ed-3db249f5fde4.png"
+}
