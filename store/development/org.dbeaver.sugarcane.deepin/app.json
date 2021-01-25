@@ -1,0 +1,15 @@
+{
+    "Name": "DBeaver Community",
+    "Version": "7.3.3",
+    "Filename": "org.dbeaver.sugarcane.deepin_7.3.3_amd64.deb",
+    "Pkgname": "org.dbeaver.sugarcane.deepin",
+    "Author": "dbeaver team",
+    "Contributor": "zkqgxlbjx",
+    "Website": "https://dbeaver.io/",
+    "Update": "2021-01-25 16:57:30",
+    "Size": "88.95 MB",
+    "More": "Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/417f9d60-5eeb-11eb-a770-5da76111eeaf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/27537b00-5eeb-11eb-a770-5da76111eeaf.png"
+}

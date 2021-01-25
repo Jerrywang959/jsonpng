@@ -1,15 +1,15 @@
 {
-    "Name": "千千静听",
-    "Version": "5.7.9.0spark0",
-    "Filename": "com.qianqian.ttplayer.spark_5.7.9.0spark0_i386.deb",
+    "Name": "千千静听（wine）",
+    "Version": "5.7.9spark1",
+    "Filename": "com.qianqian.ttplayer.spark_5.7.9spark1_i386.deb",
     "Pkgname": "com.qianqian.ttplayer.spark",
     "Author": "lizhipei78，郑南岭",
     "Contributor": "anima",
     "Website": "http://ttplayer.qianqian.com/",
-    "Update": "2020-09-14 15:04:36",
-    "Size": "4 MB",
-    "More": "千千静听作为国内最老牌音乐播放软件之一，目前可作为本地播放器，此版本完美彻底去除右侧音乐窗，去歌曲铃铛图标，更新了歌词搜索下载服务器，可搜索下载全网歌词.",
-    "tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/4e775a70-f69b-11ea-af1e-07b55f2cf4ef.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/8dd064f0-f69b-11ea-af1e-07b55f2cf4ef.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/14/8dae5e00-f69b-11ea-af1e-07b55f2cf4ef.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/14/464481c0-f69b-11ea-af1e-07b55f2cf4ef.png"
+    "Update": "2021-01-25 15:46:19",
+    "Size": "46.3 MB",
+    "More": "千千静听作为国内最老牌音乐播放软件之一，目前可作为本地播放器，此版本完美彻底去除右侧音乐窗，去歌曲铃铛图标，更新了歌词搜索下载服务器，可搜索下载全网歌词。",
+    "Tags": "dwine5;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/65ac3810-5ee1-11eb-a953-eb39707ba404.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/65d65550-5ee1-11eb-a953-eb39707ba404.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/65d89f40-5ee1-11eb-a953-eb39707ba404.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/6104a900-5ee1-11eb-a953-eb39707ba404.png"
 }

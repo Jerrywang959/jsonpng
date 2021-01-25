@@ -1,0 +1,15 @@
+{
+    "Name": "作业帮直播课学生端（deepin-wine5）",
+    "Version": "0.01",
+    "Filename": "zybang.spark_0.01_i386.deb",
+    "Pkgname": "zybang.spark",
+    "Author": "Windows作者：北京作业帮 wine打包者：僵尸猪灵-shy",
+    "Contributor": "僵尸猪灵-shy",
+    "Website": "https://space.bilibili.com/365755968",
+    "Update": "2021-01-24 21:04:49",
+    "Size": "106.07 MB",
+    "More": "用于购买作业帮网课的用户在linux上使用客户端上课\n注：基于deepin-wine5\n已知问题 在加载的时候手动关闭会报错，关闭报错后如需再次打开需要杀掉zybhost.exe进程（一般不会有人这么干吧。。。）",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/3d8d9c90-5e44-11eb-8940-8fa69c7c0638.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/3fd4cd70-5e44-11eb-8940-8fa69c7c0638.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/45c57e50-5e44-11eb-8940-8fa69c7c0638.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/2649c280-5e43-11eb-8940-8fa69c7c0638.png"
+}
