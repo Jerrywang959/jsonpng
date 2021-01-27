@@ -57,18 +57,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/10/886ab040-3a9a-11eb-827a-c1150a8c5e97.png"
   },
   {
-    "Name": "Goland",
-    "Version": "2020.1.3",
-    "Filename": "goland-2020.1.3.deb",
-    "Pkgname": "goland",
-    "Author": "Jetbrains",
-    "Contributor": "Vlary",
-    "Website": "https://www.jetbrains.com/go/",
-    "Update": "2020-07-07 17:45",
-    "Size": "291.13MB",
-    "More": "GoLand is a cross-platform IDE built specially for Go developers "
-  },
-  {
     "Name": "Postman",
     "Version": "7.33.1",
     "Filename": "postman7.deb",
@@ -261,18 +249,6 @@
     "More": "RedisPlus是为Redis可视化管理开发的一款开源免费的桌面客户端软件，支持Windows 、Linux 、Mac三大系统平台，RedisPlus提供更加高效、方便、快捷的使用体验，有着更加现代化的用户界面风格。"
   },
   {
-    "Name": "Postman",
-    "Version": "7.27.0",
-    "Filename": "Postman_7.27.0_amd64.deb",
-    "Pkgname": "postman",
-    "Author": "Postman",
-    "Contributor": "amengrobot",
-    "Website": "https://www.postman.com",
-    "Update": "2020-06-25 11:56",
-    "Size": "64.66MB",
-    "More": "Postman 接口测试工具，提供功能强大的 Web API & HTTP 请求调试。它能够发送任何类型的HTTP 请求 (GET, HEAD, POST, PUT..)，附带任何数量的参数+ headers。支持不同的认证机制（basic, digest, OAuth），接收到的响应语法高亮（HTML，JSON或XML）。Postman 能够保留了历史的请求，这样我们就可以很容易地重新发送请求，有一个“集合”功能，用于存储所有请求相同的API/域。"
-  },
-  {
     "Name": "STM32Cube 编程器",
     "Version": "2.5.0",
     "Filename": "stm32cubeprogrammer_2.5.0_amd64.deb",
@@ -370,6 +346,21 @@
     "Update": "2020-07-01 16:55",
     "Size": "76.95MB",
     "More": "GitHub Desktop 的第三方 Linux 发行版。"
+  },
+  {
+    "Name": "DBeaver Community",
+    "Version": "7.3.3",
+    "Filename": "org.dbeaver.sugarcane.deepin_7.3.3_amd64.deb",
+    "Pkgname": "org.dbeaver.sugarcane.deepin",
+    "Author": "dbeaver team",
+    "Contributor": "zkqgxlbjx",
+    "Website": "https://dbeaver.io/",
+    "Update": "2021-01-25 16:57:30",
+    "Size": "88.95 MB",
+    "More": "Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/417f9d60-5eeb-11eb-a770-5da76111eeaf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/27537b00-5eeb-11eb-a770-5da76111eeaf.png"
   },
   {
     "Name": "nteract",

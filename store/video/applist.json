@@ -2,14 +2,17 @@
   {
     "Name": "QMPlay2",
     "Version": "20.07.04-1",
-    "Filename": "QMPlay2_20.07.04-1-amd64_a2d.deb",
-    "Pkgname": "qmplay2",
-    "Author": " ",
-    "Contributor": "momen",
-    "Website": " ",
-    "Update": "2020-08-06 15:09",
-    "Size": "19.12MB",
-    "More": "这个播放器是万能播放器,还可以播放电视节目哦"
+    "Filename": "com.qmplay2.spark_20.07.04-1_amd64.deb",
+    "Pkgname": "com.qmplay2.spark",
+    "Author": "zaps166",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/zaps166/QMPlay2",
+    "Update": "2021-01-20 15:15:31",
+    "Size": "19.12 MB",
+    "More": "QMPlay2是一款可以播放大多数格式和编解码器的视频和音频播放器。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/4508a490-5aef-11eb-bdea-55bdbb71dafd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/25d3c050-5aef-11eb-bdea-55bdbb71dafd.png"
   },
   {
     "Name": "全聚合影视",
@@ -76,18 +79,6 @@
     "Update": "2020-06-25 11:06",
     "Size": "381.71KB",
     "More": "深度影院3.2.7版，从Debian 10仓库中翻出来的旧版本，修改了安装位置与桌面文件名称和图标并重新进行打包，与商店现有新版本进行区分。"
-  },
-  {
-    "Name": "bilibili网页版",
-    "Version": "1.0.1",
-    "Filename": "Bilibili-linux-amd64.deb",
-    "Pkgname": "bilibili",
-    "Author": "kunkun",
-    "Contributor": "kunkun",
-    "Website": " ",
-    "Update": "2020-09-04 10:43",
-    "Size": "51.25MB",
-    "More": "使用nativefier封装的哔哩哔哩网页,给不想打开浏览器的up们使用"
   },
   {
     "Name": "kdenlive",

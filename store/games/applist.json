@@ -28,18 +28,18 @@
   },
   {
     "Name": "Windows 三维弹球",
-    "Version": "1.0",
-    "Filename": "spark-pinball_1.0_i386.deb",
+    "Version": "1.1",
+    "Filename": "spark-pinball_1.1_i386.deb",
     "Pkgname": "spark-pinball",
     "Author": "Maxis（Microsoft）",
     "Contributor": "gfdgd xi",
-    "Website": "http://www.microsoft.com/",
-    "Update": "2021-01-15 20:16:20",
+    "Website": "http://www.microsoft.com",
+    "Update": "2021-01-23 12:20:22",
     "Size": "9.51 MB",
-    "More": "一个 Windows XP 自带的一款游戏，后面的 Windows 版本已经没有，是一代人的回忆\n本程序使用 deepin-wine QQ 的容器进行打包",
+    "More": "一个 Windows XP 自带的一款游戏，后面的 Windows 版本已经没有，是一代人的回忆\n这个程序使用 deepin-wine QQ 的容器进行打包",
     "Tags": "deepin;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/15/6bd2f610-572b-11eb-9b07-f3433022966a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/15/6be82bc0-572b-11eb-9b07-f3433022966a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/15/62978700-572b-11eb-9b07-f3433022966a.ico"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/23/3d169450-5d32-11eb-a407-f5e8e9164154.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/23/3d2624b0-5d32-11eb-a407-f5e8e9164154.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/23/f56af420-5d31-11eb-a407-f5e8e9164154.ico"
   },
   {
     "Name": "帝国时代之罗马复兴（wine）",
@@ -136,21 +136,6 @@
     "Update": "2020-07-02 13:42",
     "Size": "20.13MB",
     "More": "Chiaki 是一款免费开源的 PS4 远程游戏客户端，兼容Linux，FreeBSD，OpenBSD，Android，macOS，Windows等多平台。"
-  },
-  {
-    "Name": "WebGame小游戏合集",
-    "Version": "1.0",
-    "Filename": "WebGame_1.0_all.deb",
-    "Pkgname": "webgame",
-    "Author": "xiaoxie",
-    "Contributor": "xiaoxie",
-    "Website": "www.xincai.rthe.net",
-    "Update": "2020-11-22 04:53:22",
-    "Size": "3.88 MB",
-    "More": "一款Web版小游戏合集",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/22/7f401660-2c7e-11eb-9908-890dfcf02234.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/22/852862d0-2c7e-11eb-9908-890dfcf02234.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/22/8f8bd720-2c7e-11eb-9908-890dfcf02234.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/22/8faccca0-2c7e-11eb-9908-890dfcf02234.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/22/8ff28830-2c7e-11eb-9908-890dfcf02234.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/22/55c0eb20-2c7e-11eb-9908-890dfcf02234.png"
   },
   {
     "Name": "辐射小马国：废土-wine",
@@ -387,18 +372,6 @@
     "More": "基于deepin-wine打包的，经典ＡＲＰＧ游戏——《永远的伊苏ＩＩ》。已知无法播放ＯＰ动画；无法播放ＢＧＭ。"
   },
   {
-    "Name": "纸境奇缘",
-    "Version": "1.4",
-    "Filename": "Epistory_1.4_amd64.deb",
-    "Pkgname": "epistory",
-    "Author": "Fishing Cactus",
-    "Contributor": "sgb76",
-    "Website": "http://www.fishingcactus.com/",
-    "Update": "2020-07-30 00:40",
-    "Size": "582.62MB",
-    "More": "《纸境奇缘》是一款意境优美的打字冒险游戏，讲述了一位缺乏灵感的作家，通过冥想的方式来撰写他的新书的故事。 在《纸境奇缘》中，你将扮演一位冥想者，在虚拟的未知世界中冒险。你的冒险从一张白纸上开始，但随着你不断获得灵感、击败敌人、解开谜题，世界也将变得更大、更鲜活。从探索到开箱到史诗般的战斗，本作中的一切游戏元素都由键盘来操控。 在折纸组成的奇幻世界中，故事随着作家的冥思来展开，蕴含魔法力量的神秘词汇随之显现。"
-  },
-  {
     "Name": "osu!lazer汉化版",
     "Version": "2020.717.0",
     "Filename": "mfosu_2020.717.0_amd64.deb",
@@ -522,6 +495,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/bf9bb4b0-1d94-11eb-9764-4d1acd76fd3d.png"
   },
   {
+    "Name": "QQ游戏",
+    "Version": "5.24deepin0",
+    "Filename": "com.qqgame.deepin_5.24deepin0_i386.deb",
+    "Pkgname": "com.qqgame.deepin",
+    "Author": "腾讯",
+    "Contributor": "清怨",
+    "Website": "https://qqgame.qq.com/",
+    "Update": "2021-01-25 22:51:31",
+    "Size": "140.75 MB",
+    "More": "从deepin社区翻出来的，由于当时没有星火应用商店，所以没有上传。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/cafc7dc0-5f1c-11eb-89ee-45b622f85fee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/ce8f8f90-5f1c-11eb-89ee-45b622f85fee.jpg\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/8f7ba460-5f1c-11eb-89ee-45b622f85fee.jpg"
+  },
+  {
     "Name": "火炬之光",
     "Version": "1.5",
     "Filename": "torchlight_1.5_amd64.deb",
@@ -591,6 +579,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/06/44b1f5e0-07e9-11eb-90d1-9bb8657e09b4.png"
   },
   {
+    "Name": "yuzu模拟器",
+    "Version": "514",
+    "Filename": "com.yuzu.sugarcane.deepin_514_amd64.deb",
+    "Pkgname": "com.yuzu.sugarcane.deepin",
+    "Author": "yuzu emulator team",
+    "Contributor": "zkqgxlbjx",
+    "Website": "https://yuzu-emu.org/",
+    "Update": "2021-01-25 15:13:04",
+    "Size": "36.31 MB",
+    "More": "Nintendo Switch video game console emulator\n任天堂游戏机模拟器",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/b1441fe0-5edc-11eb-8800-f9acc9f89602.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/97daff60-5edc-11eb-8800-f9acc9f89602.svg"
+  },
+  {
     "Name": "蜘蛛纸牌",
     "Version": "1.0.0",
     "Filename": "spider-card_1.0.0_amd64.deb",
@@ -604,18 +607,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/30681700-1d96-11eb-b7de-3bc67cafe1ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/306dbc50-1d96-11eb-b7de-3bc67cafe1ad.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/2c657a80-1d96-11eb-b7de-3bc67cafe1ad.png"
-  },
-  {
-    "Name": "粘粘世界",
-    "Version": "1.5.2",
-    "Filename": "WorldOfGoo_1.5.2_amd64.deb",
-    "Pkgname": "worldofgoo",
-    "Author": "2D Boy",
-    "Contributor": "sgb76",
-    "Website": "https://2dboy.com/",
-    "Update": "2020-07-29 22:43",
-    "Size": "165.61MB",
-    "More": "《粘粘世界》（World of Goo）是一款由独立游戏开发者2D Boy制作并发行的物理学题材益智游戏。《粘粘世界》以凯勒·加布勒的概念游戏《Tower of Goo》为原型，主要玩法是利用粘性小球“粘粘球”（Goo）来构建建筑框架，协助尽量多的剩余粘粘球进入地图的管道内。"
   },
   {
     "Name": "愤怒的小鸟",
@@ -787,17 +778,5 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/14/a938e220-0df8-11eb-b09e-0fd5d6dd8f0b.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/14/b15b8e30-0df8-11eb-b09e-0fd5d6dd8f0b.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/14/b366ee90-0df8-11eb-b09e-0fd5d6dd8f0b.jpg\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/14/308f99e0-0df8-11eb-b09e-0fd5d6dd8f0b.ico"
-  },
-  {
-    "Name": "缺氧",
-    "Version": "1.0",
-    "Filename": "OxygenNotIncluded_1.0_amd64.deb",
-    "Pkgname": "oxygennotincluded",
-    "Author": "Klei Entertainment",
-    "Contributor": "sgb76",
-    "Website": " ",
-    "Update": "2020-08-08 18:23",
-    "Size": "633.03MB",
-    "More": "《缺氧》是由开发过《饥荒》的Klei Entertainment所制作并发行的一款模拟游戏。其美术风格也与《饥荒》一脉相承，并同样采用了横版2D布局。这是一个太空殖民地模拟游戏，玩家需要管理你的居民，帮助他们挖掘、建立和维护一个地下的小行星基地。你需要水、食物、氧气、适当的调节压力和适宜的温度来维持他们活着并满足他们。"
   }
 ]

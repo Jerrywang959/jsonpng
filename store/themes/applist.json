@@ -69,6 +69,36 @@
     "More": "非常好看的图表主题"
   },
   {
+    "Name": "Tela图标主题",
+    "Version": "1.0spark0",
+    "Filename": "tela-icons.spark_1.0spark0_all.deb",
+    "Pkgname": "tela-icons.spark",
+    "Author": "vinceliuice",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/vinceliuice/Tela-icon-theme",
+    "Update": "2021-01-19 14:44:41",
+    "Size": "2.25 MB",
+    "More": "一套平面的彩色设计图标主题",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/b45804e0-5a21-11eb-a8d1-e162bae10587.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/b6b332f0-5a21-11eb-a8d1-e162bae10587.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/19/8f14fcb0-5a21-11eb-a8d1-e162bae10587.png"
+  },
+  {
+    "Name": "Candy图标主题",
+    "Version": "1.0spark0",
+    "Filename": "candy-icons.spark_1.0spark0_all.deb",
+    "Pkgname": "candy-icons.spark",
+    "Author": "eliverlara",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/EliverLara/candy-icons",
+    "Update": "2021-01-19 15:18:58",
+    "Size": "877.98 KB",
+    "More": "一套甜蜜的渐变图标主题",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/810a6010-5a26-11eb-bc8f-61ecbf6a8fb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/84755070-5a26-11eb-bc8f-61ecbf6a8fb7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/19/72639cc0-5a26-11eb-bc8f-61ecbf6a8fb7.png"
+  },
+  {
     "Name": "eDEX-UI 科幻模拟终端",
     "Version": "2.2.2",
     "Filename": "edex-ui_2.2.2_a2d_amd64.deb",
@@ -82,6 +112,21 @@
     "tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/24/ad77a320-fe27-11ea-8c5f-552f01726f01.update\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/24/ad942bd0-fe27-11ea-8c5f-552f01726f01.update\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/24/add02360-fe27-11ea-8c5f-552f01726f01.update\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/24/adb0b480-fe27-11ea-8c5f-552f01726f01.update\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/24/ae31cb60-fe27-11ea-8c5f-552f01726f01.update\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/24/a7410fa0-fe27-11ea-8c5f-552f01726f01.update"
+  },
+  {
+    "Name": "输入法皮肤",
+    "Version": "1.0",
+    "Filename": "shururfapifu_1.0_i386.deb",
+    "Pkgname": "shururfapifu",
+    "Author": "liu",
+    "Contributor": "liu",
+    "Website": "https://gitee.com/rgba/fcitx-skin",
+    "Update": "2021-01-24 18:02:15",
+    "Size": "174.02 KB",
+    "More": "自己的改的一些皮肤",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/8ab7f0c0-5e2a-11eb-a7bb-67f4743fa843.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/3532abd0-5e2b-11eb-a7bb-67f4743fa843.jpg"
   },
   {
     "Name": "unsplash4deepin",
@@ -155,7 +200,7 @@
   {
     "Name": "一只动态壁纸",
     "Version": "0.3beta",
-    "Filename": "top.yzzi.wallpaper_0.3beta_amd64",
+    "Filename": "top.yzzi.wallpaper_0.3beta_amd64.deb",
     "Pkgname": "top.yzzi.wallpaper",
     "Author": "一只科技菌",
     "Contributor": "一只科技菌",
@@ -217,6 +262,21 @@
     "tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/12/b04cd1a0-f4af-11ea-9122-a3803614310b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/12/a9deb360-f4af-11ea-9122-a3803614310b.png"
+  },
+  {
+    "Name": "简单小企鹅皮肤",
+    "Version": "1.0",
+    "Filename": "fcitx-ui-simple_1.0_all.deb",
+    "Pkgname": "fcitx-ui-simple",
+    "Author": "liu",
+    "Contributor": "liu",
+    "Website": "https://gitee.com/rgba/fcitx-skin",
+    "Update": "2021-01-24 20:50:07",
+    "Size": "172 KB",
+    "More": "小企鹅输入法简单皮肤合集",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/9c6a8090-5e42-11eb-bd37-d9d94122a99f.image1\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/9e948c80-5e42-11eb-bd37-d9d94122a99f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/a0ac7000-5e42-11eb-bd37-d9d94122a99f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/99360980-5e42-11eb-bd37-d9d94122a99f.jpg"
   },
   {
     "Name": "unsplash-wallpapers",

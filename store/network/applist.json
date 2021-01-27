@@ -24,6 +24,21 @@
     "More": "使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
   },
   {
+    "Name": "Tor 浏览器",
+    "Version": "10.0.8",
+    "Filename": "org.torbrowser.spark_10.0.8_amd64.deb",
+    "Pkgname": "org.torbrowser.spark",
+    "Author": "Tor project",
+    "Contributor": "jerrywang",
+    "Website": "https://www.torproject.org",
+    "Update": "2021-01-24 21:57:34",
+    "Size": "83.02 MB",
+    "More": "保持匿名上网",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/eb55c630-5e4a-11eb-88ed-3db249f5fde4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/ea06d800-5e4a-11eb-88ed-3db249f5fde4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/e7919240-5e4a-11eb-88ed-3db249f5fde4.png"
+  },
+  {
     "Name": "megasync",
     "Version": "4.3.8-1.1",
     "Filename": "MEGASync.deb",
@@ -37,18 +52,6 @@
     "Tags": "ubuntu;deepin;uos;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
-  },
-  {
-    "Name": "Station浏览器",
-    "Version": "1.65.0",
-    "Filename": "station_1.65.0_amd64.deb",
-    "Pkgname": "station",
-    "Author": "Station",
-    "Contributor": "jerrywang",
-    "Website": "https://getstation.com/",
-    "Update": "2020-07-10 12:23",
-    "Size": "237.77MB",
-    "More": "Station is the first smart browser for busy people. A single place for all of your web applications."
   },
   {
     "Name": "Qv2ray",
@@ -93,6 +96,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/06/e4991ba0-1ff5-11eb-ae6c-372bdf4498f7.png"
   },
   {
+    "Name": "ssr",
+    "Version": "9.9.9",
+    "Filename": "com.ssr.spark_9.9.9_amd64.deb",
+    "Pkgname": "com.ssr.spark",
+    "Author": "erguotou",
+    "Contributor": "momen",
+    "Website": "https://github.com/qingshuisiyuan/electron-ssr-backup",
+    "Update": "2021-01-24 17:26:45",
+    "Size": "34.22 MB",
+    "More": "最经典的ssr工具，基于electron-ssr0.2.6,为了防止更新已将版本号改为9.9.9，修复了图标无法正常显示的错误",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/2270ad30-5e26-11eb-8442-992800dad24c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/2278c380-5e26-11eb-8442-992800dad24c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/227bd0c0-5e26-11eb-8442-992800dad24c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/1a1cdf00-5e26-11eb-8442-992800dad24c.png"
+  },
+  {
     "Name": "天翼云盘（wine）",
     "Version": "6.3.2.0spark0",
     "Filename": "cn.189.cloud.spark_6.3.2.0spark0_i386.deb",
@@ -121,18 +139,18 @@
   },
   {
     "Name": "闪电下载（wine）",
-    "Version": "1.4.7.0spark0",
-    "Filename": "com.xiaokanba.bbs.spark_1.4.7.0spark0_i386.deb",
+    "Version": "1.4.7.0spark1",
+    "Filename": "com.xiaokanba.bbs.spark_1.4.7.0spark1_i386.deb",
     "Pkgname": "com.xiaokanba.bbs.spark",
     "Author": "未知",
     "Contributor": "anima",
     "Website": "http://bbs.xiaokanba.com/",
-    "Update": "2020-09-26 14:55:29",
-    "Size": "44.97 MB",
-    "More": "闪电下载，闪电侠⚡️,支持磁力、种子、电驴、万能下载神器，支持边下边播。（注：deepin-wine5环境下未能实现边下边播）",
-    "tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/26/1ddf1670-0008-11eb-82a7-dd0a64740d3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/26/1e056320-0008-11eb-82a7-dd0a64740d3b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/26/367265d0-0007-11eb-82a7-dd0a64740d3b.png"
+    "Update": "2021-01-21 19:51:26",
+    "Size": "87.26 MB",
+    "More": "闪电下载，闪电侠⚡️,支持磁力、种子、电驴、万能下载神器，支持边下边播。（注：deepin-wine5环境下未能实现边下边播功能）",
+    "Tags": "dwine5;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/6ae34a40-5bde-11eb-b633-d181c8d968f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/6afe2540-5bde-11eb-b633-d181c8d968f9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/21/6f80ee40-5bde-11eb-b633-d181c8d968f9.png"
   },
   {
     "Name": "网速管家",
@@ -291,18 +309,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
   },
   {
-    "Name": "Cisco Packet Tracer",
-    "Version": "7.2.0",
-    "Filename": "PacketTracer_7.2.0_amd64.deb",
-    "Pkgname": "packettracer",
-    "Author": " ",
-    "Contributor": "anima",
-    "Website": "https://www.netacad.com/virtual/app/introduction-packet-tracer",
-    "Update": "2020-06-30 22:32",
-    "Size": "217.57MB",
-    "More": "Cisco Packet Tracer 是由Cisco公司发布的一个辅助学习工具，为学习CCNA课程的网络初学者去设计、配置、排除网络故障提供了网络模拟环境。学生可在软件的图形用户界面上直接使用拖曳方法建立网络拓扑，软件中实现的IOS子集允许学生配置设备；并可提供数据包在网络中行进的详细处理过程，观察网络实时运行情况。"
-  },
-  {
     "Name": "火狐浏览器国际版",
     "Version": "80.0",
     "Filename": "firefox-spark_80.0_amd64.deb",
@@ -367,6 +373,21 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/b9f2b330-00a0-11eb-bb30-ebae19136765.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/bfb57640-00a0-11eb-bb30-ebae19136765.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/27/a5baeb30-00a0-11eb-bb30-ebae19136765.png"
+  },
+  {
+    "Name": "Station浏览器",
+    "Version": "1.65.0",
+    "Filename": "com.station.spark_1.65.0_amd64.deb",
+    "Pkgname": "com.station.spark",
+    "Author": "Station",
+    "Contributor": "jerryww@aliyun.com",
+    "Website": "https://getstation.com/",
+    "Update": "2021-01-20 16:02:01",
+    "Size": "237.78 MB",
+    "More": "Station是第一款适合忙碌人士的智能浏览器。一个地方，你所有的网络应用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/6570c9f0-5af5-11eb-bdea-55bdbb71dafd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/35249790-5af5-11eb-bdea-55bdbb71dafd.png"
   },
   {
     "Name": "蜗牛下载器",
@@ -556,15 +577,18 @@
   },
   {
     "Name": "NeatDownloadManager（wine）",
-    "Version": "1.2.10spark0",
-    "Filename": "com.neatdownloadmanager.spark_1.2.10spark0_i386.deb",
+    "Version": "1.2.10spark1",
+    "Filename": "com.neatdownloadmanager.spark_1.2.10spark1_i386.deb",
     "Pkgname": "com.neatdownloadmanager.spark",
-    "Author": " ",
+    "Author": "未知",
     "Contributor": "anima",
     "Website": "http://www.neatdownloadmanager.com/",
-    "Update": "2020-08-29 21:08",
-    "Size": "9.68MB",
-    "More": "NeatDownloadManager on Deepin Wine。"
+    "Update": "2021-01-25 14:21:07",
+    "Size": "51.97 MB",
+    "More": "NeatDownloadManager on Deepin Wine。",
+    "Tags": "dwine5;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/3b7aa330-5ed5-11eb-9642-8bb48878ba91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/3ba2ebb0-5ed5-11eb-9642-8bb48878ba91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/3ba70a60-5ed5-11eb-9642-8bb48878ba91.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/3ec5af80-5ed5-11eb-9642-8bb48878ba91.png"
   },
   {
     "Name": "Burpsuite",
@@ -649,18 +673,6 @@
     "Update": "2020年6月27日",
     "Size": "68.6M",
     "More": "全球范围内最受欢迎的浏览器之一，得益于内置的 Google 智能工具，Chrome 现在更易用、更安全、更快速。"
-  },
-  {
-    "Name": "交易侠",
-    "Version": "3.0.0",
-    "Filename": "TraderMaster_deepin_20_beta.deb",
-    "Pkgname": "tradermaster",
-    "Author": " ",
-    "Contributor": "shenmo",
-    "Website": " ",
-    "Update": "2020-06-28 22:15",
-    "Size": "75.11MB",
-    "More": "交易侠是国内第一个支持Linux的交易客户端"
   },
   {
     "Name": "Vivaldi 浏览器",

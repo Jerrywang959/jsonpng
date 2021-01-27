@@ -85,21 +85,6 @@
     "Tags": "community;deepin;uos"
   },
   {
-    "Name": "深度便签本",
-    "Version": "0.0.4+spark2",
-    "Filename": "dtkstickynotes_0.0.4_plus_spark2_amd64.deb",
-    "Pkgname": "dtkstickynotes",
-    "Author": "RubbishZhYic",
-    "Contributor": "shenmo",
-    "Website": "https://github.com/ZhongYic00/DTKstickyNotes/",
-    "Update": "2020-10-12 09:36:27",
-    "Size": "274.49 KB",
-    "More": "基于dtk开发的一款便签软件。具有集中式便签管理器、托盘组件与独立式便笺窗口，支持富文本编辑与粘贴，支持插入本地图片并自动缩放，支持搜索内容文本，特性众多，UI契合DDE",
-    "Tags": "community;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/605aee80-0c6e-11eb-945e-35b98d284b93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/60818950-0c6e-11eb-945e-35b98d284b93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/609363a0-0c6e-11eb-945e-35b98d284b93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/608c37b0-0c6e-11eb-945e-35b98d284b93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/12/609a6880-0c6e-11eb-945e-35b98d284b93.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/12/59d3a2f0-0c6e-11eb-945e-35b98d284b93.png"
-  },
-  {
     "Name": "虚拟WIFI热点",
     "Version": "3.5.1",
     "Filename": "linux-wifi-hotspot_3.5.1_amd64.deb",
@@ -620,21 +605,6 @@
     "Update": "2020-07-14 12:48",
     "Size": "289.24KB",
     "More": "社区商店Appimage转制器，配合投递器，快速投稿商店必备哦～"
-  },
-  {
-    "Name": "关机",
-    "Version": "1.5",
-    "Filename": "GuanJi.deb",
-    "Pkgname": "guanji",
-    "Author": "liu",
-    "Contributor": "liu",
-    "Website": "gitlab.com/1314",
-    "Update": "2020-10-04 02:51:11",
-    "Size": "27.31 MB",
-    "More": "关机小程序",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/04/5d44c1e0-05ec-11eb-a203-31f633cd9568.update\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/04/63b55120-05ec-11eb-a203-31f633cd9568.update\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/04/547c8700-05ec-11eb-a203-31f633cd9568.svg"
   },
   {
     "Name": "utools",

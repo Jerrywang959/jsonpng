@@ -24,6 +24,21 @@
     "More": "onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版"
   },
   {
+    "Name": "Write",
+    "Version": "3.0.0spark",
+    "Filename": "com.write.spark_3.0.0spark_amd64.deb",
+    "Pkgname": "com.write.spark",
+    "Author": "styluslabs",
+    "Contributor": "sgb76",
+    "Website": "http://www.styluslabs.com/",
+    "Update": "2021-01-21 00:09:47",
+    "Size": "2.52 MB",
+    "More": "Write是一款出色的免费手写笔记应用程序，它适用于Windows、macOS、Linux、Android和iOS。它主要与有源触控笔配合使用，并可以在非触摸设备上使用。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/d2ad7a60-5b39-11eb-a1f3-bbb8a4c9478e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/d6a98730-5b39-11eb-a1f3-bbb8a4c9478e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/d8c75e20-5b39-11eb-a1f3-bbb8a4c9478e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/21/cc08e2d0-5b39-11eb-a1f3-bbb8a4c9478e.png"
+  },
+  {
     "Name": "有道云笔记（Wine）",
     "Version": "6.10.1spark0",
     "Filename": "com.youdao.note.spark_6.10.1spark0_i386.deb",
@@ -177,6 +192,21 @@
     "More": "Stellarium 是一款开源的天象模拟软件。它以3D形式展示了极为逼真的星空，就像你在真实世界使用裸眼，双筒望远镜或天文望远镜看到的一样。"
   },
   {
+    "Name": "智速ocr文字识别",
+    "Version": "1.1.10",
+    "Filename": "com.zhisuocr.spark_1.1.10_amd64.deb",
+    "Pkgname": "com.zhisuocr.spark",
+    "Author": "壶丘子软件科技有限责任公司",
+    "Contributor": "jerrywang",
+    "Website": "https://ocr.psing.tech",
+    "Update": "2021-01-20 15:26:40",
+    "Size": "50.42 MB",
+    "More": "专业OCR软件,识别更精准、更快速,性能卓越,识别率高",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/c0609ca0-5af0-11eb-bdea-55bdbb71dafd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/ab8d7f00-5af0-11eb-bdea-55bdbb71dafd.png"
+  },
+  {
     "Name": "上海市数字证书助手（UOS x86）",
     "Version": "1.0.1",
     "Filename": "xkapp_linux_uos_x64_20_v1.0.1.deb",
@@ -204,16 +234,19 @@
     "More": "蚂蚁笔记，有极客范的云笔记！\n前所未有的文档体验，近乎完美的平台覆盖，支持团队协同，企业级私有云\n蚂蚁笔记 = 笔记 + 博客 + 协作 + 私有云"
   },
   {
-    "Name": "智速ocr文字识别",
-    "Version": "1.1.10",
-    "Filename": "zhisuocr_1.1.10_amd64.deb",
-    "Pkgname": "zhisuocr",
-    "Author": "郑州壶丘子软件科技有限公司",
+    "Name": "GitMind（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-gitmind_1.0spark0_amd64.deb",
+    "Pkgname": "web-gitmind",
+    "Author": "GitMind",
     "Contributor": "sgb76",
-    "Website": "https://ocr.psing.tech/",
-    "Update": "2020-08-26 23:07",
-    "Size": "50.42MB",
-    "More": "专业OCR软件，识别更精准、更快速，性能卓越，识别率高"
+    "Website": "https://gitmind.cn/",
+    "Update": "2021-01-16 20:29:13",
+    "Size": "9.18 KB",
+    "More": "一款免费在线思维导图软件，简化逻辑梳理，集思广益，释放创造力。可以绘制脑图、思维导图、流程图、工业设计图、工程管理图等。\n如遇到无法输入中文的情况，可以用鼠标点击一下窗口标题栏再输入就没问题了",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/48d349f0-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4b8a0580-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4e77d6a0-57f6-11eb-81be-efeb7e42bb9a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/16/3be5f670-57f6-11eb-81be-efeb7e42bb9a.png"
   },
   {
     "Name": "XMind",
@@ -289,18 +322,6 @@
     "Update": "2020-07-11 13:24",
     "Size": "36.36MB",
     "More": "青竹是一款集笔记文档、任务整理、在线作图于一体的记录工具。作为一款在线记录软件，青竹支持云端保存，及多人协作功能，让各种需要被记录的内容能集中化管理。使用青竹，用户可以快速记录笔记、Markdown、思维导图等，使记录集中化的呈现。"
-  },
-  {
-    "Name": "Write",
-    "Version": "3.0.0",
-    "Filename": "Write_3.0.0_amd64.deb",
-    "Pkgname": "write",
-    "Author": " ",
-    "Contributor": "sgb76",
-    "Website": "http://www.styluslabs.com/",
-    "Update": "2020-07-27 16:54",
-    "Size": "2.52MB",
-    "More": "Write是一款出色的免费手写笔记应用程序，它适用于Windows、macOS、Linux、Android和iOS。它主要与有源触控笔配合使用，并可以在非触摸设备上使用。"
   },
   {
     "Name": "typora官方最新版",
@@ -432,6 +453,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/d44beb80-20ca-11eb-8b68-e56d9275241d.png"
   },
   {
+    "Name": "淡墨水字帖（wine）",
+    "Version": "0.0.6spark0",
+    "Filename": "com.danmoshui.spark_0.0.6spark0_amd64.deb",
+    "Pkgname": "com.danmoshui.spark",
+    "Author": "danmoshui.com",
+    "Contributor": "sgb76",
+    "Website": "https://danmoshui.com/",
+    "Update": "2021-01-25 18:45:39",
+    "Size": "40.83 MB",
+    "More": "一个免费的字帖生成工具，方便小朋友练字、临帖使用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/24165390-5efa-11eb-9627-610ae2c0210b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/2d9c6030-5efa-11eb-9627-610ae2c0210b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/33361770-5efa-11eb-9627-610ae2c0210b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/1d005c90-5efa-11eb-9627-610ae2c0210b.png"
+  },
+  {
     "Name": "笔神（wine）",
     "Version": "3.1.12+3",
     "Filename": "ink.bishen.dcs_3.1.12_plus_3_i386.deb",
@@ -523,18 +559,6 @@
     "tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/26/01e7f8b0-ffb3-11ea-b98c-01783628f795.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/26/06cc42a0-ffb3-11ea-b98c-01783628f795.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/26/fb7b8820-ffb2-11ea-b98c-01783628f795.png"
-  },
-  {
-    "Name": "极音创作",
-    "Version": "1.3.5.8457",
-    "Filename": "ZenWriter_installer.deb",
-    "Pkgname": "zenwriter",
-    "Author": "小忙",
-    "Contributor": "小忙",
-    "Website": "http://zen.jinlixian.com/",
-    "Update": "2020-07-19 15:12",
-    "Size": "22.94MB",
-    "More": "极简快速的创作体验 - 小说创作的终极码字软件"
   },
   {
     "Name": "AO",
@@ -717,6 +741,36 @@
     "More": "Tusk is an unofficial, featureful, open source, community-driven, free Evernote app used by people in more than 140 countries."
   },
   {
+    "Name": "极音创作",
+    "Version": "1.0",
+    "Filename": "con.zenwriter.spark_1.0_amd64.deb",
+    "Pkgname": "con.zenwriter.spark",
+    "Author": "小忙",
+    "Contributor": "jerrywang",
+    "Website": "http://zen.jinlixian.com/",
+    "Update": "2021-01-20 15:35:11",
+    "Size": "22.94 MB",
+    "More": "极简快速的创作体验 - 小说创作的终极码字软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/bc36fab0-5af1-11eb-bdea-55bdbb71dafd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/b54fdbe0-5af1-11eb-bdea-55bdbb71dafd.png"
+  },
+  {
+    "Name": "作业帮直播课学生端（deepin-wine5）",
+    "Version": "0.01",
+    "Filename": "zybang.spark_0.01_i386.deb",
+    "Pkgname": "zybang.spark",
+    "Author": "Windows作者：北京作业帮 wine打包者：僵尸猪灵-shy",
+    "Contributor": "僵尸猪灵-shy",
+    "Website": "https://space.bilibili.com/365755968",
+    "Update": "2021-01-24 21:04:49",
+    "Size": "106.07 MB",
+    "More": "用于购买作业帮网课的用户在linux上使用客户端上课\n注：基于deepin-wine5\n已知问题 在加载的时候手动关闭会报错，关闭报错后如需再次打开需要杀掉zybhost.exe进程（一般不会有人这么干吧。。。）",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/3d8d9c90-5e44-11eb-8940-8fa69c7c0638.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/3fd4cd70-5e44-11eb-8940-8fa69c7c0638.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/45c57e50-5e44-11eb-8940-8fa69c7c0638.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/2649c280-5e43-11eb-8940-8fa69c7c0638.png"
+  },
+  {
     "Name": "谷歌地球",
     "Version": "7.3.3.7721-r0",
     "Filename": "google-earth-pro-stable_current_amd64.deb",
@@ -772,18 +826,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/10/d0b26000-3ab3-11eb-a4e2-b382792bed98.png"
   },
   {
-    "Name": "TXT转Epub电子书 TmdTextEpub",
-    "Version": "1.1.9",
-    "Filename": "TmdTextEpub_1.1.9_all.deb",
-    "Pkgname": "tmdtextepub",
-    "Author": "ystyle",
-    "Contributor": "jalawov",
-    "Website": "https://github.com/ystyle/TmdTextEpub",
-    "Update": "2020-07-07 17:27",
-    "Size": "2.16MB",
-    "More": "能把txt转化为epub的命令行小工具，使用方法：终端输入tmdtextepub"
-  },
-  {
     "Name": "一只番茄",
     "Version": "1.0.4",
     "Filename": "top.yzzi.tomato_1.0.4_amd64.deb",
@@ -818,6 +860,21 @@
     "Update": "2020-07-23 19:42",
     "Size": "73.14MB",
     "More": "Obsidian是一款功能齐全的Markdown编辑器"
+  },
+  {
+    "Name": "Cmd Markdown 编辑阅读器",
+    "Version": "2.0",
+    "Filename": "com.cmd-markdown.spark_2.0_amd64.deb",
+    "Pkgname": "com.cmd-markdown.spark",
+    "Author": "作业部落@ghosert",
+    "Contributor": "sgb76",
+    "Website": "https://www.zybuluo.com/mdeditor",
+    "Update": "2021-01-18 15:31:25",
+    "Size": "25.88 MB",
+    "More": "一款简洁、高效、漂亮的Markdown文档编辑阅读器，可以用来整理知识，学习笔记；发布日记，杂文，所见所想；撰写发布技术文稿（代码支持）；撰写发布学术论文（LaTeX 公式支持） ",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f16c5a20-595e-11eb-94ea-4b6de6939328.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f3c4f020-595e-11eb-94ea-4b6de6939328.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f5e92fb0-595e-11eb-94ea-4b6de6939328.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/ed1e35b0-595e-11eb-94ea-4b6de6939328.png"
   },
   {
     "Name": "灯果写作（wine）",

@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Photopea（web）",
+    "Version": "1.0",
+    "Filename": "spark.photopea.web_1.0_amd64.deb",
+    "Pkgname": "spark.photopea.web",
+    "Author": "Photopea",
+    "Contributor": "gfdgd xi",
+    "Website": "http://photopea.com/",
+    "Update": "2021-01-18 18:26:28",
+    "Size": "3.71 KB",
+    "More": "一个网页版的Photoshop，当然访问速度有些慢",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/8fba8cc0-5977-11eb-ba58-99b882e58fbb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/90841e50-5977-11eb-ba58-99b882e58fbb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/907ca440-5977-11eb-ba58-99b882e58fbb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/908b2330-5977-11eb-ba58-99b882e58fbb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/9981d300-5975-11eb-ba58-99b882e58fbb.png"
+  },
+  {
     "Name": "blender",
     "Version": "2.83.2",
     "Filename": "blender-2.83.2-linux64.deb",
@@ -219,6 +234,21 @@
     "More": "ai人工智能图片放大工具"
   },
   {
+    "Name": "MyPaint",
+    "Version": "2.0.1spark0",
+    "Filename": "org.mypaint.spark_2.0.1spark0_amd64.deb",
+    "Pkgname": "org.mypaint.spark",
+    "Author": "Martin Renold",
+    "Contributor": "sgb76",
+    "Website": "http://mypaint.org/",
+    "Update": "2021-01-21 12:38:40",
+    "Size": "27.91 MB",
+    "More": "MyPaint是一款开源的绘图软件，2.0.1版支持线性合成，图层视图，笔刷笔划改进，新的对称模式，扩展的填充，新的笔刷设置，新的笔刷输入以及各种其他改进和修复。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/67e17330-5ba2-11eb-95f8-57ebcd437231.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/6dc52bc0-5ba2-11eb-95f8-57ebcd437231.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/21/58817200-5ba2-11eb-95f8-57ebcd437231.png"
+  },
+  {
     "Name": "PhotoGIMP",
     "Version": "2.10.21",
     "Filename": "photogimp_2.10.21_amd64.deb",
@@ -229,6 +259,21 @@
     "Update": "2020-06-25 23:19",
     "Size": "138.41MB",
     "More": "PhotoGIMP，是在GIMP基础上修改了界面布局，看起来更像PhotoShop的版本，原作者为来自Diolinux的Dionathan Simione。这个appimage版本基于他的flatpak版本补丁打包而来。"
+  },
+  {
+    "Name": "Photopea",
+    "Version": "1.1",
+    "Filename": "com.photopea.spark_1.1_amd64.deb",
+    "Pkgname": "com.photopea.spark",
+    "Author": "Photopea",
+    "Contributor": "Spark",
+    "Website": "https://www.photopea.com/",
+    "Update": "2021-01-23 11:40:53",
+    "Size": "50.95 MB",
+    "More": "一款免费的在线图像编辑器，支持PSD、XCF、Sketch、XD、CDR等格式（Adobe Photoshop，GIMP，Sketch App，Adobe XD，CORELDRAW）。 ",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/23/a8a630a0-5d2c-11eb-ba03-6509263a2420.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/23/9e3d3e10-5d2c-11eb-ba03-6509263a2420.png"
   },
   {
     "Name": "Image",
@@ -288,19 +333,19 @@
     "More": "一款简易的卡通动画软件"
   },
   {
-    "Name": "PhotoZoom Pro 7（wine）",
-    "Version": "1.0",
-    "Filename": "spark-photozoom_1.0_i386.deb",
+    "Name": "PhotoZoom Pro 8（wine）",
+    "Version": "1.1",
+    "Filename": "spark-photozoom_1.1_i386.deb",
     "Pkgname": "spark-photozoom",
-    "Author": "PhotoZoom 官方",
+    "Author": "BenVista",
     "Contributor": "gfdgd xi",
-    "Website": "https://www.photozoomchina.com/PZpro.html",
-    "Update": "2021-01-18 17:02:15",
-    "Size": "81.2 MB",
-    "More": "一个位图放大软件，使用算法尽可能减少失真程度\n但需要激活授权",
+    "Website": "https://www.benvista.com/",
+    "Update": "2021-01-20 09:54:02",
+    "Size": "40.13 MB",
+    "More": "这是一个使用了全新的S-Spline技术的程序，对不断放大的图片保持了极佳的品质\n（我发现以前打包上传的是非官方原版的，因此重新打包，发现官方原版的 PhotoZoom Pro 8 可以正常使用）",
     "Tags": "deepin;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/2e06ea70-596b-11eb-be08-2d16edb03bc5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/2dfb2aa0-596b-11eb-be08-2d16edb03bc5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/2e12f860-596b-11eb-be08-2d16edb03bc5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/57928e40-596a-11eb-be08-2d16edb03bc5.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa49f170-5ac1-11eb-97bf-ef654263344e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa5f4e30-5ac1-11eb-97bf-ef654263344e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/fa74aaf0-5ac1-11eb-97bf-ef654263344e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/f1385180-5ac1-11eb-97bf-ef654263344e.png"
   },
   {
     "Name": "PhotoFlare",
@@ -316,18 +361,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/16/2b080cc0-27af-11eb-9494-a3f68650965b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/16/5921a7b0-27af-11eb-9494-a3f68650965b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/16/23c9f450-27af-11eb-9494-a3f68650965b.png"
-  },
-  {
-    "Name": "photopea",
-    "Version": "1.1",
-    "Filename": "Photopea-1.1.deb",
-    "Pkgname": "photopea",
-    "Author": "photopea",
-    "Contributor": "neko",
-    "Website": "www.photopea.com",
-    "Update": "2020-06-25 21:10",
-    "Size": "50.96MB",
-    "More": "Photopea是用于编辑栅格的免费在线工具,以及支持PSD，XCF和Sketch文件的矢量图形"
   },
   {
     "Name": "深度看图（旧版）",
@@ -382,18 +415,6 @@
     "Update": "2020年8月28日",
     "Size": "18M",
     "More": "美图秀秀是一款很好用的免费图片处理软件，不用学习就会用。美图秀秀拥有的图片特效、美容、拼图、场景、边框、饰品等功能，加上每天更新的精选素材，可以让你1分钟做出影楼级照片。"
-  },
-  {
-    "Name": "MyPaint",
-    "Version": "2.0.1",
-    "Filename": "MyPaint_2.0.1_amd64.deb",
-    "Pkgname": "mypaint",
-    "Author": " ",
-    "Contributor": "sgb76",
-    "Website": "http://mypaint.org/",
-    "Update": "2020-07-18 12:59",
-    "Size": "27.91MB",
-    "More": "MyPaint是一款开源的绘图软件，2.0.1版支持线性合成，图层视图，笔刷笔划改进，新的对称模式，扩展的填充，新的笔刷设置，新的笔刷输入以及各种其他改进和修复。"
   },
   {
     "Name": "viewnior",

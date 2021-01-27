@@ -12,18 +12,6 @@
     "More": "CrossOver deepin定制版，通过蹲守apt archieves获取得到安装包。请注意：不保证在非deepin发行版的使用效果"
   },
   {
-    "Name": "natron",
-    "Version": "2.3.15",
-    "Filename": "io.github.natrongithub_2.3.15_amd64.deb",
-    "Pkgname": "io.github.natrongithub",
-    "Author": " ",
-    "Contributor": "cht",
-    "Website": "https://natrongithub.github.io/",
-    "Update": "2020-07-04 10:16",
-    "Size": "180.16MB",
-    "More": "视觉效果和动态图形行业的跨平台开源合成软件.Natron是功能强大的数字合成器，可以满足您的2D / 2.5D需求。Natron强大的OIIO文件格式和OpenFX架构使Natron成为视觉效果社区最灵活的开源合成器。在所有平台（如MacOS，Linux和Windows）上，其界面和功能均相同。Natron具有功能强大的抠像，roto / rotopaint，2D跟踪工具，是当前所有需要视觉效果的电影制作项目的必备工具"
-  },
-  {
     "Name": "IGV",
     "Version": "2.8.2",
     "Filename": "org.igv_2.8.2_all.deb",
@@ -38,7 +26,7 @@
   {
     "Name": "ppet",
     "Version": "1.2.1+1",
-    "FileName": "ppet_1.2.1+1_amd64.deb",
+    "Filename": "ppet_1.2.1+1_amd64.deb",
     "Pkgname": "ppet",
     "Author": "zenghongtu",
     "Contributor": "乾一巽五",
@@ -123,6 +111,21 @@
     "More": "基于 Electron 运行的 Windows 95 操作系统。支持 macOS，Linux 以及 Windows 平台。"
   },
   {
+    "Name": "JHelioviewer",
+    "Version": "2.15.7.9411",
+    "Filename": "org.jhelioviewer.spark_2.15.7.9411_amd64.deb",
+    "Pkgname": "org.jhelioviewer.spark",
+    "Author": "ESA JHelioviewer Team",
+    "Contributor": "solarphys",
+    "Website": "https://www.jhelioviewer.org",
+    "Update": "2021-01-21 06:23:56",
+    "Size": "81.93 MB",
+    "More": "JHelioviewer是欧空局开发的一款开源太阳观测数据获取软件，可以在线观看获取SDO, STEREO, SOHO, Yokoh, PROBA2等卫星的观测图像。该软件集成了大量丰富实用的功能，是天文爱好者和相关科研工作者必不可少的工具之一。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/68ad0690-5b60-11eb-b6af-bf29275e545b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/693f8290-5b60-11eb-b6af-bf29275e545b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/68f5a850-5b60-11eb-b6af-bf29275e545b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/21/63efa590-5b60-11eb-b6af-bf29275e545b.png"
+  },
+  {
     "Name": "小乐数学 zzllrr Mather (网页应用)",
     "Version": "1.0.0",
     "Filename": "zzllrr-mather_1.0.0_all.deb",
@@ -160,6 +163,21 @@
     "Update": "2020-08-13 17:07",
     "Size": "13.82MB",
     "More": "基于deepin-wine5打包制作（已在依赖中添加deepin-wine5）。\nSeetong是所有Seetong云设备的远程监控客户端。该APP主要功能包括：用户注册，快捷添加云设备，设备列表智能排序，实时图像预览、对讲、录像、截屏，画面分割，轮巡，横屏或竖屏显示，不同网络环境播放模式选择，告警推送，远程录像回放，本地相册和录像回放管理等。"
+  },
+  {
+    "Name": "SweetHome3D",
+    "Version": "6.4.2spark0",
+    "Filename": "com.sweethome3d.spark_6.4.2spark0_amd64.deb",
+    "Pkgname": "com.sweethome3d.spark",
+    "Author": "eTeks",
+    "Contributor": "sgb76",
+    "Website": "http://www.sweethome3d.com/",
+    "Update": "2021-01-19 16:06:20",
+    "Size": "49.07 MB",
+    "More": "Sweet Home 3D是一个免费的室内设计应用程序 ，可帮助您绘制房屋平面图，布置家具并以3D形式访问结果",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/0fc66320-5a2d-11eb-9170-175a4312f329.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/11d43480-5a2d-11eb-9170-175a4312f329.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/19/0a852c20-5a2d-11eb-9170-175a4312f329.png"
   },
   {
     "Name": "Moneydance",
@@ -227,7 +245,7 @@
   {
     "Name": "一只二维码",
     "Version": "1.1",
-    "Filename": "top.yzzi.onecuter_1.1_amd64",
+    "Filename": "top.yzzi.onecuter_1.1_amd64.deb",
     "Pkgname": "top.yzzi.onecuter",
     "Author": "一只科技菌",
     "Contributor": "一只科技菌",
