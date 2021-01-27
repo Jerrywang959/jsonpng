@@ -15,6 +15,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/22/7c8077e0-5ca7-11eb-a3db-df67796f5e40.png"
   },
   {
+    "Name": "deadbeef",
+    "Version": "1.8.6-1",
+    "Filename": "deadbeef-static_1.8.6-1_amd64.deb",
+    "Pkgname": "deadbeef-static",
+    "Author": "Alexey Yakovenko",
+    "Contributor": "sgb76",
+    "Website": "https://deadbeef.sourceforge.io/",
+    "Update": "2021-01-27 11:43:34",
+    "Size": "8.41 MB",
+    "More": "DeaDBeeF在GNU/Linux系统下是一款跨平台的音频播放器，支持多种格式，自定义UI、内存占用小，提供很多额外功能的插件。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/9ff67a00-6051-11eb-a640-e5fe71b2699d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/b1753c80-6051-11eb-a640-e5fe71b2699d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/27/985a3c00-6051-11eb-a640-e5fe71b2699d.png"
+  },
+  {
     "Name": "人人钢琴（wine）",
     "Version": "2.3.4.14spark0",
     "Filename": "com.everyonepiano.spark_2.3.4.14spark0_i386.deb",
@@ -202,18 +217,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/16/c4c777c0-0fc6-11eb-9676-6de1389aeef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/16/c4c2bcd0-0fc6-11eb-9676-6de1389aeef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/16/c4e6bf90-0fc6-11eb-9676-6de1389aeef0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/16/5f3b5fc0-0fc6-11eb-9676-6de1389aeef0.svg"
-  },
-  {
-    "Name": "deadbeef",
-    "Version": "1.8.4",
-    "Filename": "deadbeef_1.8.4_amd64.deb",
-    "Pkgname": "deadbeef",
-    "Author": " ",
-    "Contributor": "sgb76",
-    "Website": "https://deadbeef.sourceforge.io/",
-    "Update": "2020-07-20 23:34",
-    "Size": "5.45MB",
-    "More": "DeaDBeeF在GNU/Linux系统下是一款音频播放器，原生GTK2和GTK3 GUI、支持多种格式，自定义UI、内存占用小、很多额外功能的插件。"
   },
   {
     "Name": "酷狗",
