@@ -1,0 +1,15 @@
+{
+    "Name": "P3X Onote",
+    "Version": "2021.4.103",
+    "Filename": "p3x-onenote_2021.4.103_amd64.deb",
+    "Pkgname": "p3x-onenote",
+    "Author": "partikx3",
+    "Contributor": "solarphys",
+    "Website": "https://github.com/patrikx3/onenote/releases",
+    "Update": "2021-01-28 18:50:54",
+    "Size": "86.22 MB",
+    "More": "由partikx3开发的Linux版微软Onenote客户端，基于Electron。原作者仅发布snap版和appimage版，详细信息请参考https://github.com/patrikx3/onenote。该版为利用星火商店转换器转换的deb版",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/fa6a4360-6153-11eb-b338-1f37e34ef643.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/faee6780-6153-11eb-b338-1f37e34ef643.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/195d63b0-6154-11eb-b338-1f37e34ef643.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/28/f750a750-6153-11eb-b338-1f37e34ef643.png"
+}
