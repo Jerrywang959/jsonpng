@@ -30,6 +30,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/27/985a3c00-6051-11eb-a640-e5fe71b2699d.png"
   },
   {
+    "Name": "MuseScore",
+    "Version": "3.6.0spark0",
+    "Filename": "org.musescore.spark_3.6.0spark0_amd64.deb",
+    "Pkgname": "org.musescore.spark",
+    "Author": "MuseScore BVBA",
+    "Contributor": "sgb76",
+    "Website": "https://musescore.org",
+    "Update": "2021-01-27 16:32:27",
+    "Size": "123.42 MB",
+    "More": "一款用于创建、播放和打印乐谱的实用工具",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/1bfc9720-6079-11eb-907d-a78f8178cb24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/2109c5d0-6079-11eb-907d-a78f8178cb24.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/27/14b33410-6079-11eb-907d-a78f8178cb24.png"
+  },
+  {
     "Name": "人人钢琴（wine）",
     "Version": "2.3.4.14spark0",
     "Filename": "com.everyonepiano.spark_2.3.4.14spark0_i386.deb",

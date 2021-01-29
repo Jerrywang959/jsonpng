@@ -115,6 +115,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/20/fe48fe80-42e6-11eb-8f33-ab7330ea0c51.png"
   },
   {
+    "Name": "DTK桌面便签",
+    "Version": "0.0.4+spark3",
+    "Filename": "dtkstickynotes.spark_0.0.4+spark3_amd64.deb",
+    "Pkgname": "dtkstickynotes.spark",
+    "Author": "RubbishZhYic",
+    "Contributor": "Spark",
+    "Website": "http://zhyic.tk",
+    "Update": "2021-01-27 19:24:51",
+    "Size": "274.4 KB",
+    "More": "一款用DTK5开发的桌面便签",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/2b4bc610-6092-11eb-bacb-cd778305e8fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/37a95cb0-6092-11eb-bacb-cd778305e8fb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/27/275c6370-6092-11eb-bacb-cd778305e8fb.png"
+  },
+  {
     "Name": "radeontop",
     "Version": "1.3-1",
     "Filename": "radeontop_1.3-1_amd64.deb",
@@ -442,6 +457,21 @@
     "More": "深度右键刷新插件，卸载请sudo apt purge sm-refresh -y"
   },
   {
+    "Name": "GuanJi",
+    "Version": "1.2",
+    "Filename": "guanji.spark_1.2_amd64.deb",
+    "Pkgname": "guanji.spark",
+    "Author": "liu",
+    "Contributor": "Spark",
+    "Website": "暂无",
+    "Update": "2021-01-27 18:23:56",
+    "Size": "24.97 MB",
+    "More": "基于dtk的关机小程序，有关机重启定时关机功能",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/612346e0-6089-11eb-a904-6f59dace9a65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/64af2cc0-6089-11eb-a904-6f59dace9a65.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/27/5a6b9c80-6089-11eb-a904-6f59dace9a65.png"
+  },
+  {
     "Name": "fsearch",
     "Version": "20201209+r819.4afd0c6~ubuntu20.04.1",
     "Filename": "fsearch-trunk_20201209_plus_r819.4afd0c6~ubuntu20.04.1_amd64.deb",
@@ -702,6 +732,21 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/112afb60-1601-11eb-a7c0-69b548b51249.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/1b089de0-1601-11eb-a7c0-69b548b51249.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/022e9e00-1601-11eb-a7c0-69b548b51249.png"
+  },
+  {
+    "Name": "deepin-wine 运行器",
+    "Version": "1.0",
+    "Filename": "spark-deepin-wine-runner_1.0_all.deb",
+    "Pkgname": "spark-deepin-wine-runner",
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "Update": "2021-01-29 12:54:36",
+    "Size": "2.18 KB",
+    "More": "一个图形化了以下命令的程序\nWINEPREFIX=容器路径 deepin-wine 可执行文件路径\n让你的 deepin-wine 打包轻松一点 是使用 Python3 的 tkinter 构建的（在终端运行可以看到 deepin-wine<5>运行可执行文件时的报错）\n目前问题：\n1、暂不支持 deepin-wine（deepin-wine5） 容器路径含有空格，如有请在空格前加“\\”进行转义\n2、当运行时程序会出现线程堵塞的情况，导致图形界面假死",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c74651f0-61ed-11eb-a776-6b7cccb164d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c727f480-61ed-11eb-a776-6b7cccb164d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c73a6b10-61ed-11eb-a776-6b7cccb164d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c7560960-61ed-11eb-a776-6b7cccb164d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c7353af0-61ed-11eb-a776-6b7cccb164d3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/2dcd6130-61ed-11eb-a776-6b7cccb164d3.png"
   },
   {
     "Name": "Timeshift",
