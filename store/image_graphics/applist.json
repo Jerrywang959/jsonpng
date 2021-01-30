@@ -193,18 +193,18 @@
   },
   {
     "Name": "darktable",
-    "Version": "3.2.1-1.1",
-    "Filename": "darktable_3.2.1-1.1_amd64.deb",
+    "Version": "3.4.0-1.1",
+    "Filename": "darktable_3.4.0-1.1_amd64.deb",
     "Pkgname": "darktable",
-    "Author": "darktable team",
+    "Author": "darktable team.",
     "Contributor": "sgb76",
-    "Website": "https://www.darktable.org/",
-    "Update": "2020-09-08 19:09:28",
-    "Size": "3.87 MB",
+    "Website": "http://www.darktable.org/",
+    "Update": "2021-01-29 11:12:50",
+    "Size": "4.42 MB",
     "More": "darktable是一个开源的摄影工作应用和raw处理工具，可以给摄影师提供一个虚拟的灯光台和暗室。",
-    "tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/08/a71c54f0-f1c3-11ea-9c29-93260fe96a0e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/08/aa248be0-f1c3-11ea-9c29-93260fe96a0e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/08/a3199160-f1c3-11ea-9c29-93260fe96a0e.png"
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c12ec080-61df-11eb-b19d-5936867f484a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c9bab5b0-61df-11eb-b19d-5936867f484a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/cf7c4040-61df-11eb-b19d-5936867f484a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/b05f77e0-61df-11eb-b19d-5936867f484a.png"
   },
   {
     "Name": "圆角裁切器",

@@ -1,15 +1,15 @@
 {
     "Name": "微秘（wine）",
-    "Version": "3.1.0spark1",
-    "Filename": "wemind.spark_3.1.0spark1_i386.deb",
+    "Version": "3.2.2spark2",
+    "Filename": "wemind.spark_3.2.2spark2_i386.deb",
     "Pkgname": "wemind.spark",
     "Author": "微秘科技（深圳）有限公司",
     "Contributor": "sgb76",
     "Website": "http://wemind.cn/",
-    "Update": "2020-12-08 03:22:40",
+    "Update": "2021-01-28 17:23:42",
     "Size": "72.69 MB",
-    "More": "一站式数字助手，笔记、日历、待办、打卡及更多，一款应用来搞定，强大又省心，让生活、学习、工作都井井有条。已知问题：应用内右键菜单粘贴似乎无效，但可以ctrl+v",
+    "More": "一站式数字助手，笔记、日历、待办、打卡及更多，一款应用来搞定，强大又省心，让生活、学习、工作都井井有条。\n已知问题：程序内右键菜单粘贴似乎无效，但可以通过Ctrl+V来粘贴",
     "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/70a9f110-3904-11eb-a40f-89c5dde8e550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/754969d0-3904-11eb-a40f-89c5dde8e550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/78c98fe0-3904-11eb-a40f-89c5dde8e550.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/08/64d0a5a0-3904-11eb-a40f-89c5dde8e550.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/2610c700-614a-11eb-95c1-9d95251310d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/287f7d10-614a-11eb-95c1-9d95251310d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/4d4f7820-614a-11eb-95c1-9d95251310d2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/28/20fda4e0-614a-11eb-95c1-9d95251310d2.png"
 }

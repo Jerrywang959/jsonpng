@@ -148,18 +148,18 @@
   },
   {
     "Name": "洛雪音乐助手",
-    "Version": "1.5.0-159",
-    "Filename": "lx-music-desktop_1.5.0-159_amd64.deb",
+    "Version": "1.6.1-170",
+    "Filename": "lx-music-desktop_1.6.1-170_amd64.deb",
     "Pkgname": "lx-music-desktop",
     "Author": "lyswhut",
-    "Contributor": "shenmo",
-    "Website": "https://github.com/lyswhut/lx-music-desktop/releases",
-    "Update": "2020-12-26 07:58:23",
-    "Size": "54.21 MB",
-    "More": "洛雪音乐助手桌面版\n一个基于 Electron + Vue 开发的音乐软件。\n全网搜索音乐",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/9e13ac50-474f-11eb-977c-23e0ed839864.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/9e293020-474f-11eb-977c-23e0ed839864.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/26/9e2dc400-474f-11eb-977c-23e0ed839864.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/26/8868cc50-474f-11eb-977c-23e0ed839864.png"
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/lyswhut/lx-music-desktop",
+    "Update": "2021-01-29 22:47:26",
+    "Size": "51.93 MB",
+    "More": " 一个基于 electron 的音乐软件 \n全网搜音乐",
+    "Tags": "community;deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/e25803a0-6240-11eb-b573-85f2df46a76e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/b5affa10-6240-11eb-b573-85f2df46a76e.png"
   },
   {
     "Name": "Helio调音工作站",

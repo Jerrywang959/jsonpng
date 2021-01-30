@@ -1,15 +1,15 @@
 {
     "Name": "冰点文库（wine）",
-    "Version": "3.2.14.0914spark1",
-    "Filename": "com.bingdian001.spark_3.2.14.0914spark1_i386.deb",
+    "Version": "3.2.16spark0",
+    "Filename": "com.bingdian001.spark_3.2.16spark0_i386.deb",
     "Pkgname": "com.bingdian001.spark",
     "Author": "等雪的鱼",
     "Contributor": "anima",
     "Website": "http://www.bingdian001.com/",
-    "Update": "2021-01-12 15:43:29",
-    "Size": "48.97 MB",
+    "Update": "2021-01-30 22:34:39",
+    "Size": "48.98 MB",
     "More": "冰点文库下载器，下载文档利刃当之首选！无需积分也无需登录就可以自由下载百度和豆丁文库，它支持百度、豆丁、丁香、畅享、MBALib、HP009、MAX、Book118、金字塔医学、大桔灯等文库文档，支持多个任务同时下载和断点续传下载，下载的文档与原始文档质量等同，最终生成高清晰度的PDF格式文档。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/12/c381ec10-54a9-11eb-8801-bd06e6a6a4a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/12/c3957410-54a9-11eb-8801-bd06e6a6a4a7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/12/bff2aad0-54a9-11eb-8801-bd06e6a6a4a7.png"
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/30/2eb1e230-6308-11eb-8ad6-15d89b36b0b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/30/2eb7d5a0-6308-11eb-8ad6-15d89b36b0b1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/30/00bcbf30-6308-11eb-8ad6-15d89b36b0b1.png"
 }

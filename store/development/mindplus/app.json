@@ -1,0 +1,15 @@
+{
+    "Name": "Mind+",
+    "Version": "1.6.5-202009301638",
+    "Filename": "mindplus_1.6.5-202009301638_amd64.deb",
+    "Pkgname": "mindplus",
+    "Author": "Mind+",
+    "Contributor": "Mind+",
+    "Website": "mindplus.cc",
+    "Update": "2021-01-30 18:02:46",
+    "Size": "298.54 MB",
+    "More": "\nMind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。 ",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/30/6f218970-62df-11eb-bcf8-1d3b0b329f62.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/30/f7b07310-62de-11eb-bcf8-1d3b0b329f62.png"
+}

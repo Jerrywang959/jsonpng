@@ -138,6 +138,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/26/2ca11bb0-2fa4-11eb-9c04-29f64ae45823.png"
   },
   {
+    "Name": "360安全云盘",
+    "Version": "1.0.0.1013",
+    "Filename": "cn.360.cloud_1.0.0.1013_amd64.deb",
+    "Pkgname": "cn.360.cloud",
+    "Author": "360官方",
+    "Contributor": "清怨",
+    "Website": "https://yunpan.360.cn/",
+    "Update": "2021-01-29 20:02:18",
+    "Size": "21.25 MB",
+    "More": "支持国产龙芯、兆芯、飞腾芯片\n管理云端文件，上传下载备份文",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c8011f30-6229-11eb-887e-6339da1850f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/aa842420-6229-11eb-887e-6339da1850f7.jpg"
+  },
+  {
     "Name": "妙笔",
     "Version": "1.7.9.5225",
     "Filename": "wonderpen_1.7.9_a2d.deb",
@@ -381,19 +396,34 @@
     "More": "Indicator Stickynotes是一个用于Linux的便签应用程序，它在系统托盘中运行，作为后台服务，该应用程序非常轻量级，具有许多有用的功能，使其成为一个有吸引力的笔记应用程序，如平面界面、笔记的导入和导出、可自定义的便签颜色等。"
   },
   {
+    "Name": "瞩目",
+    "Version": "2.5.361956.0302",
+    "Filename": "zhumu_2.5.361956.0302_amd64.deb",
+    "Pkgname": "zhumu",
+    "Author": "随锐科技集团股份有限公司",
+    "Contributor": "清怨",
+    "Website": "https://www.zhumu.com/",
+    "Update": "2021-01-29 14:05:20",
+    "Size": "62.4 MB",
+    "More": "位数：32/64   大小：62.3M\n更新日期：2020-04-22\n支持系统：Ubuntu/优麒麟",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/d500d4f0-61f7-11eb-9662-b35d636936ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/d6e96b10-61f7-11eb-9662-b35d636936ba.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/d0460c00-61f7-11eb-9662-b35d636936ba.png"
+  },
+  {
     "Name": "微秘（wine）",
-    "Version": "3.1.0spark1",
-    "Filename": "wemind.spark_3.1.0spark1_i386.deb",
+    "Version": "3.2.2spark2",
+    "Filename": "wemind.spark_3.2.2spark2_i386.deb",
     "Pkgname": "wemind.spark",
     "Author": "微秘科技（深圳）有限公司",
     "Contributor": "sgb76",
     "Website": "http://wemind.cn/",
-    "Update": "2020-12-08 03:22:40",
+    "Update": "2021-01-28 17:23:42",
     "Size": "72.69 MB",
-    "More": "一站式数字助手，笔记、日历、待办、打卡及更多，一款应用来搞定，强大又省心，让生活、学习、工作都井井有条。已知问题：应用内右键菜单粘贴似乎无效，但可以ctrl+v",
+    "More": "一站式数字助手，笔记、日历、待办、打卡及更多，一款应用来搞定，强大又省心，让生活、学习、工作都井井有条。\n已知问题：程序内右键菜单粘贴似乎无效，但可以通过Ctrl+V来粘贴",
     "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/70a9f110-3904-11eb-a40f-89c5dde8e550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/754969d0-3904-11eb-a40f-89c5dde8e550.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/78c98fe0-3904-11eb-a40f-89c5dde8e550.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/08/64d0a5a0-3904-11eb-a40f-89c5dde8e550.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/2610c700-614a-11eb-95c1-9d95251310d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/287f7d10-614a-11eb-95c1-9d95251310d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/4d4f7820-614a-11eb-95c1-9d95251310d2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/28/20fda4e0-614a-11eb-95c1-9d95251310d2.png"
   },
   {
     "Name": "BIGEMAP地图下载器（wine）",

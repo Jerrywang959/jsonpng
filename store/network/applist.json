@@ -333,19 +333,19 @@
     "More": "文件管理更便捷\n上传下载更稳定"
   },
   {
-    "Name": "Vivaldi (snapshot)",
-    "Version": "3.5.2080.3-1",
-    "Filename": "vivaldi-snapshot_3.5.2080.3-1_amd64.deb",
+    "Name": "Vivaldi 预览版",
+    "Version": "3.6.2165.32-1",
+    "Filename": "vivaldi-snapshot_3.6.2165.32-1_amd64.deb",
     "Pkgname": "vivaldi-snapshot",
-    "Author": "Vivaldi Technologies AS.",
+    "Author": "Vivaldi Technologies",
     "Contributor": "SamLukeYes",
     "Website": "https://vivaldi.com",
-    "Update": "2020-10-22 14:16:37",
-    "Size": "72.23 MB",
-    "More": "Vivaldi 浏览器预览版。此软件包不一定是最新版本，但安装后可以通过系统更新收到新版本推送。",
+    "Update": "2021-01-29 20:55:58",
+    "Size": "73.95 MB",
+    "More": "Vivaldi 浏览器的预览分支（snapshot）",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/22/2f75a070-1471-11eb-835e-b592f92c9dbf.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/22/2f6fd410-1471-11eb-835e-b592f92c9dbf.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/f03d8d10-6230-11eb-9bab-8f78f0d8abfc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/f2b6a360-6230-11eb-9bab-8f78f0d8abfc.png"
   },
   {
     "Name": "Motrix",
@@ -604,18 +604,18 @@
   },
   {
     "Name": "冰点文库（wine）",
-    "Version": "3.2.14.0914spark1",
-    "Filename": "com.bingdian001.spark_3.2.14.0914spark1_i386.deb",
+    "Version": "3.2.16spark0",
+    "Filename": "com.bingdian001.spark_3.2.16spark0_i386.deb",
     "Pkgname": "com.bingdian001.spark",
     "Author": "等雪的鱼",
     "Contributor": "anima",
     "Website": "http://www.bingdian001.com/",
-    "Update": "2021-01-12 15:43:29",
-    "Size": "48.97 MB",
+    "Update": "2021-01-30 22:34:39",
+    "Size": "48.98 MB",
     "More": "冰点文库下载器，下载文档利刃当之首选！无需积分也无需登录就可以自由下载百度和豆丁文库，它支持百度、豆丁、丁香、畅享、MBALib、HP009、MAX、Book118、金字塔医学、大桔灯等文库文档，支持多个任务同时下载和断点续传下载，下载的文档与原始文档质量等同，最终生成高清晰度的PDF格式文档。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/12/c381ec10-54a9-11eb-8801-bd06e6a6a4a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/12/c3957410-54a9-11eb-8801-bd06e6a6a4a7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/12/bff2aad0-54a9-11eb-8801-bd06e6a6a4a7.png"
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/30/2eb1e230-6308-11eb-8ad6-15d89b36b0b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/30/2eb7d5a0-6308-11eb-8ad6-15d89b36b0b1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/30/00bcbf30-6308-11eb-8ad6-15d89b36b0b1.png"
   },
   {
     "Name": "水狐",
@@ -676,17 +676,17 @@
   },
   {
     "Name": "Vivaldi 浏览器",
-    "Version": "3.5.2115.87-1",
-    "Filename": "vivaldi-stable_3.5.2115.87-1_amd64.deb",
+    "Version": "3.6.2165.34-1",
+    "Filename": "vivaldi-stable_3.6.2165.34-1_amd64.deb",
     "Pkgname": "vivaldi-stable",
     "Author": "Vivaldi Technologies",
     "Contributor": "SamLukeYes",
     "Website": "https://vivaldi.com",
-    "Update": "2021-01-08 09:53:37",
-    "Size": "73.28 MB",
-    "More": "全新的 Vivaldi 浏览器保护您免受追踪器的侵犯，封锁恼人的广告，并通过诸多独有的内置功能让您掌控一切。即刻获取 Vivaldi 浏览器并享用极速浏览。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/08/2f31da80-5197-11eb-a4c3-2f1d9440ba2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/08/302206e0-5197-11eb-a4c3-2f1d9440ba2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/08/2fa70a80-5197-11eb-a4c3-2f1d9440ba2e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/08/32acd070-5197-11eb-a4c3-2f1d9440ba2e.png"
+    "Update": "2021-01-29 21:02:47",
+    "Size": "73.94 MB",
+    "More": "全新的 Vivaldi 浏览器保护您免受追踪器的侵犯，封锁恼人的广告，并通过诸多独有的内置功能让您掌控一切。若此版本无法使用，请尝试切换到测试版（vivaldi-snapshot）。",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/a77f00d0-6231-11eb-9bab-8f78f0d8abfc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/a80bfe90-6231-11eb-9bab-8f78f0d8abfc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/a7a6fb30-6231-11eb-9bab-8f78f0d8abfc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/a97b6d10-6231-11eb-9bab-8f78f0d8abfc.png"
   }
 ]
