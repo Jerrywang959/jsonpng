@@ -217,6 +217,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/18/27e68a30-f988-11ea-9433-5f813e49cebb.svg"
   },
   {
+    "Name": "spark-webapp-runtime 运行器",
+    "Version": "1.0.2",
+    "Filename": "spark-webapp-runtime-runner_1.0.2_all.deb",
+    "Pkgname": "spark-webapp-runtime-runner",
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner",
+    "Update": "2021-01-31 16:03:43",
+    "Size": "11.38 KB",
+    "More": "一个 spark-webapp-runtime 图形化运行器\n（因为自己美术功底太差，所以就使用了“SWebRuntime 唤醒”的图标）",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/31/bb698420-639a-11eb-9661-679742d782ef.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/31/bf18f790-639a-11eb-9661-679742d782ef.png"
+  },
+  {
     "Name": "Ventoy",
     "Version": "1.0.15",
     "Filename": "ventoy_1.0.15_GUI_fyljp.deb",
@@ -735,18 +750,18 @@
   },
   {
     "Name": "deepin-wine 运行器",
-    "Version": "1.0",
-    "Filename": "spark-deepin-wine-runner_1.0_all.deb",
+    "Version": "1.1.1",
+    "Filename": "spark-deepin-wine-runner_1.1.1_all.deb",
     "Pkgname": "spark-deepin-wine-runner",
     "Author": "gfdgd xi",
     "Contributor": "gfdgd xi",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "Update": "2021-01-29 12:54:36",
-    "Size": "2.18 KB",
-    "More": "一个图形化了以下命令的程序\nWINEPREFIX=容器路径 deepin-wine 可执行文件路径\n让你的 deepin-wine 打包轻松一点 是使用 Python3 的 tkinter 构建的（在终端运行可以看到 deepin-wine<5>运行可执行文件时的报错）\n目前问题：\n1、暂不支持 deepin-wine（deepin-wine5） 容器路径含有空格，如有请在空格前加“\\”进行转义\n2、当运行时程序会出现线程堵塞的情况，导致图形界面假死",
-    "Tags": "deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c74651f0-61ed-11eb-a776-6b7cccb164d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c727f480-61ed-11eb-a776-6b7cccb164d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c73a6b10-61ed-11eb-a776-6b7cccb164d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c7560960-61ed-11eb-a776-6b7cccb164d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c7353af0-61ed-11eb-a776-6b7cccb164d3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/2dcd6130-61ed-11eb-a776-6b7cccb164d3.png"
+    "Website": "gfdgd xi",
+    "Update": "2021-01-31 14:50:12",
+    "Size": "38.98 KB",
+    "More": "一个图形化了以下命令的程序\n\nWINEPREFIX=容器路径 deepin-wine 可执行文件路径\n使用 Python3 的 tkinter 构建的 \n（自己美术功底太差，图标只能在网络上找了） ",
+    "Tags": "deepin;ubuntu;community;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/31/7af02110-6390-11eb-a9b4-31323cd43d5a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/31/7580ae20-6390-11eb-a9b4-31323cd43d5a.png"
   },
   {
     "Name": "Timeshift",
