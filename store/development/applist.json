@@ -393,6 +393,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/05/94774da0-ef20-11ea-983c-8d054728a013.png"
   },
   {
+    "Name": "源码编辑器（wine）",
+    "Version": "3.6.9",
+    "Filename": "codemao.kitten.yzf_3.6.9_i386.deb",
+    "Pkgname": "codemao.kitten.yzf",
+    "Author": "编程猫",
+    "Contributor": "小鱼yuzifu",
+    "Website": "https://codemao.com",
+    "Update": "2021-02-02 14:17:41",
+    "Size": "154.23 MB",
+    "More": "支持离线编辑代码，让创作更简单\n已知问题：webGL无法启用",
+    "Tags": "dwine5;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/02b0fd70-651e-11eb-a0b4-65f3808170ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/071e1b90-651e-11eb-a0b4-65f3808170ce.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/f158aeb0-651d-11eb-a0b4-65f3808170ce.svg"
+  },
+  {
     "Name": "ffdec",
     "Version": "11.3.0-1",
     "Filename": "ffdec_11.3.0_nightly1726.deb",
