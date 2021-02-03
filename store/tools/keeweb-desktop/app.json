@@ -1,12 +1,15 @@
 {
-   "Name":"keeweb",
-   "Version":"1.15.5-1",
-   "Filename":"KeeWeb-1.15.5.linux.x64.deb",
-   "Pkgname":"keeweb-desktop",
-   "Author":"keeweb",
-   "Contributor":"chaodn",
-   "Website":"https://keeweb.info/",
-   "Update":"2020-07-01 09:52",
-   "Size":"70.98MB",
-   "More":"keeweb是一个开源免费的密码管理器。不过没有中文版，英语渣谨慎下载。"
+    "Name": "keeweb",
+    "Version": "1.16.7-1",
+    "Filename": "keeweb-desktop_1.16.7-1_amd64.deb",
+    "Pkgname": "keeweb-desktop",
+    "Author": "keeweb",
+    "Contributor": "jerrywang",
+    "Website": "https://keeweb.info/",
+    "Update": "2021-02-03 22:37:37",
+    "Size": "73.38 MB",
+    "More": "keeweb是一个开源免费的密码管理器。可安装中文插件。\n此deb包名称为“keeweb-desktop\", 与原来的“keeweb”冲突，需要卸载原keeweb包",
+    "Tags": "ubuntu;community;uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/03/ae20a020-662c-11eb-b2b7-99472486f8a0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/03/acf343b0-662c-11eb-b2b7-99472486f8a0.png"
 }

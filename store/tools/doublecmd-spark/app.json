@@ -1,15 +1,15 @@
 {
     "Name": "DoubleCmd",
-    "Version": "0.9.9",
-    "Filename": "doublecmd-spark_0.9.9_amd64.deb",
+    "Version": "0.9.10spark0",
+    "Filename": "doublecmd-spark_0.9.10spark0_amd64.deb",
     "Pkgname": "doublecmd-spark",
     "Author": "alexx2000",
     "Contributor": "sgb76",
     "Website": "http://doublecommander.com/",
-    "Update": "2020-10-24 14:00:13",
-    "Size": "8.6 MB",
+    "Update": "2021-02-02 11:52:25",
+    "Size": "8.66 MB",
     "More": "Double Commander是一款具有两个并排面板的跨平台开源文件管理器",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/112afb60-1601-11eb-a7c0-69b548b51249.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/1b089de0-1601-11eb-a7c0-69b548b51249.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/022e9e00-1601-11eb-a7c0-69b548b51249.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/bb0e4e00-6509-11eb-bafe-a57f8baffe4b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/bf5daaf0-6509-11eb-bafe-a57f8baffe4b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/adbd0890-6509-11eb-bafe-a57f8baffe4b.png"
 }

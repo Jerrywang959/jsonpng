@@ -1,15 +1,15 @@
 {
     "Name": "Start Reader（wine）",
-    "Version": "3.4.2.spark0",
-    "Filename": "com.startreader.spark_3.4.2.spark0_i386.deb",
+    "Version": "4.1.6spark1",
+    "Filename": "com.startreader.spark_4.1.6spark1_i386.deb",
     "Pkgname": "com.startreader.spark",
     "Author": "北京曲田科技有限公司",
     "Contributor": "sgb76",
     "Website": "https://www.startreader.com/index.html",
-    "Update": "2020-10-02 09:25:42",
-    "Size": "39.39 MB",
-    "More": "StartReader是一款结合阅读、学习、笔记于一身的精巧的软件，可以在任何地方工作和学习，内嵌的思维导图工具也是极具操作性，方便头脑风暴。云端的同步共享可以很快速的转发、编辑。已知问题：部分电子书打开后用鼠标选择文字会造成程序出错、界面卡死；脑图界面输入文字不能使用讯飞输入法（其它输入法正常）",
+    "Update": "2021-02-01 18:13:41",
+    "Size": "96.81 MB",
+    "More": "StartReader是一款结合阅读、学习、笔记于一身的精巧的软件，可以在任何地方工作和学习，内嵌的思维导图工具也是极具操作性，方便头脑风暴。云端的同步共享可以很快速的转发、编辑。\n已知问题：无法通过第三方登录，账号登录和注册正常",
     "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/02/619357a0-0490-11eb-842a-5bd88226e41b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/02/df9d6cd0-0490-11eb-842a-5bd88226e41b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/02/f0243ac0-0490-11eb-842a-5bd88226e41b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/02/4f4f9770-0490-11eb-842a-5bd88226e41b.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/01/5d34ba60-6475-11eb-b7e3-13abbfeb6549.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/01/66a54330-6475-11eb-b7e3-13abbfeb6549.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/01/4f00dd20-6475-11eb-b7e3-13abbfeb6549.png"
 }

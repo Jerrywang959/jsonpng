@@ -1,15 +1,15 @@
 {
-    "Name": "zotero",
-    "Version": "5.0.89-5",
-    "Filename": "zotero_5.0.89-5_amd64.deb",
+    "Name": "Zotero",
+    "Version": "5.0.95",
+    "Filename": "zotero_5.0.95_amd64.deb",
     "Pkgname": "zotero",
-    "Author": "zotero",
+    "Author": "retorquere",
     "Contributor": "jerrywang",
     "Website": "https://github.com/retorquere/zotero-deb",
-    "Update": "2020-09-05 15:46:51",
-    "Size": "60.19 MB",
+    "Update": "2021-02-03 23:44:34",
+    "Size": "60.67 MB",
     "More": "开源文献管理器. 官网: https://www.zotero.org/ 本deb包是由github大佬retorquere打包的",
-    "tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/05/bec41a90-ef4b-11ea-b95b-bdb1632e5dd8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/05/bfaf8c00-ef4b-11ea-b95b-bdb1632e5dd8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/05/91e1ee30-ef4b-11ea-b95b-bdb1632e5dd8.png"
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/03/3159a000-6631-11eb-8d78-813ea487580c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/03/2fdf5c10-6631-11eb-8d78-813ea487580c.png"
 }
