@@ -139,18 +139,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/4529abc0-5dfd-11eb-a7e8-39f472e1f1d8.png"
   },
   {
-    "Name": "钉钉",
-    "Version": "3.0.0-2",
-    "Filename": "dingtalk_3.0.0_amd64.deb",
-    "Pkgname": "dingtalk",
-    "Author": "钉钉团队",
-    "Contributor": "shenmo",
-    "Website": " ",
-    "Update": "2020-06-26 08:48",
-    "Size": "42.52MB",
-    "More": "万恶的钉钉～资本家的应用～然而这个版本的Linux钉钉还不能上网课（学生党狂喜）不过可以打卡了"
-  },
-  {
     "Name": "微信（wine）",
     "Version": "3.1.0.41spark0",
     "Filename": "com.qq.weixin.spark_3.1.0.41spark0_i386.deb",
