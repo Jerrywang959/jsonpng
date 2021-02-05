@@ -249,19 +249,19 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/c49bbe40-41d6-11eb-bcbf-8df1f8688367.svg"
   },
   {
-    "Name": "QQ音乐forLinux",
-    "Version": "1.0.4",
-    "Filename": "qqmusic_1.0.4_amd64.deb",
+    "Name": "QQ音乐for Linux",
+    "Version": "1.0.5",
+    "Filename": "qqmusic_1.0.5_amd64.deb",
     "Pkgname": "qqmusic",
-    "Author": "Tencent",
-    "Contributor": "EricZhang <ericzzhang@tencent.com>",
-    "Website": "https://y.qq.com/",
-    "Update": "2020-11-07 01:07:59",
-    "Size": "67.45 MB",
-    "More": "Linux版QQ音乐，腾讯出品，基于Electron技术。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/3816b400-2095-11eb-96a9-ff0ee4ce60e6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/a065b200-2094-11eb-96a9-ff0ee4ce60e6.png"
+    "Author": "EricZhang <ericzzhang@tencent.com>",
+    "Contributor": "Fredoong",
+    "Website": "https://y.qq.com",
+    "Update": "2021-02-05 20:11:01",
+    "Size": "68.15 MB",
+    "More": "腾讯官方Linux版QQ音乐。因从1.0.5版本开始可以直接在应用内部升级，所以本软件不需要再维护，大家下载1.0.5之后自己内部升级，或者直接去QQ音乐官网下载最新版。",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/05/e43bfd10-67aa-11eb-afa6-577d67848ce2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/05/6e8c6cd0-67aa-11eb-afa6-577d67848ce2.png"
   },
   {
     "Name": "i5sing",
