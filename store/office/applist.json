@@ -837,19 +837,19 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/b54fdbe0-5af1-11eb-bdea-55bdbb71dafd.png"
   },
   {
-    "Name": "作业帮直播课学生端（deepin-wine5）",
-    "Version": "0.01",
-    "Filename": "zybang.spark_0.01_i386.deb",
+    "Name": "作业帮学生端 dwine5",
+    "Version": "0.02",
+    "Filename": "zybang.spark_0.02_i386.deb",
     "Pkgname": "zybang.spark",
-    "Author": "Windows作者：北京作业帮 wine打包者：僵尸猪灵-shy",
-    "Contributor": "僵尸猪灵-shy",
-    "Website": "https://space.bilibili.com/365755968",
-    "Update": "2021-01-24 21:04:49",
-    "Size": "106.07 MB",
-    "More": "用于购买作业帮网课的用户在linux上使用客户端上课\n注：基于deepin-wine5\n已知问题 在加载的时候手动关闭会报错，关闭报错后如需再次打开需要杀掉zybhost.exe进程（一般不会有人这么干吧。。。）",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/3d8d9c90-5e44-11eb-8940-8fa69c7c0638.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/3fd4cd70-5e44-11eb-8940-8fa69c7c0638.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/24/45c57e50-5e44-11eb-8940-8fa69c7c0638.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/2649c280-5e43-11eb-8940-8fa69c7c0638.png"
+    "Author": "北京作业帮/僵尸朱灵-shy",
+    "Contributor": "北京作业帮/僵尸朱灵-shy",
+    "Website": "www.zybang.com",
+    "Update": "2021-02-06 18:48:00",
+    "Size": "92.36 MB",
+    "More": "更改了打包，减小了体积\n偶尔出现进程残留导致打不开的bug，杀掉zybhost.exe进程即可",
+    "Tags": "dwine5;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/06/d2def780-6867-11eb-b82a-0f7f50d5cd75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/06/d54919b0-6867-11eb-b82a-0f7f50d5cd75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/06/d54ff780-6867-11eb-b82a-0f7f50d5cd75.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/06/c4ee8be0-6867-11eb-b82a-0f7f50d5cd75.png"
   },
   {
     "Name": "谷歌地球",
