@@ -1,0 +1,15 @@
+{
+    "Name": "Microsoft Office Word 2007（wine）",
+    "Version": "1.0",
+    "Filename": "spark-microsoft-word_1.0_i386.deb",
+    "Pkgname": "spark-microsoft-word",
+    "Author": "Microsoft",
+    "Contributor": "gfdgd xi",
+    "Website": "http://www.microsoft.com/",
+    "Update": "2021-02-07 14:48:41",
+    "Size": "708.28 MB",
+    "More": "一个使用 deepin-wine5 打包的 Microsoft Office Word 2007程序，目前测试有以下问题：\n1、无法双击/右键打开 Word 文档\n2、（如果无需使用 Word 选项请忽略）在修改 Word 选项保存时会提示“输入的用于脱机编辑的服务器草稿位置无效，或者您无权访问该位置。请指定本地计算机上的某个位置。”，可以把保存里的“文档管理服务器文件的脱机编辑选项”的“将签出文件保存到：”的选项选择为“Web 服务器（W）”或改为正确的选项和路径",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/07/40648440-690e-11eb-9fc6-7588baa6fd1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/07/40779710-690e-11eb-9fc6-7588baa6fd1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/07/40591290-690e-11eb-9fc6-7588baa6fd1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/07/406b8920-690e-11eb-9fc6-7588baa6fd1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/07/40458a90-690e-11eb-9fc6-7588baa6fd1e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/07/595d2fb0-690e-11eb-9fc6-7588baa6fd1e.png"
+}

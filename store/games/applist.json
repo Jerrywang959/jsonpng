@@ -150,6 +150,21 @@
     "More": "战争！战争从未改变！\n很久很久以前，在小马国这片神奇的土地上……\n一个将友谊理念让位于妒忌、自私、贪婪与残忍的时代来临了。在那次国与国之间，以自然资源为开端的大战中，没有任何的赢家。由小马蹄下击打而出的魔法迅速爆发失控，整个世界都被烈焰所吞噬。龙火与黑魔法结合而成的毁灭性武器，几乎抹除掉了这个星球上的所有生命。土壤，水源和空气都被辐射污染，城市毁灭，文明崩溃。无论是小马，还是他们的敌军都被从地表上抹除掉了。疯狂的先知所预言的审判日，几乎没有任何小马相信，直到那个命运注定的日子降临……\n但这并不是结局，仍然有很多小马幸免于难，一些躲在巨大的地下避难厩中，另一些不知何故适应了新的环境。那个审判日只不过是小马历史上另一个血腥篇章的序曲。在满目疮痍，毒素滋生的废土，暴力和残忍已是家常便饭，更是一种生存下去的方式……\n在曾经的小马国的那个末日之后，二百多年过去了……\n\n这是一款rougelike的横版射击游戏，游戏中包含有数十种武器、装备和技能，以及上百个随机关卡，当然敌人的种类也很多。小心，敌人也会布置陷进！\n游戏依赖于64位wine。游戏支持多种语言，包括中文。\n\n1.0.1更新：\n一些BUG修复，增加日语和西班牙语。"
   },
   {
+    "Name": "NS-Shaft（wine）",
+    "Version": "1.3j",
+    "Filename": "com.nagi-p.nssh.spark_1.3j_amd64.deb",
+    "Pkgname": "com.nagi-p.nssh.spark",
+    "Author": "NAGI-P SOFT",
+    "Contributor": "OkayPJ",
+    "Website": "https://www.nagi-p.com/v1/",
+    "Update": "2021-02-07 19:57:37",
+    "Size": "180.12 KB",
+    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏，在中国常被称为“是男人就下 100 层”。",
+    "Tags": "community;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/07/a88a6080-693b-11eb-ad56-b1c3948e62e0.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/07/a5661610-693b-11eb-ad56-b1c3948e62e0.png"
+  },
+  {
     "Name": "反恐精英",
     "Version": "1.6",
     "Filename": "cstrike_1.6_amd64.deb",
