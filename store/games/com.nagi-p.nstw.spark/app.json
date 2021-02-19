@@ -1,0 +1,15 @@
+{
+    "Name": "NS-Tower（wine）",
+    "Version": "2.5j",
+    "Filename": "com.nagi-p.nstw.spark_2.5j_amd64.deb",
+    "Pkgname": "com.nagi-p.nstw.spark",
+    "Author": "NAGI-P SOFT",
+    "Contributor": "OkayPJ",
+    "Website": "https://www.nagi-p.com/v1/",
+    "Update": "2021-02-17 07:28:45",
+    "Size": "127.75 KB",
+    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏。",
+    "Tags": "ubuntu;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/b04cdda0-70ae-11eb-bc04-cd1a60b7e347.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/a8bcad90-70ae-11eb-bc04-cd1a60b7e347.png"
+}
