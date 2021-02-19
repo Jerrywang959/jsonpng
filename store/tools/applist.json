@@ -614,6 +614,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/23/7c1928b0-453c-11eb-86c1-e11fe11e3cf7.png"
   },
   {
+    "Name": "etcher启动盘制作工具",
+    "Version": "1.5.116",
+    "Filename": "etcher_1.5.116_amd64.deb",
+    "Pkgname": "etcher",
+    "Author": "balena",
+    "Contributor": "cyborg",
+    "Website": "https://www.balena.io/etcher/",
+    "Update": "2021-02-18 21:33:51",
+    "Size": "85.06 MB",
+    "More": "Etcher是一款u盘镜像制作工具，可以将iso刻录到u盘，只要是可以连接USB，都可以使用，Etcher新版包括SD卡，它可以将iso、img、disk、raw等多种镜像格式，操作简单!",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/c1170030-71ed-11eb-8082-89b4f40b4efc.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/c77762d0-71ed-11eb-8082-89b4f40b4efc.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/cc580340-71ed-11eb-8082-89b4f40b4efc.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/d024c2b0-71ed-11eb-8082-89b4f40b4efc.jpg\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/babd5450-71ed-11eb-8082-89b4f40b4efc.png"
+  },
+  {
     "Name": "超级工具箱（xjavafxtools）",
     "Version": "0.2.3+sm1",
     "Filename": "xjavafxtool_0.2.3_plus_sm1_amd64.deb",

@@ -1,0 +1,15 @@
+{
+    "Name": "Microsoft Office Visio 2007",
+    "Version": "1.0",
+    "Filename": "spark-microsoft-visio_1.0_i386.deb",
+    "Pkgname": "spark-microsoft-visio",
+    "Author": "Microsoft",
+    "Contributor": "gfdgd xi",
+    "Website": "https://www.microsoft.com",
+    "Update": "2021-02-17 10:06:24",
+    "Size": "582.94 MB",
+    "More": "一个使用 deepin-wine 打包的 Microsoft Office Visio",
+    "Tags": "deepin;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/f8c696b0-70c3-11eb-9c6d-9544a242aca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/f8bdbd10-70c3-11eb-9c6d-9544a242aca0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/b45ef360-70c2-11eb-9c6d-9544a242aca0.png"
+}
