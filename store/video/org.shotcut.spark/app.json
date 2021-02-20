@@ -1,0 +1,15 @@
+{
+    "Name": "Shotcut",
+    "Version": "21.01.29spark0",
+    "Filename": "org.shotcut.spark_21.01.29spark0_amd64.deb",
+    "Pkgname": "org.shotcut.spark",
+    "Author": "Meltytech, LLC",
+    "Contributor": "sgb76",
+    "Website": "https://www.shotcut.org/",
+    "Update": "2021-02-19 17:00:19",
+    "Size": "77.2 MB",
+    "More": "一个免费、开源、跨平台的视频编辑器。",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a3bad680-7290-11eb-8487-d3e7af34e3c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a63a0750-7290-11eb-8487-d3e7af34e3c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a8781070-7290-11eb-8487-d3e7af34e3c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/933c9410-7290-11eb-8487-d3e7af34e3c9.png"
+}

@@ -3,13 +3,13 @@
     "Version": "1.2",
     "Filename": "guanji.spark_1.2_amd64.deb",
     "Pkgname": "guanji.spark",
-    "Author": "liu",
+    "Author": "Liu",
     "Contributor": "Spark",
     "Website": "暂无",
-    "Update": "2021-01-27 18:23:56",
+    "Update": "2021-02-19 11:11:37",
     "Size": "24.97 MB",
-    "More": "基于dtk的关机小程序，有关机重启定时关机功能",
-    "Tags": "deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/612346e0-6089-11eb-a904-6f59dace9a65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/64af2cc0-6089-11eb-a904-6f59dace9a65.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/27/5a6b9c80-6089-11eb-a904-6f59dace9a65.png"
+    "More": "基于dtk的关机小程序，有关机、重启和定时关机功能",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/d03bed60-725f-11eb-b949-c91df22f6378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/d1f228e0-725f-11eb-b949-c91df22f6378.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/ce32afe0-725f-11eb-b949-c91df22f6378.png"
 }

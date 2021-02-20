@@ -231,13 +231,13 @@
     "Pkgname": "org.musescore.spark",
     "Author": "MuseScore BVBA",
     "Contributor": "sgb76",
-    "Website": "https://musescore.org",
-    "Update": "2021-01-27 16:32:27",
+    "Website": "https://musescore.org/en",
+    "Update": "2021-02-19 10:54:45",
     "Size": "123.42 MB",
     "More": "一款用于创建、播放和打印乐谱的实用工具",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/1bfc9720-6079-11eb-907d-a78f8178cb24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/27/2109c5d0-6079-11eb-907d-a78f8178cb24.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/27/14b33410-6079-11eb-907d-a78f8178cb24.png"
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/8ae1a220-725d-11eb-b279-bf053debaf81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/8d3a1110-725d-11eb-b279-bf053debaf81.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/80902f30-725d-11eb-b279-bf053debaf81.png"
   },
   {
     "Name": "deadbeef",

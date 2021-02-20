@@ -84,6 +84,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/ed1e35b0-595e-11eb-94ea-4b6de6939328.png"
   },
   {
+    "Name": "Standard Notes",
+    "Version": "3.5.18spark0",
+    "Filename": "org.standard-notes.spark_3.5.18spark0_amd64.deb",
+    "Pkgname": "org.standard-notes.spark",
+    "Author": "standard-notes",
+    "Contributor": "sgb76",
+    "Website": "https://standardnotes.org/",
+    "Update": "2021-02-18 18:53:09",
+    "Size": "54.18 MB",
+    "More": "Standard Notes 是一款界面非常清爽的跨平台开源云笔记应用，支持点对点加密、安全传输，简单易用、支持多模板、不同编辑模式（Markdown、富文本、代码编辑、Github、VIM…）等功能，拥有 macOS、Windows、Linux 平台客户端，以及 iOS、Android 手机应用和 Web 网页端服务。",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/49dd2870-71d7-11eb-91c8-45b67fe5553e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/4dc07d20-71d7-11eb-91c8-45b67fe5553e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/4301a260-71d7-11eb-91c8-45b67fe5553e.png"
+  },
+  {
     "Name": "Stellarium",
     "Version": "0.20.2",
     "Filename": "stellarium_0.20.2_a2d.deb",
@@ -618,6 +633,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/03/2fdf5c10-6631-11eb-8d78-813ea487580c.png"
   },
   {
+    "Name": "Mendeley Desktop",
+    "Version": "1.19.8",
+    "Filename": "mendeleydesktop_1.19.8_amd64.deb",
+    "Pkgname": "mendeleydesktop",
+    "Author": "Mendeley Ltd.",
+    "Contributor": "sgb76",
+    "Website": "http://www.mendeley.com",
+    "Update": "2021-02-18 14:22:28",
+    "Size": "118.64 MB",
+    "More": "一款用于管理和共享研究的免费学术软件。",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/638039f0-71b1-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/6968ad70-71b1-11eb-a0c6-abf730c6cbfd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/5d04d540-71b1-11eb-a0c6-abf730c6cbfd.png"
+  },
+  {
     "Name": "Mind Flash",
     "Version": "1.0.5",
     "Filename": "mind-flash_1.0.5_all.deb",
@@ -911,6 +941,21 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/48d349f0-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4b8a0580-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4e77d6a0-57f6-11eb-81be-efeb7e42bb9a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/16/3be5f670-57f6-11eb-81be-efeb7e42bb9a.png"
+  },
+  {
+    "Name": "Remember The Milk",
+    "Version": "1.3.2",
+    "Filename": "rememberthemilk_1.3.2_amd64.deb",
+    "Pkgname": "rememberthemilk",
+    "Author": "Remember The Milk",
+    "Contributor": "sgb76",
+    "Website": "https://www.rememberthemilk.com/services/",
+    "Update": "2021-02-19 15:22:55",
+    "Size": "51.86 MB",
+    "More": "一款功能强大，使用便捷的任务管理工具，支持 Windows、Linux、iOS、Android、Apple Watch、Outlook，以及包括 Chrome、Firefox、Safari等浏览器平台。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/2148bf30-7283-11eb-9f0d-ab5402ba25b9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/288d1930-7283-11eb-9f0d-ab5402ba25b9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/2f547b00-7283-11eb-9f0d-ab5402ba25b9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/1e05c930-7283-11eb-9f0d-ab5402ba25b9.png"
   },
   {
     "Name": "万彩办公大师（wine）",

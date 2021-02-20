@@ -81,6 +81,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/05/71baf3a0-36da-11eb-8ba0-11cb974e4981.png"
   },
   {
+    "Name": "Shotcut",
+    "Version": "21.01.29spark0",
+    "Filename": "org.shotcut.spark_21.01.29spark0_amd64.deb",
+    "Pkgname": "org.shotcut.spark",
+    "Author": "Meltytech, LLC",
+    "Contributor": "sgb76",
+    "Website": "https://www.shotcut.org/",
+    "Update": "2021-02-19 17:00:19",
+    "Size": "77.2 MB",
+    "More": "一个免费、开源、跨平台的视频编辑器。",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a3bad680-7290-11eb-8487-d3e7af34e3c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a63a0750-7290-11eb-8487-d3e7af34e3c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a8781070-7290-11eb-8487-d3e7af34e3c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/933c9410-7290-11eb-8487-d3e7af34e3c9.png"
+  },
+  {
     "Name": "QMPlay2",
     "Version": "20.07.04-1",
     "Filename": "com.qmplay2.spark_20.07.04-1_amd64.deb",
@@ -175,6 +190,21 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/10/48a8f2e0-5346-11eb-8f77-677cc3eeef3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/10/4ab871f0-5346-11eb-8f77-677cc3eeef3a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/10/46c93660-5346-11eb-8f77-677cc3eeef3a.png"
+  },
+  {
+    "Name": "OpenShot",
+    "Version": "2.5.1spark0",
+    "Filename": "org.openshot.spark_2.5.1spark0_amd64.deb",
+    "Pkgname": "org.openshot.spark",
+    "Author": "OpenShot Studios, LLC.",
+    "Contributor": "sgb76",
+    "Website": "https://www.openshot.org/",
+    "Update": "2021-02-18 14:13:42",
+    "Size": "148.54 MB",
+    "More": "一款免费，易用，功能丰富的 Linxu 视频编辑器",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/3074dd00-71b0-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/347afbf0-71b0-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/3845e6a0-71b0-11eb-a0c6-abf730c6cbfd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/29e57b20-71b0-11eb-a0c6-abf730c6cbfd.png"
   },
   {
     "Name": "lightworks",
