@@ -1,0 +1,15 @@
+{
+    "Name": "右键助手",
+    "Version": "1.0.0",
+    "Filename": "top.yzzi.youjian_1.0.0_amd64.deb",
+    "Pkgname": "top.yzzi.youjian",
+    "Author": "琢光软件",
+    "Contributor": "柚子",
+    "Website": "https://www.yuque.com/mvip9k",
+    "Update": "2021-02-21 11:52:44",
+    "Size": "39.64 KB",
+    "More": "专为deepin、uos打造的右键菜单管理工具",
+    "Tags": "deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/35e29ee0-73f8-11eb-849d-732f8dc6feb3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/3738b900-73f8-11eb-849d-732f8dc6feb3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/387be760-73f8-11eb-849d-732f8dc6feb3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/210017f0-73f8-11eb-849d-732f8dc6feb3.svg"
+}

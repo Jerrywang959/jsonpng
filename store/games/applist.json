@@ -658,18 +658,18 @@
   },
   {
     "Name": "NS-Shaft（wine）",
-    "Version": "1.3j",
-    "Filename": "com.nagi-p.nssh.spark_1.3j_amd64.deb",
+    "Version": "1.3j-1",
+    "Filename": "com.nagi-p.nssh.spark_1.3j-1_amd64.deb",
     "Pkgname": "com.nagi-p.nssh.spark",
     "Author": "NAGI-P SOFT",
     "Contributor": "OkayPJ",
     "Website": "https://www.nagi-p.com/v1/",
-    "Update": "2021-02-07 19:57:37",
-    "Size": "180.12 KB",
-    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏，在中国常被称为“是男人就下 100 层”。",
-    "Tags": "community;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/07/a88a6080-693b-11eb-ad56-b1c3948e62e0.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/07/a5661610-693b-11eb-ad56-b1c3948e62e0.png"
+    "Update": "2021-02-21 13:00:24",
+    "Size": "180.26 KB",
+    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏，在我国常被称为“是男人就下 100 层”。\n\n2020.02.21 更新：\n修改了运行脚本，在使用不同的 wine 时可以在不同的容器中运行。",
+    "Tags": "ubuntu;deepin;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/a3d18a20-7401-11eb-9bae-f7723d010fd5.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/a1109560-7401-11eb-9bae-f7723d010fd5.png"
   },
   {
     "Name": "OpenRA:罗曼诺夫的复仇",
@@ -826,17 +826,17 @@
   },
   {
     "Name": "NS-Tower（wine）",
-    "Version": "2.5j",
-    "Filename": "com.nagi-p.nstw.spark_2.5j_amd64.deb",
+    "Version": "2.5j-1",
+    "Filename": "com.nagi-p.nstw.spark_2.5j-1_amd64.deb",
     "Pkgname": "com.nagi-p.nstw.spark",
     "Author": "NAGI-P SOFT",
     "Contributor": "OkayPJ",
     "Website": "https://www.nagi-p.com/v1/",
-    "Update": "2021-02-17 07:28:45",
-    "Size": "127.75 KB",
-    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏。",
-    "Tags": "ubuntu;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/b04cdda0-70ae-11eb-bc04-cd1a60b7e347.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/a8bcad90-70ae-11eb-bc04-cd1a60b7e347.png"
+    "Update": "2021-02-21 12:58:07",
+    "Size": "127.9 KB",
+    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏。\n\n2020.02.21 更新：\n修改了运行脚本，在使用不同的 wine 时可以在不同的容器中运行。",
+    "Tags": "ubuntu;deepin;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/5b348510-7401-11eb-9bae-f7723d010fd5.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/58599fb0-7401-11eb-9bae-f7723d010fd5.png"
   }
 ]

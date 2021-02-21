@@ -1,0 +1,15 @@
+{
+    "Name": "Audacity",
+    "Version": "2.4.2~dfsg0-3~obs",
+    "Filename": "audacity_2.4.2~dfsg0-3~obs_amd64.deb",
+    "Pkgname": "audacity",
+    "Author": "Debian Multimedia Maintainers",
+    "Contributor": "sgb76",
+    "Website": "https://www.audacityteam.org/",
+    "Update": "2021-02-21 12:58:35",
+    "Size": "4.52 MB",
+    "More": "Audacity是一款免费、开源、跨平台的多声道音频编辑器和录音机，适用于Windows、macOS、GNU/Linux和其他操作系统。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/5d5d3170-7401-11eb-8bbb-297ecb3eec09.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/61c5bbb0-7401-11eb-8bbb-297ecb3eec09.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/59d7db40-7401-11eb-8bbb-297ecb3eec09.png"
+}
