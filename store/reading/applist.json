@@ -112,18 +112,18 @@
   },
   {
     "Name": "Foliate",
-    "Version": "2.4.2-0.1~obs",
-    "Filename": "foliate_2.4.2-0.1_obs_all.deb",
+    "Version": "2.5.0-0.1~obs",
+    "Filename": "foliate_2.5.0-0.1~obs_all.deb",
     "Pkgname": "foliate",
     "Author": "John Factotum",
     "Contributor": "sgb76",
     "Website": "https://johnfactotum.github.io/foliate/",
-    "Update": "2020-10-11 14:41:43",
-    "Size": "772.91 KB",
+    "Update": "2021-02-22 18:11:42",
+    "Size": "772.9 KB",
     "More": "Foliate是一个使用GJS和 Epub.js构建的开源GTK电子书阅读器，具有简单而现代的用户界面",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/c6f7da80-0bcf-11eb-9d67-bb55468f9608.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/11/ca71bf00-0bcf-11eb-9d67-bb55468f9608.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/11/bf470310-0bcf-11eb-9d67-bb55468f9608.png"
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/1a75d9c0-74f6-11eb-a720-439005c94a4a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/2017ce60-74f6-11eb-a720-439005c94a4a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/29e62ea0-74f6-11eb-a720-439005c94a4a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/22/105cdbf0-74f6-11eb-a720-439005c94a4a.png"
   },
   {
     "Name": "蚁阅",

@@ -111,19 +111,19 @@
     "More": "一款简易的卡通动画软件"
   },
   {
-    "Name": "DLabel云标签",
-    "Version": "3.5.0.spark1",
-    "Filename": "com.dlabel.spark_3.5.0.spark1_i386.deb",
+    "Name": "DLabel云标签（wine）",
+    "Version": "3.6.3spark2",
+    "Filename": "com.dlabel.spark_3.6.3spark2_i386.deb",
     "Pkgname": "com.dlabel.spark",
     "Author": "深圳市云联软件有限公司",
     "Contributor": "sgb76",
     "Website": "http://www.dlabel.cn/index.html",
-    "Update": "2020-11-06 06:45:51",
-    "Size": "44.42 MB",
-    "More": "DLabel标签设计软件是一款用于产品标签、条型码设计与打印、资料库设计的专业软件。是各类产品生产厂家、产品流通行业必备的软件，它可以大大提高工作效率，减少管理成本。",
+    "Update": "2021-02-21 17:30:34",
+    "Size": "44 MB",
+    "More": "DLabel标签设计软件是一款用于产品标签、条型码设计与打印、资料库设计的专业软件。是各类产品生产厂家、产品流通行业必备的软件，它可以大大提高工作效率，减少管理成本。\n已知问题：程序窗口缩放后无法移动和还原",
     "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/89665710-1ffb-11eb-9d82-e1acdc08a805.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/90551700-1ffb-11eb-9d82-e1acdc08a805.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/95d72790-1ffb-11eb-9d82-e1acdc08a805.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/06/81cefb10-1ffb-11eb-9d82-e1acdc08a805.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/4e109bf0-7427-11eb-84ca-8b8e51842af6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/5586b450-7427-11eb-84ca-8b8e51842af6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/42ba8a40-7427-11eb-84ca-8b8e51842af6.png"
   },
   {
     "Name": "PhotoFlare",
@@ -169,6 +169,21 @@
     "tags": "a2d;deepin;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/08/8ad837f0-f1d7-11ea-ae68-d14c999893b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/08/8d997ad0-f1d7-11ea-ae68-d14c999893b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/08/8fdb7b90-f1d7-11ea-ae68-d14c999893b2.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/08/84a06bf0-f1d7-11ea-ae68-d14c999893b2.png"
+  },
+  {
+    "Name": "Luminance HDR",
+    "Version": "2.5.1+dfsg-3+b4",
+    "Filename": "luminance-hdr_2.5.1+dfsg-3+b4_amd64.deb",
+    "Pkgname": "luminance-hdr",
+    "Author": "Giuseppe Rota",
+    "Contributor": "sgb76",
+    "Website": "http://qtpfsgui.sourceforge.net/",
+    "Update": "2021-02-22 17:06:01",
+    "Size": "4.61 MB",
+    "More": "一款开源的图形用户界面应用程序，主要用于为HDR成像提供一个工作流程。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/08bf7b90-74ed-11eb-b875-55197d1581bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/0dbcf2d0-74ed-11eb-b875-55197d1581bb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/22/00cc1ce0-74ed-11eb-b875-55197d1581bb.png"
   },
   {
     "Name": "深度看图（旧版）",

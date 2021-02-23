@@ -1,15 +1,15 @@
 {
     "Name": "Tixati",
-    "Version": "2.75-1",
-    "Filename": "tixati_2.75-1_amd64.deb",
+    "Version": "2.81-1",
+    "Filename": "tixati_2.81-1_amd64.deb",
     "Pkgname": "tixati",
     "Author": "Tixati Software Inc.",
     "Contributor": "sgb76",
     "Website": "https://www.tixati.com/discover/",
-    "Update": "2020-09-27 09:08:18",
-    "Size": "10.17 MB",
+    "Update": "2021-02-23 11:38:36",
+    "Size": "10.34 MB",
     "More": "Tixati是一个点对点文件共享程序，使用流行的BitTorrent协议。该协议允许多个节点组成一个协作群，并且可以高效地下载非常大的文件。",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/b9f2b330-00a0-11eb-bb30-ebae19136765.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/bfb57640-00a0-11eb-bb30-ebae19136765.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/27/a5baeb30-00a0-11eb-bb30-ebae19136765.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/23/88aeef20-7588-11eb-a576-17257b132863.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/23/8d8619b0-7588-11eb-a576-17257b132863.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/23/83f5acd0-7588-11eb-a576-17257b132863.png"
 }

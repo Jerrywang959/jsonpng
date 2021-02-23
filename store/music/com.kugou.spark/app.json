@@ -1,12 +1,15 @@
 {
-   "Name":"酷狗音乐（wine）",
-   "Version":"9.1.44.23567spark0",
-   "Filename":"com.kugou.spark_9.1.44.23567spark0_i386.deb",
-   "Pkgname":"com.kugou.spark",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":"https://www.kugou.com/",
-   "Update":"2020-08-12 22:47",
-   "Size":"101.100MB",
-   "More":"就是歌多    大有不同"
+    "Name": "酷狗音乐（wine）",
+    "Version": "9.1.44.23567spark1",
+    "Filename": "com.kugou.spark_9.1.44.23567spark1_i386.deb",
+    "Pkgname": "com.kugou.spark",
+    "Author": "未知",
+    "Contributor": "anima",
+    "Website": "https://www.kugou.com/",
+    "Update": "2021-02-20 19:10:06",
+    "Size": "136.86 MB",
+    "More": "就是歌多  大有不同\n注意：MV功能暂时无法wine实现。",
+    "Tags": "uos;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/20/fe26c260-736b-11eb-92b5-4d1503b2502b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/20/fe4ac520-736b-11eb-92b5-4d1503b2502b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/20/ef26e290-736b-11eb-92b5-4d1503b2502b.png"
 }

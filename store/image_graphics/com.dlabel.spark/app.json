@@ -1,15 +1,15 @@
 {
-    "Name": "DLabel云标签",
-    "Version": "3.5.0.spark1",
-    "Filename": "com.dlabel.spark_3.5.0.spark1_i386.deb",
+    "Name": "DLabel云标签（wine）",
+    "Version": "3.6.3spark2",
+    "Filename": "com.dlabel.spark_3.6.3spark2_i386.deb",
     "Pkgname": "com.dlabel.spark",
     "Author": "深圳市云联软件有限公司",
     "Contributor": "sgb76",
     "Website": "http://www.dlabel.cn/index.html",
-    "Update": "2020-11-06 06:45:51",
-    "Size": "44.42 MB",
-    "More": "DLabel标签设计软件是一款用于产品标签、条型码设计与打印、资料库设计的专业软件。是各类产品生产厂家、产品流通行业必备的软件，它可以大大提高工作效率，减少管理成本。",
+    "Update": "2021-02-21 17:30:34",
+    "Size": "44 MB",
+    "More": "DLabel标签设计软件是一款用于产品标签、条型码设计与打印、资料库设计的专业软件。是各类产品生产厂家、产品流通行业必备的软件，它可以大大提高工作效率，减少管理成本。\n已知问题：程序窗口缩放后无法移动和还原",
     "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/89665710-1ffb-11eb-9d82-e1acdc08a805.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/90551700-1ffb-11eb-9d82-e1acdc08a805.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/06/95d72790-1ffb-11eb-9d82-e1acdc08a805.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/06/81cefb10-1ffb-11eb-9d82-e1acdc08a805.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/4e109bf0-7427-11eb-84ca-8b8e51842af6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/5586b450-7427-11eb-84ca-8b8e51842af6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/42ba8a40-7427-11eb-84ca-8b8e51842af6.png"
 }
