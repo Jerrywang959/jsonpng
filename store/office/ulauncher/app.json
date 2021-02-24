@@ -1,0 +1,15 @@
+{
+    "Name": "ULauncher",
+    "Version": "5.10.0-0ubuntu1ppa1~focal",
+    "Filename": "ulauncher_5.10.0-0ubuntu1ppa1~focal_all.deb",
+    "Pkgname": "ulauncher",
+    "Author": "Ulauncher",
+    "Contributor": "FunnyAWM",
+    "Website": "ulauncher.io",
+    "Update": "2021-02-24 22:09:37",
+    "Size": "1.29 MB",
+    "More": "ULauncher是一个快速搜索软件，支持应用和文件搜索，支持添加搜索引擎在线搜索，支持快捷键呼出。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/ebab8850-76a9-11eb-98c6-cbaf99208a36.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/24/c36c7e30-76a9-11eb-98c6-cbaf99208a36.png"
+}

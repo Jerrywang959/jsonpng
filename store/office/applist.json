@@ -820,6 +820,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/15/f973f050-271a-11eb-92a0-4f611b6fbc7f.png"
   },
   {
+    "Name": "ULauncher",
+    "Version": "5.10.0-0ubuntu1ppa1~focal",
+    "Filename": "ulauncher_5.10.0-0ubuntu1ppa1~focal_all.deb",
+    "Pkgname": "ulauncher",
+    "Author": "Ulauncher",
+    "Contributor": "FunnyAWM",
+    "Website": "ulauncher.io",
+    "Update": "2021-02-24 22:09:37",
+    "Size": "1.29 MB",
+    "More": "ULauncher是一个快速搜索软件，支持应用和文件搜索，支持添加搜索引擎在线搜索，支持快捷键呼出。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/ebab8850-76a9-11eb-98c6-cbaf99208a36.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/24/c36c7e30-76a9-11eb-98c6-cbaf99208a36.png"
+  },
+  {
     "Name": "一只番茄",
     "Version": "1.0.4",
     "Filename": "top.yzzi.tomato_1.0.4_amd64.deb",
@@ -859,19 +874,19 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/03/79d99210-662f-11eb-b2b7-99472486f8a0.png"
   },
   {
-    "Name": "P3X Onote",
-    "Version": "2021.4.103",
-    "Filename": "p3x-onenote_2021.4.103_amd64.deb",
+    "Name": "P3X OneNote",
+    "Version": "2021.4.134",
+    "Filename": "p3x-onenote_2021.4.134_amd64.deb",
     "Pkgname": "p3x-onenote",
-    "Author": "partikx3",
+    "Author": "patrikx3",
     "Contributor": "solarphys",
     "Website": "https://github.com/patrikx3/onenote/releases",
-    "Update": "2021-01-28 18:50:54",
-    "Size": "86.22 MB",
-    "More": "由partikx3开发的Linux版微软Onenote客户端，基于Electron。原作者仅发布snap版和appimage版，详细信息请参考https://github.com/patrikx3/onenote。该版为利用星火商店转换器转换的deb版",
+    "Update": "2021-02-24 00:50:58",
+    "Size": "86.2 MB",
+    "More": "由patrikx3开发的Linux版微软OneNote客户端，基于Electron。原作者仅发布snap版和appimage版，详细信息请参考https://github.com/patrikx3/onenote。改版本为利用星火商店转换器转换的deb版。",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/fa6a4360-6153-11eb-b338-1f37e34ef643.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/faee6780-6153-11eb-b338-1f37e34ef643.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/28/195d63b0-6154-11eb-b338-1f37e34ef643.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/28/f750a750-6153-11eb-b338-1f37e34ef643.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/23/462a3b00-75e7-11eb-a3b2-5f0f9cefb815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/23/45d16ca0-75e7-11eb-a3b2-5f0f9cefb815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/23/4578ec60-75e7-11eb-a3b2-5f0f9cefb815.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/23/437db8a0-75e7-11eb-a3b2-5f0f9cefb815.png"
   },
   {
     "Name": "QOwnNotes",

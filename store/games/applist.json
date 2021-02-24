@@ -813,6 +813,21 @@
     "More": "《捣蛋猪》是由《愤怒的小鸟》（Angry Birds）的开发商Rovio公司制作的一款益智游戏，于2012年9月27日正式发行。《捣蛋猪》通过飞行、爬行、滚动、旋转、撞击让小猪找到地图碎片、鸟蛋、蛋糕、钥匙等。《捣蛋猪》中的主角是雀斑猪，形象延续了《愤怒的小鸟》中的造型。但不同的是，《捣蛋猪》并不是将小猪砸向对手或建筑，而是玩家要通过载具来收集星星，完成关卡、沙盒的任务。"
   },
   {
+    "Name": "Caller's Bane（wine）",
+    "Version": "2.0.1",
+    "Filename": "com.callersbane.spark_2.0.1_amd64.deb",
+    "Pkgname": "com.callersbane.spark",
+    "Author": "Mojang",
+    "Contributor": "OkayPJ",
+    "Website": "https://callersbane.com/",
+    "Update": "2021-02-21 15:55:42",
+    "Size": "174.3 MB",
+    "More": "Mojang 开发的卡牌对战游戏。",
+    "Tags": "ubuntu;deepin;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/27173990-7419-11eb-acce-49df97a6fc03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/27285090-7419-11eb-acce-49df97a6fc03.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/24987df0-7419-11eb-acce-49df97a6fc03.svg"
+  },
+  {
     "Name": "星云模拟器（wine）",
     "Version": "2.25b.0spark0",
     "Filename": "com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb",

@@ -1,0 +1,15 @@
+{
+    "Name": "Caller's Bane（wine）",
+    "Version": "2.0.1",
+    "Filename": "com.callersbane.spark_2.0.1_amd64.deb",
+    "Pkgname": "com.callersbane.spark",
+    "Author": "Mojang",
+    "Contributor": "OkayPJ",
+    "Website": "https://callersbane.com/",
+    "Update": "2021-02-21 15:55:42",
+    "Size": "174.3 MB",
+    "More": "Mojang 开发的卡牌对战游戏。",
+    "Tags": "ubuntu;deepin;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/27173990-7419-11eb-acce-49df97a6fc03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/27285090-7419-11eb-acce-49df97a6fc03.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/24987df0-7419-11eb-acce-49df97a6fc03.svg"
+}

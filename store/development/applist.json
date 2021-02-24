@@ -42,6 +42,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/18/0d01fab0-10e9-11eb-b12c-079bb96aa4ea.png"
   },
   {
+    "Name": "Arduino",
+    "Version": "1.8.13spark0",
+    "Filename": "cc.arduino.spark_1.8.13spark0_amd64.deb",
+    "Pkgname": "cc.arduino.spark",
+    "Author": "Arduino",
+    "Contributor": "sgb76",
+    "Website": "https://www.arduino.cc/en/software",
+    "Update": "2021-02-24 14:51:08",
+    "Size": "123.85 MB",
+    "More": "Arduino是一个基于灵活、易于使用的硬件和软件的开源电子产品原型平台。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/5f810a90-766c-11eb-b50b-af3178eb3010.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/24/62128ae0-766c-11eb-b50b-af3178eb3010.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/24/5a2ce7d0-766c-11eb-b50b-af3178eb3010.png"
+  },
+  {
     "Name": "SWebRuntime 唤醒",
     "Version": "1.5",
     "Filename": "spark-webapp-runtime-waker_1.5_amd64.deb",
