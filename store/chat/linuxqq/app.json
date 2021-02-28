@@ -1,0 +1,15 @@
+{
+    "Name": "QQ（linux）",
+    "Version": "2.0.0-b2",
+    "Filename": "linuxqq_2.0.0-b2_amd64.deb",
+    "Pkgname": "linuxqq",
+    "Author": "Tencent",
+    "Contributor": "Hibanaw",
+    "Website": "https://im.qq.com/linuxqq/",
+    "Update": "2021-02-28 14:11:55",
+    "Size": "11.83 MB",
+    "More": "腾讯QQ linux版本",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/28/d0c3f3d0-798b-11eb-829a-13b137392b43.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/28/d325d8a0-798b-11eb-829a-13b137392b43.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/28/cec05ba0-798b-11eb-829a-13b137392b43.jpg"
+}
