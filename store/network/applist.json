@@ -282,6 +282,21 @@
     "More": "快速进入锐捷校园网～"
   },
   {
+    "Name": "Biscuit浏览器",
+    "Version": "1.2.15spark0",
+    "Filename": "com.biscuit.spark_1.2.15spark0_amd64.deb",
+    "Pkgname": "com.biscuit.spark",
+    "Author": "Biscuit Project.",
+    "Contributor": "sgb76",
+    "Website": "https://eatbiscuit.com/",
+    "Update": "2021-02-27 18:32:55",
+    "Size": "66.36 MB",
+    "More": "Biscuit 是一款超方便的多开浏览器，通过在边栏分组标签页来实现不同场景，每个组都可单独登录账号，互不影响。\nBiscuit is a browser where you can organize your apps.",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/27/056fbec0-78e7-11eb-a2ce-3d203b5dbe17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/27/09dfc310-78e7-11eb-a2ce-3d203b5dbe17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/27/10c31150-78e7-11eb-a2ce-3d203b5dbe17.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/27/fd01b1d0-78e6-11eb-a2ce-3d203b5dbe17.png"
+  },
+  {
     "Name": "腾讯微云（wine）",
     "Version": "3.9.0spark0",
     "Filename": "com.weiyun.spark_3.9.0spark0_i386.deb",

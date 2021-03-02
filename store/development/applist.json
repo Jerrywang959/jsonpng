@@ -111,6 +111,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/274874e0-1b47-11eb-97a8-bf1860ccddd5.png"
   },
   {
+    "Name": "TeXstudio",
+    "Version": "3.1.1-1+2.1",
+    "Filename": "texstudio_3.1.1-1+2.1_amd64.deb",
+    "Pkgname": "texstudio",
+    "Author": "Benito van der Zander, Jan Sundermeyer, Daniel Braun, Tim Hoffmann",
+    "Contributor": "sgb76",
+    "Website": "http://texstudio.sourceforge.net/",
+    "Update": "2021-02-26 19:26:14",
+    "Size": "18.42 MB",
+    "More": "TeXstudio是一个用于创建LaTeX文档的集成写作环境。\nTeXstudio is an integrated writing environment for creating LaTeX documents.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/49cee130-7825-11eb-b603-3ba3dff8ae9d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/4da05b90-7825-11eb-b603-3ba3dff8ae9d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/26/461caea0-7825-11eb-b603-3ba3dff8ae9d.png"
+  },
+  {
     "Name": "RedisPlus",
     "Version": "3.2.0",
     "Filename": "redisplus-3.2.0-deb-x86_64.deb",

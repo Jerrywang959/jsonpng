@@ -1,0 +1,15 @@
+{
+    "Name": "Ultimaker Cura",
+    "Version": "4.8.0spark0",
+    "Filename": "com.ultimaker-cura.spark_4.8.0spark0_amd64.deb",
+    "Pkgname": "com.ultimaker-cura.spark",
+    "Author": "Ultimaker BV",
+    "Contributor": "sgb76",
+    "Website": "https://ultimaker.com/software/ultimaker-cura",
+    "Update": "2021-02-25 19:39:25",
+    "Size": "98.54 MB",
+    "More": "一款流行的3D打印软件",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/25/3747ac40-775d-11eb-911e-73e9aac6d3c4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/25/3e76a980-775d-11eb-911e-73e9aac6d3c4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/25/310d2120-775d-11eb-911e-73e9aac6d3c4.png"
+}
