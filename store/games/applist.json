@@ -657,6 +657,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/d5623d90-1d95-11eb-b3f7-f7692bf85231.png"
   },
   {
+    "Name": "Minecraft（我的世界）",
+    "Version": "887",
+    "Filename": "minecraft-launcher_887_amd64.deb",
+    "Pkgname": "minecraft-launcher",
+    "Author": "Mojang Studios",
+    "Contributor": "Hibanaw",
+    "Website": "https://minecraft.net",
+    "Update": "2021-03-02 23:16:38",
+    "Size": "872.21 KB",
+    "More": "Minecraft（我的世界）Java版官方启动器",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/190af370-7b6a-11eb-84da-9fc713c4f44b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/1b4cf430-7b6a-11eb-84da-9fc713c4f44b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/2d8ce3d0-7b6a-11eb-84da-9fc713c4f44b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/02/12c1c250-7b6a-11eb-84da-9fc713c4f44b.png"
+  },
+  {
     "Name": "NS-Shaft（wine）",
     "Version": "1.3j-1",
     "Filename": "com.nagi-p.nssh.spark_1.3j-1_amd64.deb",
