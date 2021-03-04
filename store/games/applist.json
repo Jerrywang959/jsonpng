@@ -255,6 +255,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/2e6c9680-2eec-11eb-b3df-b5cb960c2aac.png"
   },
   {
+    "Name": "OpenTTD",
+    "Version": "1.10.3-0",
+    "Filename": "openttd_1.10.3-0_amd64.deb",
+    "Pkgname": "openttd",
+    "Author": "OpenTTD Team",
+    "Contributor": "sgb76",
+    "Website": "https://www.openttd.org/",
+    "Update": "2021-03-02 17:03:56",
+    "Size": "4.81 MB",
+    "More": "OpenTTD是一款运输大亨豪华版（TTD）的开源版。玩家扮演新成立的运输公司老板，通过建设铁路、公路、桥梁、机场、车站等设施，运输旅客、货物和各种自然资源来赚取最大利润，经过残酷的竞争，最终打败对手，成为运输大亨。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/fa013b80-7b35-11eb-a9e0-df2998e986df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/fdefb3c0-7b35-11eb-a9e0-df2998e986df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/015fad30-7b36-11eb-a9e0-df2998e986df.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/02/f317f9d0-7b35-11eb-a9e0-df2998e986df.png"
+  },
+  {
     "Name": "300英雄",
     "Version": "1.0.0.0",
     "Filename": "300hero.deb",
@@ -481,6 +496,21 @@
     "Update": "2020-06-24 20:12",
     "Size": "274.5MB",
     "More": "天子把灵梦房子弄塌了被报复"
+  },
+  {
+    "Name": "雷电 III（wine）",
+    "Version": "1.0spark0",
+    "Filename": "com.raiden3.spark_1.0spark0_i386.deb",
+    "Pkgname": "com.raiden3.spark",
+    "Author": "TAITO ",
+    "Contributor": "sgb76",
+    "Website": "不详",
+    "Update": "2021-03-04 12:44:43",
+    "Size": "160.5 MB",
+    "More": "雷电3是一款纵版滚动式射击游戏，游戏全程节奏紧凑，采用了细腻的3D贴图、逼真的爆炸性音效，难度由易到难，除了种种的狠角色会不断出现之外，在关卡尽头都还会有一个把关的巨型头目，因此玩家必须尽量取得像是激光、追踪导弹等强力武器，才能够顺利过关斩将。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/04/eab06620-7ca1-11eb-9ae2-9790ccb496d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/04/f7083060-7ca1-11eb-9ae2-9790ccb496d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/04/f9b85c40-7ca1-11eb-9ae2-9790ccb496d5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/04/e60e2e40-7ca1-11eb-9ae2-9790ccb496d5.png"
   },
   {
     "Name": "蚂蚁文托",
