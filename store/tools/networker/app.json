@@ -1,0 +1,15 @@
+{
+    "Name": "网络调试助手",
+    "Version": "1.0.0",
+    "Filename": "networker_1.0.0_amd64.deb",
+    "Pkgname": "networker",
+    "Author": "AlanShi",
+    "Contributor": "AlanShi",
+    "Website": "https://bbs.deepin.org/zh/post/216113",
+    "Update": "2021-03-06 12:27:37",
+    "Size": "17.57 MB",
+    "More": "该工具可用于在局域网内的TCP与UDP通信。在嵌入式开发与调试中，可用于主机与多设备的通信及对其监视。支持建立多个TCP客户端与服务器，可发送文件，16进制数，支持周期发送，分块发送等，同时支持多种显示与保存方式，是一款精心打造的网络调试工具。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/06/f06d5120-7e33-11eb-b695-cfd4eff24566.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/06/f45b0610-7e33-11eb-b695-cfd4eff24566.ccc\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/06/f8eb1580-7e33-11eb-b695-cfd4eff24566.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/06/e9f065d0-7e33-11eb-b695-cfd4eff24566.png"
+}
