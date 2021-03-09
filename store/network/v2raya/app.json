@@ -1,0 +1,15 @@
+{
+    "Name": "v2rayA",
+    "Version": "1.2.2",
+    "Filename": "v2raya_1.2.2_amd64.deb",
+    "Pkgname": "v2raya",
+    "Author": "mzz2017",
+    "Contributor": "Hibanaw",
+    "Website": "https://github.com/v2rayA/v2rayA",
+    "Update": "2021-03-06 14:33:54",
+    "Size": "8.54 MB",
+    "More": "v2rayA 是一个支持全局透明代理的 V2Ray Linux 客户端，同时兼容SS、SSR、Trojan、PingTunnel协议。 \nv2rayA 致力于提供最简单的操作，满足绝大部分需求。\n得益于Web客户端的优势，你不仅可以将其用于本地计算机，还可以轻松地将它部署在路由器或NAS上。\n需要安装v2ray-core，详见https://github.com/v2rayA/v2rayA/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95",
+    "Tags": "community;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/06/e0ef8990-7e45-11eb-9687-1db62951827f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/06/d0f85170-7e45-11eb-9687-1db62951827f.png"
+}
