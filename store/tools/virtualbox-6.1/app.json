@@ -1,0 +1,15 @@
+{
+    "Name": "Oracle VM VirtualBox",
+    "Version": "2.7",
+    "Filename": "virtualbox-6.1_2.7_amd64.deb",
+    "Pkgname": "virtualbox-6.1",
+    "Author": "Oracle",
+    "Contributor": "Hibanaw",
+    "Website": "https://www.virtualbox.org/",
+    "Update": "2021-03-09 21:36:13",
+    "Size": "85.11 MB",
+    "More": "VirtualBox是功能强大的PC虚拟化解决方案，可让您在Linux系统上运行包括Windows，Linux，FreeBSD，DOS，OpenBSD等的各种PC操作系统。 VirtualBox具有广泛的功能集和出色的性能，使其成为市场上著名的虚拟化软件解决方案。",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/09/55aa80d0-80dc-11eb-9a49-638d1cf76f31.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/09/55aca3b0-80dc-11eb-9a49-638d1cf76f31.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/09/d2d4d9d0-80db-11eb-9a49-638d1cf76f31.svg"
+}
