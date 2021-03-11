@@ -1,12 +1,15 @@
 {
-   "Name":"lightworks",
-   "Version":"2020.1",
-   "Filename":"lightworks-2020.1-r122068-amd64.deb",
-   "Pkgname":"lightworks",
-   "Author":" ",
-   "Contributor":"sgb76 ",
-   "Website":"https://www.lwks.com/",
-   "Update":"2020-07-18 17:06",
-   "Size":"61.97MB",
-   "More":"lightworks是一款免费的视频编辑器"
+    "Name": "lightworks",
+    "Version": "2021.1",
+    "Filename": "lightworks_2021.1_amd64.deb",
+    "Pkgname": "lightworks",
+    "Author": "LWKS Software Ltd",
+    "Contributor": "安洛",
+    "Website": "https://www.lwks.com/",
+    "Update": "2021-03-10 22:26:25",
+    "Size": "70.55 MB",
+    "More": "Lightworks 是一套剪辑 2K/4K 电影和 PAL/NTSC、标清以及高清电视的专业非线性编辑系统。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/10/42a10920-81ac-11eb-9672-9b8f4226ae7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/10/44d10880-81ac-11eb-9672-9b8f4226ae7d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/10/191c86b0-81ac-11eb-9672-9b8f4226ae7d.png"
 }
