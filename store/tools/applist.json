@@ -15,6 +15,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/15/85b6ca00-3eaf-11eb-88f6-1be67b22043a.png"
   },
   {
+    "Name": "Oracle VM VirtualBox",
+    "Version": "2.7",
+    "Filename": "virtualbox-6.1_2.7_amd64.deb",
+    "Pkgname": "virtualbox-6.1",
+    "Author": "Oracle",
+    "Contributor": "Hibanaw",
+    "Website": "https://www.virtualbox.org/",
+    "Update": "2021-03-09 21:36:13",
+    "Size": "85.11 MB",
+    "More": "VirtualBox是功能强大的PC虚拟化解决方案，可让您在Linux系统上运行包括Windows，Linux，FreeBSD，DOS，OpenBSD等的各种PC操作系统。 VirtualBox具有广泛的功能集和出色的性能，使其成为市场上著名的虚拟化软件解决方案。",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/09/55aa80d0-80dc-11eb-9a49-638d1cf76f31.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/09/55aca3b0-80dc-11eb-9a49-638d1cf76f31.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/09/d2d4d9d0-80db-11eb-9a49-638d1cf76f31.svg"
+  },
+  {
     "Name": "CopyQ",
     "Version": "3.12.0-1",
     "Filename": "copyq_3.12.0_amd64.deb",
@@ -798,6 +813,21 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/20/08cd1a30-42e7-11eb-8f33-ab7330ea0c51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/20/08d02770-42e7-11eb-8f33-ab7330ea0c51.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/20/fe48fe80-42e6-11eb-8f33-ab7330ea0c51.png"
+  },
+  {
+    "Name": "网络调试助手",
+    "Version": "1.0.0",
+    "Filename": "networker_1.0.0_amd64.deb",
+    "Pkgname": "networker",
+    "Author": "AlanShi",
+    "Contributor": "AlanShi",
+    "Website": "https://bbs.deepin.org/zh/post/216113",
+    "Update": "2021-03-06 12:27:37",
+    "Size": "17.57 MB",
+    "More": "该工具可用于在局域网内的TCP与UDP通信。在嵌入式开发与调试中，可用于主机与多设备的通信及对其监视。支持建立多个TCP客户端与服务器，可发送文件，16进制数，支持周期发送，分块发送等，同时支持多种显示与保存方式，是一款精心打造的网络调试工具。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/06/f06d5120-7e33-11eb-b695-cfd4eff24566.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/06/f45b0610-7e33-11eb-b695-cfd4eff24566.ccc\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/06/f8eb1580-7e33-11eb-b695-cfd4eff24566.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/06/e9f065d0-7e33-11eb-b695-cfd4eff24566.png"
   },
   {
     "Name": "radeontop",

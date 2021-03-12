@@ -165,16 +165,19 @@
     "More": "这世界很酷！"
   },
   {
-    "Name": "SMplayer",
-    "Version": "20.6.0+3.2",
-    "Filename": "smplayer_20.6.0_plus_3.2_amd64.deb",
+    "Name": "SMPlayer",
+    "Version": "21.1.0-1+2.2",
+    "Filename": "smplayer_21.1.0-1+2.2_amd64.deb",
     "Pkgname": "smplayer",
-    "Author": " ",
+    "Author": "Ricardo Villalba",
     "Contributor": "sgb76",
     "Website": "https://www.smplayer.info/",
-    "Update": "2020-08-16 22:45",
-    "Size": "3.30MB",
-    "More": "SMPlayer 是个适用于 Windows 和 Linux 的免费媒体播放器， 内置解码器，可以播放几乎所有格式的视频和音频文件，无需再安装任何外部解码器。 只要安装了 SMPlayer， 你就能够播放所有的格式，不用再费事查找安装解码包"
+    "Update": "2021-03-09 19:23:54",
+    "Size": "3.31 MB",
+    "More": "SMPlayer 是个适用于 Windows 和 Linux 的免费媒体播放器， 内置解码器，可以播放几乎所有格式的视频和音频文件，无需再安装任何外部解码器。 只要安装了 SMPlayer， 你就能够播放所有的格式，不用再费事查找安装解码包",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/09/cdcd2e90-80c9-11eb-9313-699bcbe867b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/09/d93df430-80c9-11eb-9313-699bcbe867b1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/09/c63891b0-80c9-11eb-9313-699bcbe867b1.png"
   },
   {
     "Name": "ArctimePro",
@@ -208,15 +211,18 @@
   },
   {
     "Name": "lightworks",
-    "Version": "2020.1",
-    "Filename": "lightworks-2020.1-r122068-amd64.deb",
+    "Version": "2021.1",
+    "Filename": "lightworks_2021.1_amd64.deb",
     "Pkgname": "lightworks",
-    "Author": " ",
-    "Contributor": "sgb76 ",
+    "Author": "LWKS Software Ltd",
+    "Contributor": "安洛",
     "Website": "https://www.lwks.com/",
-    "Update": "2020-07-18 17:06",
-    "Size": "61.97MB",
-    "More": "lightworks是一款免费的视频编辑器"
+    "Update": "2021-03-10 22:26:25",
+    "Size": "70.55 MB",
+    "More": "Lightworks 是一套剪辑 2K/4K 电影和 PAL/NTSC、标清以及高清电视的专业非线性编辑系统。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/10/42a10920-81ac-11eb-9672-9b8f4226ae7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/10/44d10880-81ac-11eb-9672-9b8f4226ae7d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/10/191c86b0-81ac-11eb-9672-9b8f4226ae7d.png"
   },
   {
     "Name": "NextPlayer",
