@@ -1,15 +1,15 @@
 {
     "Name": "deepin-wine 运行器",
-    "Version": "1.1.1",
-    "Filename": "spark-deepin-wine-runner_1.1.1_all.deb",
+    "Version": "1.2.0",
+    "Filename": "spark-deepin-wine-runner_1.2.0_all.deb",
     "Pkgname": "spark-deepin-wine-runner",
     "Author": "gfdgd xi",
     "Contributor": "gfdgd xi",
-    "Website": "gfdgd xi",
-    "Update": "2021-01-31 14:50:12",
-    "Size": "38.98 KB",
-    "More": "一个图形化了以下命令的程序\n\nWINEPREFIX=容器路径 deepin-wine 可执行文件路径\n使用 Python3 的 tkinter 构建的 \n（自己美术功底太差，图标只能在网络上找了） ",
-    "Tags": "deepin;ubuntu;community;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/31/7af02110-6390-11eb-a9b4-31323cd43d5a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/31/7580ae20-6390-11eb-a9b4-31323cd43d5a.png"
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "Update": "2021-03-14 18:22:06",
+    "Size": "39.2 KB",
+    "More": "一个图形化了以下命令的程序\nWINEPREFIX=容器路径 deepin-wine 可执行文件路径\n让你的 deepin-wine 打包轻松一点，是使用 Python3 的 tkinter 构建的\n（自己美术功底太差，图标只能在网络上找了）\n1.2.0 更新内容： \n    1、修改布局方式\n    2、轻度梳理代码布局",
+    "Tags": "community;ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/14/05b763a0-84af-11eb-a360-b9d00763bd52.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/14/05af9b70-84af-11eb-a360-b9d00763bd52.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/14/05bf2bd0-84af-11eb-a360-b9d00763bd52.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/14/1d34b9b0-84af-11eb-a360-b9d00763bd52.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/14/bba300d0-84ae-11eb-a360-b9d00763bd52.png"
 }

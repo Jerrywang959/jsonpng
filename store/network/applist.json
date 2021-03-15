@@ -556,18 +556,18 @@
   },
   {
     "Name": "闪电下载（wine）",
-    "Version": "1.4.7.0spark1",
-    "Filename": "com.xiaokanba.bbs.spark_1.4.7.0spark1_i386.deb",
+    "Version": "1.4.7.0spark2",
+    "Filename": "com.xiaokanba.bbs.spark_1.4.7.0spark2_i386.deb",
     "Pkgname": "com.xiaokanba.bbs.spark",
     "Author": "未知",
     "Contributor": "anima",
     "Website": "http://bbs.xiaokanba.com/",
-    "Update": "2021-01-21 19:51:26",
-    "Size": "87.26 MB",
-    "More": "闪电下载，闪电侠⚡️,支持磁力、种子、电驴、万能下载神器，支持边下边播。（注：deepin-wine5环境下未能实现边下边播功能）",
-    "Tags": "dwine5;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/6ae34a40-5bde-11eb-b633-d181c8d968f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/6afe2540-5bde-11eb-b633-d181c8d968f9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/21/6f80ee40-5bde-11eb-b633-d181c8d968f9.png"
+    "Update": "2021-03-14 15:52:40",
+    "Size": "84.95 MB",
+    "More": "闪电下载，闪电侠⚡️,支持磁力、种子、电驴、万能下载神器，支持边下边播。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/14/e46a5a50-8499-11eb-9fca-0f90a189e335.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/14/e47cd0e0-8499-11eb-9fca-0f90a189e335.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/14/e7ca0010-8499-11eb-9fca-0f90a189e335.png"
   },
   {
     "Name": "百度网盘（wine）",
