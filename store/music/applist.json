@@ -195,6 +195,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/20/0dc25720-fb35-11ea-a70c-6b9c9de62a69.png"
   },
   {
+    "Name": "foobar2000",
+    "Version": "1.6.2deepin1",
+    "Filename": "com.foobar2000.deepin_1.6.2deepin1_i386.deb",
+    "Pkgname": "com.foobar2000.deepin",
+    "Author": "Asion",
+    "Contributor": "清越",
+    "Website": "www.foobar2000.com.cn",
+    "Update": "2021-03-16 09:50:07",
+    "Size": "47.25 MB",
+    "More": "发烧级音乐播放器，支持手动DIY用户界面，支持播放几乎所有常见格式的音频文件",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/16/54c1a5a0-85f9-11eb-b6df-d168fb2c939c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/16/54d5c9e0-85f9-11eb-b6df-d168fb2c939c.jpg\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/16/dfe5e020-85f8-11eb-b6df-d168fb2c939c.png"
+  },
+  {
     "Name": "人人钢琴（wine）",
     "Version": "2.3.4.14spark0",
     "Filename": "com.everyonepiano.spark_2.3.4.14spark0_i386.deb",
