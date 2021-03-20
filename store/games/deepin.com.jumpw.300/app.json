@@ -1,0 +1,15 @@
+{
+    "Name": "300英雄",
+    "Version": "20.10.13.16deepin1",
+    "Filename": "deepin.com.jumpw.300_20.10.13.16deepin1_i386.deb",
+    "Pkgname": "deepin.com.jumpw.300",
+    "Author": "跳跃网络",
+    "Contributor": "neko",
+    "Website": "http://300.jumpw.com/",
+    "Update": "2021-03-16 12:31:05",
+    "Size": "67.91 MB",
+    "More": "用deepin打包脚本重新打包，修正上次打包的bug",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/16/e003c660-860e-11eb-a14e-bf19625ff041.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/16/d9141c10-860e-11eb-a14e-bf19625ff041.png"
+}
