@@ -1,15 +1,15 @@
 {
     "Name": "MuseScore",
-    "Version": "3.6.0spark0",
-    "Filename": "org.musescore.spark_3.6.0spark0_amd64.deb",
+    "Version": "3.6.2+spark1",
+    "Filename": "org.musescore.spark_3.6.2+spark1_amd64.deb",
     "Pkgname": "org.musescore.spark",
     "Author": "MuseScore BVBA",
-    "Contributor": "sgb76",
-    "Website": "https://musescore.org/en",
-    "Update": "2021-02-19 10:54:45",
-    "Size": "123.42 MB",
-    "More": "一款用于创建、播放和打印乐谱的实用工具",
+    "Contributor": "Tippy(原上传者sgb76)",
+    "Website": "https://musescore.org/",
+    "Update": "2021-03-21 23:18:50",
+    "Size": "123.85 MB",
+    "More": "一款用于创建，播放，打印乐谱的使用工具",
     "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/8ae1a220-725d-11eb-b279-bf053debaf81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/8d3a1110-725d-11eb-b279-bf053debaf81.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/80902f30-725d-11eb-b279-bf053debaf81.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/21/2fa798c0-8a58-11eb-ab69-69b3a0a2ab21.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/21/930e98c0-8a56-11eb-ab69-69b3a0a2ab21.svg"
 }

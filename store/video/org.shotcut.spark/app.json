@@ -1,15 +1,15 @@
 {
     "Name": "Shotcut",
-    "Version": "21.01.29spark0",
-    "Filename": "org.shotcut.spark_21.01.29spark0_amd64.deb",
+    "Version": "21.02.27spark1",
+    "Filename": "org.shotcut.spark_21.02.27spark1_amd64.deb",
     "Pkgname": "org.shotcut.spark",
     "Author": "Meltytech, LLC",
     "Contributor": "sgb76",
     "Website": "https://www.shotcut.org/",
-    "Update": "2021-02-19 17:00:19",
-    "Size": "77.2 MB",
+    "Update": "2021-03-11 14:59:58",
+    "Size": "77.22 MB",
     "More": "一个免费、开源、跨平台的视频编辑器。",
-    "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a3bad680-7290-11eb-8487-d3e7af34e3c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a63a0750-7290-11eb-8487-d3e7af34e3c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/a8781070-7290-11eb-8487-d3e7af34e3c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/933c9410-7290-11eb-8487-d3e7af34e3c9.png"
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/11/195c8cc0-8237-11eb-9e93-f10b978e54ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/11/20a94b30-8237-11eb-9e93-f10b978e54ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/11/278dd1f0-8237-11eb-9e93-f10b978e54ad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/11/0a620420-8237-11eb-9e93-f10b978e54ad.png"
 }

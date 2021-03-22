@@ -1,0 +1,15 @@
+{
+    "Name": "UltralISO",
+    "Version": "1.0",
+    "Filename": "spark-ultraliso_1.0_i386.deb",
+    "Pkgname": "spark-ultraliso",
+    "Author": "UltralISO官方",
+    "Contributor": "gfdgd xi",
+    "Website": "https://cn.ultraiso.net/",
+    "Update": "2021-03-21 08:15:54",
+    "Size": "7.29 MB",
+    "More": "一个 ISO 镜像工具（deepin-wine5）——ultraliso\n没有激活，无法使用虚拟光驱",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/21/7b201cb0-89da-11eb-9fe7-934320179109.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/21/7b3419e0-89da-11eb-9fe7-934320179109.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/21/7b492880-89da-11eb-9fe7-934320179109.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/21/7b5b9f10-89da-11eb-9fe7-934320179109.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/21/731c9160-89da-11eb-9fe7-934320179109.png"
+}
