@@ -1,0 +1,15 @@
+{
+    "Name": "摸鱼股票球",
+    "Version": "0.0-1",
+    "Filename": "findfish-stockball_0.0-1_amd64.deb",
+    "Pkgname": "findfish-stockball",
+    "Author": "depend",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/stockball/",
+    "Update": "2021-03-31 23:54:12",
+    "Size": "119.56 KB",
+    "More": "上班摸鱼时候用，一款股票查看器，只能查看，数据全部来源于网络，qt5.11.3编译",
+    "Tags": "deepin;uos;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/f17c9670-9238-11eb-97d3-15d20dfa0b68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/f19b9020-9238-11eb-97d3-15d20dfa0b68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/f1bc1070-9238-11eb-97d3-15d20dfa0b68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/f1da1fc0-9238-11eb-97d3-15d20dfa0b68.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/31/ee1ffdf0-9238-11eb-97d3-15d20dfa0b68.png"
+}
