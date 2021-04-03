@@ -1,15 +1,15 @@
 {
     "Name": "SweetHome3D",
-    "Version": "6.4.2spark0",
-    "Filename": "com.sweethome3d.spark_6.4.2spark0_amd64.deb",
+    "Version": "6.5spark1",
+    "Filename": "com.sweethome3d.spark_6.5spark1_amd64.deb",
     "Pkgname": "com.sweethome3d.spark",
     "Author": "eTeks",
     "Contributor": "sgb76",
     "Website": "http://www.sweethome3d.com/",
-    "Update": "2021-01-19 16:06:20",
-    "Size": "49.07 MB",
+    "Update": "2021-03-25 19:20:44",
+    "Size": "49.99 MB",
     "More": "Sweet Home 3D是一个免费的室内设计应用程序 ，可帮助您绘制房屋平面图，布置家具并以3D形式访问结果",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/0fc66320-5a2d-11eb-9170-175a4312f329.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/19/11d43480-5a2d-11eb-9170-175a4312f329.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/19/0a852c20-5a2d-11eb-9170-175a4312f329.png"
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/25/dfd0aca0-8d5a-11eb-9006-d54905175bb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/25/e8f8e1d0-8d5a-11eb-9006-d54905175bb7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/25/d660c010-8d5a-11eb-9006-d54905175bb7.png"
 }
