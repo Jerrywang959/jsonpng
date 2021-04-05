@@ -1,15 +1,15 @@
 {
     "Name": "立创EDA",
-    "Version": "6.4.7",
-    "Filename": "cn.lceda_6.4.7_amd64.deb",
+    "Version": "6.4.19.2",
+    "Filename": "cn.lceda_6.4.19.2_amd64.deb",
     "Pkgname": "cn.lceda",
     "Author": "深圳市立创电子商务有限公司",
     "Contributor": "sgb76",
     "Website": "https://lceda.cn/",
-    "Update": "2020-11-24 16:05:06",
-    "Size": "76.24 MB",
+    "Update": "2021-04-02 12:46:21",
+    "Size": "76.02 MB",
     "More": "高效的国产PCB设计工具， 永久免费",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/aeb882a0-2e6e-11eb-8dc2-11ca89fbe538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/b1daf850-2e6e-11eb-8dc2-11ca89fbe538.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/b45d3660-2e6e-11eb-8dc2-11ca89fbe538.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/24/8c74fed0-2e6e-11eb-8dc2-11ca89fbe538.png"
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/df78db10-936d-11eb-8cac-bb0085fc5b2a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/e957b610-936d-11eb-8cac-bb0085fc5b2a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/02/d7d68290-936d-11eb-8cac-bb0085fc5b2a.png"
 }

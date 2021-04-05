@@ -1,0 +1,15 @@
+{
+    "Name": "我来笔记",
+    "Version": "1.0.34spark0",
+    "Filename": "com.wolai.spark_1.0.34spark0_amd64.deb",
+    "Pkgname": "com.wolai.spark",
+    "Author": "上海我云网络科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.wolai.com/",
+    "Update": "2021-03-24 17:20:31",
+    "Size": "54.77 MB",
+    "More": "我来，不仅仅是完美的云端笔记\n用 “我来” 构建个人的信息库、笔记、知识、待办、计划、剪藏、数据...",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/765ed100-8c80-11eb-ad89-2582f45c19a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/7aa4b810-8c80-11eb-ad89-2582f45c19a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/7e6d0ab0-8c80-11eb-ad89-2582f45c19a4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/24/6fa7c2e0-8c80-11eb-ad89-2582f45c19a4.png"
+}

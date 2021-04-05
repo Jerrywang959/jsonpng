@@ -1,15 +1,15 @@
 {
     "Name": "任务栏显卡切换插件",
-    "Version": "1.8.1",
-    "Filename": "dde-dock-graphics-plugin_1.8.1_amd64.deb",
+    "Version": "1.8.2",
+    "Filename": "dde-dock-graphics-plugin_1.8.2_amd64.deb",
     "Pkgname": "dde-dock-graphics-plugin",
     "Author": "chanforever / zty199",
     "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
-    "Update": "2020-12-22 16:07:46",
-    "Size": "39.47 KB",
-    "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/post/197280\n\n【更新日志】\nv1.8.1:\n1. 修改托盘图标显示风格，与系统托盘统一，避免因宽度问题造成图标被遮挡。\n2. 输入密码时显示自定义提示文字。\n3. 支持中文和英文显示。\n4. 重构部分代码。",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/22/a6b46170-446f-11eb-8dde-0dc606bca59d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/22/a6cdb5d0-446f-11eb-8dde-0dc606bca59d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/22/a6e7f490-446f-11eb-8dde-0dc606bca59d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/22/a1dac5e0-446f-11eb-8dde-0dc606bca59d.png"
+    "Website": "https://gitee.com/deepin-opensource/switch-graphics-card",
+    "Update": "2021-04-02 01:27:08",
+    "Size": "52.92 KB",
+    "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/forum.php?mod=viewthread&tid=197280\n【更新日志】\nv1.8.2:\n1. 适配 Deepin 20.2，使用新版本 dde-dock 悬浮窗样式。\n2. 修复了旧版本在 Deepin 20.2 上存在的插件无法禁用，右键菜单无法显示的问题。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/6631bbe0-930f-11eb-b7d3-51b4e32f6b5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/67b7e6b0-930f-11eb-b7d3-51b4e32f6b5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/694ba610-930f-11eb-b7d3-51b4e32f6b5d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/02/54a9aa90-930f-11eb-b7d3-51b4e32f6b5d.png"
 }
