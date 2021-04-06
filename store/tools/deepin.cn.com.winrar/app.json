@@ -1,0 +1,15 @@
+{
+    "Name": "WinRAR for deepin-wine",
+    "Version": "5.3.0deepin2",
+    "Filename": "deepin.cn.com.winrar_5.3.0deepin2_i386.deb",
+    "Pkgname": "deepin.cn.com.winrar",
+    "Author": "WinRAR",
+    "Contributor": "gfdgd xi",
+    "Website": "http://www.winrar.com.cn/",
+    "Update": "2021-04-05 21:14:55",
+    "Size": "4.17 MB",
+    "More": "从 deepin-wine 里翻出来的安装包",
+    "Tags": "deepin;ubuntu;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e7528480-9610-11eb-a883-b50638ee544b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/b8cf2b40-9610-11eb-a883-b50638ee544b.png"
+}

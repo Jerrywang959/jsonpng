@@ -1,15 +1,15 @@
 {
     "Name": "深度梦境动态壁纸",
-    "Version": "0.1-0",
-    "Filename": "deepin-dreamscene-ui_0.1-0_amd64.deb",
+    "Version": "0.1-4",
+    "Filename": "deepin-dreamscene-ui_0.1-4_amd64.deb",
     "Pkgname": "deepin-dreamscene-ui",
     "Author": "depend",
     "Contributor": "depend",
     "Website": "https://github.com/dependon/deepin-dreamscene-ui",
-    "Update": "2021-03-30 20:41:18",
-    "Size": "15.2 MB",
-    "More": "用于deepin和uos系统的动态壁纸，会关闭原来的桌面，启动透明桌面，结束时再重新启动原来的桌面",
-    "Tags": "uos;deepin;dtk5;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/30/105e1120-9155-11eb-b7e2-4f935c273061.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/30/107590c0-9155-11eb-b7e2-4f935c273061.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/30/086e8300-9155-11eb-b7e2-4f935c273061.png"
+    "Update": "2021-04-04 23:36:12",
+    "Size": "18.35 MB",
+    "More": "deepin v20.2系统动态壁纸，目前是一个比较简单的版本，deepinv20.1或者以下系统和uos请在github下载0.1-2的版本",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/04/5b8a6090-955b-11eb-802c-1fe6c880ded5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/04/3f0ea8e0-955b-11eb-802c-1fe6c880ded5.png"
 }

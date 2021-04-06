@@ -1,13 +1,15 @@
 {
-   "Name":"TIM（wine）",
-   "Version":"3.2.0.21856spark0",
-   "Filename":"com.qq.tim.spark_3.2.0.21856spark0_i386.deb",
-   "Pkgname":"com.qq.tim.spark",
-   "Author":"Tencent",
-   "Contributor":"zty199",
-   "Website":"https://tim.qq.com/",
-   "Update":"2020-09-25 14:50",
-   "Size":"213.70MB",
-   "More":"Tencent TIM Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器，升级安装。\n仅供尝鲜使用。",
-   "Tags":"deepin;uos;dwine5"
+    "Name": "TIM（wine）",
+    "Version": "3.3.5.22018spark0",
+    "Filename": "com.qq.tim.spark_3.3.5.22018spark0_i386.deb",
+    "Pkgname": "com.qq.tim.spark",
+    "Author": "Deepin WINE Team / zty199",
+    "Contributor": "zty199",
+    "Website": "https://tim.qq.com/",
+    "Update": "2021-04-05 21:58:15",
+    "Size": "214.49 MB",
+    "More": "Tencent TIM Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器升级安装。\n仅供尝鲜使用。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e29eb1b0-9616-11eb-84ae-ed5a5b82afa4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e3a5c170-9616-11eb-84ae-ed5a5b82afa4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e4d6a050-9616-11eb-84ae-ed5a5b82afa4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/e12223d0-9616-11eb-84ae-ed5a5b82afa4.png"
 }
