@@ -269,6 +269,21 @@
     "Tags": "community;deepin;uos;ubuntu"
   },
   {
+    "Name": "Swifty",
+    "Version": "0.6.4",
+    "Filename": "swifty_0.6.4_amd64.deb",
+    "Pkgname": "swifty",
+    "Author": "Alex Chaplinsky",
+    "Contributor": "sgb76",
+    "Website": "https://getswifty.pro/",
+    "Update": "2021-04-06 15:03:14",
+    "Size": "52.89 MB",
+    "More": "一款免费、开源的密码管理器",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/f39a0660-96a5-11eb-a338-bbd3e3c65731.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/f79cf100-96a5-11eb-a338-bbd3e3c65731.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/fa83e450-96a5-11eb-a338-bbd3e3c65731.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/06/eef4c140-96a5-11eb-a338-bbd3e3c65731.png"
+  },
+  {
     "Name": "Komorebi",
     "Version": "2.2.0-1",
     "Filename": "komorebi_2.2.1-1_amd64.deb",
@@ -645,18 +660,6 @@
     "Update": "2020-07-07 19:38",
     "Size": "405.97KB",
     "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。"
-  },
-  {
-    "Name": "立创EDA",
-    "Version": "4.2.12",
-    "Filename": "cn.lceda_4.2.12_amd64.deb",
-    "Pkgname": "cn.lceda",
-    "Author": " ",
-    "Contributor": "maicss",
-    "Website": " ",
-    "Update": "2020-09-01 23:57",
-    "Size": "177.21MB",
-    "More": "高效的国产PCB设计工具，永久免费"
   },
   {
     "Name": "keeweb",

@@ -132,21 +132,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/d6892e50-961b-11eb-964b-670d7f9be94a.png"
   },
   {
-    "Name": "lfxSpeed",
-    "Version": "0.6.2-2",
-    "Filename": "lfxspeed_0.6.2-2_amd64.deb",
-    "Pkgname": "lfxspeed",
-    "Author": "偕臧",
-    "Contributor": "偕臧",
-    "Website": "ifmet.cn",
-    "Update": "2021-03-24 17:26:17",
-    "Size": "42.43 KB",
-    "More": "A lightweight and fast network speed plugin(dde-dock).",
-    "Tags": "community;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/dba569a0-8c82-11eb-a648-c9c4cb8bdf56.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/dbc107f0-8c82-11eb-a648-c9c4cb8bdf56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/dbdd90a0-8c82-11eb-a648-c9c4cb8bdf56.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/24/ebbb9b70-8c82-11eb-a648-c9c4cb8bdf56.svg"
-  },
-  {
     "Name": "飞书",
     "Version": "1.0.3",
     "Filename": "com.deekian.lark.deb",
