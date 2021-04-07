@@ -28,18 +28,18 @@
   },
   {
     "Name": "PyCharm社区版",
-    "Version": "2020.3.3",
-    "Filename": "pycharm-community-spark_2020.3.3_amd64.deb",
+    "Version": "2020.3.5",
+    "Filename": "pycharm-community-spark_2020.3.5_amd64.deb",
     "Pkgname": "pycharm-community-spark",
     "Author": "JetBrains",
     "Contributor": "Anysets",
     "Website": "https://www.jetbrains.com/pycharm",
-    "Update": "2021-03-13 11:33:15",
-    "Size": "352.32 MB",
+    "Update": "2021-04-03 21:06:02",
+    "Size": "352.59 MB",
     "More": "PyCharm社区版",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/13/67515890-83ac-11eb-a447-e30a2b93f6bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/13/678253a0-83ac-11eb-a447-e30a2b93f6bd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/13/646d4b70-83ac-11eb-a447-e30a2b93f6bd.png"
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/03/09caa370-947d-11eb-8187-bddf45544cc1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/03/0b6a70c0-947d-11eb-8187-bddf45544cc1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/03/0ccff430-947d-11eb-8187-bddf45544cc1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/03/072aa430-947d-11eb-8187-bddf45544cc1.png"
   },
   {
     "Name": "Arduino",

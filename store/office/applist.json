@@ -453,6 +453,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
   },
   {
+    "Name": "EssentialPIM Pro（wine）",
+    "Version": "9.7.5spark0",
+    "Filename": "com.essentialpim.spark_9.7.5spark0_amd64.deb",
+    "Pkgname": "com.essentialpim.spark",
+    "Author": "Astonsoft Ltd.",
+    "Contributor": "sgb76",
+    "Website": "https://www.essentialpim.com/",
+    "Update": "2021-03-31 12:45:29",
+    "Size": "122.22 MB",
+    "More": "EssentialPIM Pro 是一款非常全面的个人信息管理工具，可以让你在多台设备之间管理日程、待办事项、备忘录、通讯录、密码和电子邮件，并和各大主流云服务同步。",
+    "Tags": "deepin;ubuntu;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/498a6730-91d9-11eb-8808-e540b73fdebb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/4eb09c20-91d9-11eb-8808-e540b73fdebb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/31/548dec10-91d9-11eb-8808-e540b73fdebb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/31/451ecfb0-91d9-11eb-8808-e540b73fdebb.png"
+  },
+  {
     "Name": "搜狗拼音",
     "Version": "2.4.0.2942",
     "Filename": "sogoupinyin_2.4.0.2942_amd64.deb",
@@ -520,6 +535,21 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/18/bb238ac0-2960-11eb-ba84-ebf7ecc3a7ce.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/18/ab719900-2960-11eb-ba84-ebf7ecc3a7ce.png"
+  },
+  {
+    "Name": "我来笔记",
+    "Version": "1.0.34spark0",
+    "Filename": "com.wolai.spark_1.0.34spark0_amd64.deb",
+    "Pkgname": "com.wolai.spark",
+    "Author": "上海我云网络科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.wolai.com/",
+    "Update": "2021-03-24 17:20:31",
+    "Size": "54.77 MB",
+    "More": "我来，不仅仅是完美的云端笔记\n用 “我来” 构建个人的信息库、笔记、知识、待办、计划、剪藏、数据...",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/765ed100-8c80-11eb-ad89-2582f45c19a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/7aa4b810-8c80-11eb-ad89-2582f45c19a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/24/7e6d0ab0-8c80-11eb-ad89-2582f45c19a4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/24/6fa7c2e0-8c80-11eb-ad89-2582f45c19a4.png"
   },
   {
     "Name": "洋葱学院",

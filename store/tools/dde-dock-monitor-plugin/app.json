@@ -1,15 +1,15 @@
 {
     "Name": "任务栏系统监视器",
-    "Version": "1.7spark0",
-    "Filename": "dde-dock-monitor-plugin_1.7spark0_amd64.deb",
+    "Version": "1.7.1spark0",
+    "Filename": "dde-dock-monitor-plugin_1.7.1spark0_amd64.deb",
     "Pkgname": "dde-dock-monitor-plugin",
     "Author": "q77190858",
     "Contributor": "shenmo",
     "Website": "https://github.com/q77190858/dde-sys-monitor-plugin",
-    "Update": "2020-11-05 08:39:38",
-    "Size": "66.21 KB",
-    "More": "一款方便的任务栏插件，可以显示网速、内存、CPU等信息。修复了在 Deepin 20 (1003) 上插件显示被遮挡的问题。",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/694b7eb0-1f42-11eb-a063-f5958d257df2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/6a797760-1f42-11eb-a063-f5958d257df2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/6bad6380-1f42-11eb-a063-f5958d257df2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/05/67871260-1f42-11eb-a063-f5958d257df2.png"
+    "Update": "2021-04-07 00:51:10",
+    "Size": "68 KB",
+    "More": "一款方便的任务栏插件，可以显示网速、CPU、内存等信息。\n适配 Deepin 20.2 风格悬浮窗。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/31d68410-96f8-11eb-97cd-1bab4b442aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/3396aaa0-96f8-11eb-97cd-1bab4b442aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/35811580-96f8-11eb-97cd-1bab4b442aed.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/07/2727d5f0-96f8-11eb-97cd-1bab4b442aed.png"
 }

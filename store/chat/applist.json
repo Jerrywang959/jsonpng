@@ -73,16 +73,18 @@
   },
   {
     "Name": "TIM（wine）",
-    "Version": "3.2.0.21856spark0",
-    "Filename": "com.qq.tim.spark_3.2.0.21856spark0_i386.deb",
+    "Version": "3.3.5.22018spark0",
+    "Filename": "com.qq.tim.spark_3.3.5.22018spark0_i386.deb",
     "Pkgname": "com.qq.tim.spark",
-    "Author": "Tencent",
+    "Author": "Deepin WINE Team / zty199",
     "Contributor": "zty199",
     "Website": "https://tim.qq.com/",
-    "Update": "2020-09-25 14:50",
-    "Size": "213.70MB",
-    "More": "Tencent TIM Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器，升级安装。\n仅供尝鲜使用。",
-    "Tags": "deepin;uos;dwine5"
+    "Update": "2021-04-05 21:58:15",
+    "Size": "214.49 MB",
+    "More": "Tencent TIM Client on Deepin Wine 5.\n使用 deepin-wine5 重新打包，使用了官方的容器升级安装。\n仅供尝鲜使用。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e29eb1b0-9616-11eb-84ae-ed5a5b82afa4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e3a5c170-9616-11eb-84ae-ed5a5b82afa4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e4d6a050-9616-11eb-84ae-ed5a5b82afa4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/e12223d0-9616-11eb-84ae-ed5a5b82afa4.png"
   },
   {
     "Name": "deepin.com.qq.im.light",
@@ -116,18 +118,18 @@
   },
   {
     "Name": "微信（wine）",
-    "Version": "3.1.0.41spark0",
-    "Filename": "com.qq.weixin.spark_3.1.0.41spark0_i386.deb",
+    "Version": "3.2.1.127spark0",
+    "Filename": "com.qq.weixin.spark_3.2.1.127spark0_i386.deb",
     "Pkgname": "com.qq.weixin.spark",
-    "Author": "Deepin WINE Team & zty199",
+    "Author": "Deepin WINE Team / zty199",
     "Contributor": "zty199",
     "Website": "https://weixin.qq.com/",
-    "Update": "2020-12-28 08:30:22",
-    "Size": "124.3 MB",
-    "More": "Tencent WeChat Client on Deepin Wine 5.\n使用了官方的容器，测试中添加小程序到桌面功能正常，可以正常唤起微信小程序。\n修复了 3.0 版本中小程序加载界面不消失的问题。\n可能存在其他 BUG，仅供尝鲜使用。",
+    "Update": "2021-04-05 22:33:29",
+    "Size": "137.97 MB",
+    "More": "Tencent WeChat Client on Deepin Wine 5.\n使用了官方的容器覆盖更新安装，测试中可以打开小程序，添加小程序到桌面功能正常，可以正常唤起微信小程序。\n可能存在其他BUG，仅供尝鲜使用。",
     "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/28/b19f09c0-48e6-11eb-bf4f-e94d775d07d8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/28/b0f8deb0-48e6-11eb-bf4f-e94d775d07d8.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/d8318720-961b-11eb-964b-670d7f9be94a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/d6892e50-961b-11eb-964b-670d7f9be94a.png"
   },
   {
     "Name": "lfxSpeed",

@@ -1,0 +1,15 @@
+{
+    "Name": "lfxspeed",
+    "Version": "0.6.5~spark0",
+    "Filename": "com.github.lfxspeed_0.6.5~spark0_amd64.deb",
+    "Pkgname": "com.github.lfxspeed",
+    "Author": "偕臧",
+    "Contributor": "偕臧、zty199",
+    "Website": "https://github.com/xmuli/lfxSpeed",
+    "Update": "2021-04-07 12:15:48",
+    "Size": "53.01 KB",
+    "More": "一款轻巧、快速的任务栏网速插件（DDE）。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/b26f2730-9757-11eb-974c-578f617d295d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/b56de840-9757-11eb-974c-578f617d295d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/b7dc7740-9757-11eb-974c-578f617d295d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/07/ab941650-9757-11eb-974c-578f617d295d.png"
+}

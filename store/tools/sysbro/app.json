@@ -1,15 +1,15 @@
 {
     "Name": "系统助手",
-    "Version": "0.9.9-20201123",
-    "Filename": "sysbro_0.9.9-20201123_amd64.deb",
+    "Version": "0.9.9-20210406",
+    "Filename": "sysbro_0.9.9-20210406_amd64.deb",
     "Pkgname": "sysbro",
     "Author": "Rekols <rekols@foxmail.com>",
     "Contributor": "lidanger",
     "Website": "https://github.com/rekols/sysbro",
-    "Update": "2020-11-23 13:23:57",
-    "Size": "197.16 KB",
-    "More": "rekols 开发的一款美观实用的系统助手，基于 dtk 和 qt5。",
-    "Tags": "deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/f485fdc0-2d8e-11eb-bfb8-4fcb5e0e225e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/f489a740-2d8e-11eb-bfb8-4fcb5e0e225e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/f4f7ab50-2d8e-11eb-bfb8-4fcb5e0e225e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/f4fb06b0-2d8e-11eb-bfb8-4fcb5e0e225e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/e8a0a460-2d8e-11eb-bfb8-4fcb5e0e225e.png"
+    "Update": "2021-04-06 21:06:03",
+    "Size": "197.73 KB",
+    "More": "rekols 开发的一款美观实用的系统助手，基于 dtk 和 qt5。\n基于qt5.15重新编译。",
+    "Tags": "deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/619a8130-96d8-11eb-865d-9f513271c80e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/61be5ce0-96d8-11eb-865d-9f513271c80e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/61e45b70-96d8-11eb-865d-9f513271c80e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/62030700-96d8-11eb-865d-9f513271c80e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/06/5c646dc0-96d8-11eb-865d-9f513271c80e.png"
 }

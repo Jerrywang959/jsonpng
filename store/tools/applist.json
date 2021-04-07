@@ -136,18 +136,18 @@
   },
   {
     "Name": "桌面快捷方式编辑器",
-    "Version": "1.4.1~uos",
-    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.1~uos_amd64.deb",
+    "Version": "1.4.3",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.3_amd64.deb",
     "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
-    "Author": "linuxdeepin & zty199",
+    "Author": "linuxdeepin / zty199",
     "Contributor": "zty199",
     "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
-    "Update": "2020-12-04 07:48:32",
-    "Size": "20.98 MB",
-    "More": "桌面快捷方式编辑器，支持 新建 / 保存 / 另存为 桌面快捷方式文件等操作。修复了 1.4 版本中选择分类信息后焦点还在下拉框，导致键盘快捷键失效的问题。",
+    "Update": "2021-04-02 13:28:42",
+    "Size": "22.29 MB",
+    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n适配 Deepin 20.2。",
     "Tags": "community;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/04/b793add0-3604-11eb-bdce-93eaf8987d3f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/04/b9e4f0d0-3604-11eb-bdce-93eaf8987d3f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/04/bc87d640-3604-11eb-bdce-93eaf8987d3f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/04/b4d50300-3604-11eb-bdce-93eaf8987d3f.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/3b418090-9374-11eb-b162-dd301e7b2816.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/3f5708d0-9374-11eb-b162-dd301e7b2816.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/40d80380-9374-11eb-b162-dd301e7b2816.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/02/386080b0-9374-11eb-b162-dd301e7b2816.png"
   },
   {
     "Name": "深度云打印配置助手",
@@ -212,6 +212,21 @@
     "Size": "1.64KB",
     "More": "利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
     "Tags": "community;deepin;uos"
+  },
+  {
+    "Name": "WinRAR for deepin-wine",
+    "Version": "5.3.0deepin2",
+    "Filename": "deepin.cn.com.winrar_5.3.0deepin2_i386.deb",
+    "Pkgname": "deepin.cn.com.winrar",
+    "Author": "WinRAR",
+    "Contributor": "gfdgd xi",
+    "Website": "http://www.winrar.com.cn/",
+    "Update": "2021-04-05 21:14:55",
+    "Size": "4.17 MB",
+    "More": "从 deepin-wine 里翻出来的安装包",
+    "Tags": "deepin;ubuntu;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e7528480-9610-11eb-a883-b50638ee544b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/b8cf2b40-9610-11eb-a883-b50638ee544b.png"
   },
   {
     "Name": "深度云扫描",
@@ -284,6 +299,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/660e0340-49fd-11eb-98c6-4bd0150970dc.png"
   },
   {
+    "Name": "lfxspeed",
+    "Version": "0.6.5~spark0",
+    "Filename": "com.github.lfxspeed_0.6.5~spark0_amd64.deb",
+    "Pkgname": "com.github.lfxspeed",
+    "Author": "偕臧",
+    "Contributor": "偕臧、zty199",
+    "Website": "https://github.com/xmuli/lfxSpeed",
+    "Update": "2021-04-07 12:15:48",
+    "Size": "53.01 KB",
+    "More": "一款轻巧、快速的任务栏网速插件（DDE）。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/b26f2730-9757-11eb-974c-578f617d295d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/b56de840-9757-11eb-974c-578f617d295d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/b7dc7740-9757-11eb-974c-578f617d295d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/07/ab941650-9757-11eb-974c-578f617d295d.png"
+  },
+  {
     "Name": "深度梦境动态壁纸",
     "Version": "0.0.5",
     "Filename": "deepin-dreamscene-ui_0.0.5_amd64.deb",
@@ -342,18 +372,18 @@
   },
   {
     "Name": "系统助手",
-    "Version": "0.9.9-20201123",
-    "Filename": "sysbro_0.9.9-20201123_amd64.deb",
+    "Version": "0.9.9-20210406",
+    "Filename": "sysbro_0.9.9-20210406_amd64.deb",
     "Pkgname": "sysbro",
     "Author": "Rekols <rekols@foxmail.com>",
     "Contributor": "lidanger",
     "Website": "https://github.com/rekols/sysbro",
-    "Update": "2020-11-23 13:23:57",
-    "Size": "197.16 KB",
-    "More": "rekols 开发的一款美观实用的系统助手，基于 dtk 和 qt5。",
-    "Tags": "deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/f485fdc0-2d8e-11eb-bfb8-4fcb5e0e225e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/f489a740-2d8e-11eb-bfb8-4fcb5e0e225e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/f4f7ab50-2d8e-11eb-bfb8-4fcb5e0e225e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/f4fb06b0-2d8e-11eb-bfb8-4fcb5e0e225e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/e8a0a460-2d8e-11eb-bfb8-4fcb5e0e225e.png"
+    "Update": "2021-04-06 21:06:03",
+    "Size": "197.73 KB",
+    "More": "rekols 开发的一款美观实用的系统助手，基于 dtk 和 qt5。\n基于qt5.15重新编译。",
+    "Tags": "deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/619a8130-96d8-11eb-865d-9f513271c80e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/61be5ce0-96d8-11eb-865d-9f513271c80e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/61e45b70-96d8-11eb-865d-9f513271c80e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/06/62030700-96d8-11eb-865d-9f513271c80e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/06/5c646dc0-96d8-11eb-865d-9f513271c80e.png"
   },
   {
     "Name": "XiaoMiTool（XMT2）",
@@ -414,18 +444,18 @@
   },
   {
     "Name": "任务栏系统监视器",
-    "Version": "1.7spark0",
-    "Filename": "dde-dock-monitor-plugin_1.7spark0_amd64.deb",
+    "Version": "1.7.1spark0",
+    "Filename": "dde-dock-monitor-plugin_1.7.1spark0_amd64.deb",
     "Pkgname": "dde-dock-monitor-plugin",
     "Author": "q77190858",
     "Contributor": "shenmo",
     "Website": "https://github.com/q77190858/dde-sys-monitor-plugin",
-    "Update": "2020-11-05 08:39:38",
-    "Size": "66.21 KB",
-    "More": "一款方便的任务栏插件，可以显示网速、内存、CPU等信息。修复了在 Deepin 20 (1003) 上插件显示被遮挡的问题。",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/694b7eb0-1f42-11eb-a063-f5958d257df2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/6a797760-1f42-11eb-a063-f5958d257df2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/05/6bad6380-1f42-11eb-a063-f5958d257df2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/05/67871260-1f42-11eb-a063-f5958d257df2.png"
+    "Update": "2021-04-07 00:51:10",
+    "Size": "68 KB",
+    "More": "一款方便的任务栏插件，可以显示网速、CPU、内存等信息。\n适配 Deepin 20.2 风格悬浮窗。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/31d68410-96f8-11eb-97cd-1bab4b442aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/3396aaa0-96f8-11eb-97cd-1bab4b442aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/07/35811580-96f8-11eb-97cd-1bab4b442aed.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/07/2727d5f0-96f8-11eb-97cd-1bab4b442aed.png"
   },
   {
     "Name": "Feem",
@@ -444,18 +474,18 @@
   },
   {
     "Name": "任务栏显卡切换插件",
-    "Version": "1.8.1",
-    "Filename": "dde-dock-graphics-plugin_1.8.1_amd64.deb",
+    "Version": "1.8.2",
+    "Filename": "dde-dock-graphics-plugin_1.8.2_amd64.deb",
     "Pkgname": "dde-dock-graphics-plugin",
     "Author": "chanforever / zty199",
     "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
-    "Update": "2020-12-22 16:07:46",
-    "Size": "39.47 KB",
-    "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/post/197280\n\n【更新日志】\nv1.8.1:\n1. 修改托盘图标显示风格，与系统托盘统一，避免因宽度问题造成图标被遮挡。\n2. 输入密码时显示自定义提示文字。\n3. 支持中文和英文显示。\n4. 重构部分代码。",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/22/a6b46170-446f-11eb-8dde-0dc606bca59d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/22/a6cdb5d0-446f-11eb-8dde-0dc606bca59d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/22/a6e7f490-446f-11eb-8dde-0dc606bca59d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/22/a1dac5e0-446f-11eb-8dde-0dc606bca59d.png"
+    "Website": "https://gitee.com/deepin-opensource/switch-graphics-card",
+    "Update": "2021-04-02 01:27:08",
+    "Size": "52.92 KB",
+    "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/forum.php?mod=viewthread&tid=197280\n【更新日志】\nv1.8.2:\n1. 适配 Deepin 20.2，使用新版本 dde-dock 悬浮窗样式。\n2. 修复了旧版本在 Deepin 20.2 上存在的插件无法禁用，右键菜单无法显示的问题。",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/6631bbe0-930f-11eb-b7d3-51b4e32f6b5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/67b7e6b0-930f-11eb-b7d3-51b4e32f6b5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/02/694ba610-930f-11eb-b7d3-51b4e32f6b5d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/02/54a9aa90-930f-11eb-b7d3-51b4e32f6b5d.png"
   },
   {
     "Name": "Stretchly",
@@ -816,6 +846,21 @@
     "tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/18/808fd600-f988-11ea-9433-5f813e49cebb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/18/80926e10-f988-11ea-9433-5f813e49cebb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/18/27e68a30-f988-11ea-9433-5f813e49cebb.svg"
+  },
+  {
+    "Name": "摸鱼股票球",
+    "Version": "0.0-2",
+    "Filename": "findfish-stockball_0.0-2_amd64.deb",
+    "Pkgname": "findfish-stockball",
+    "Author": "depend",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/stockball",
+    "Update": "2021-04-05 00:11:23",
+    "Size": "119.82 KB",
+    "More": "提供时时股票查看，可以自定义股票的模拟，时时查看亏损",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/5bcea340-9560-11eb-89f1-e720d46b794c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/5bef71b0-9560-11eb-89f1-e720d46b794c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/5c326e20-9560-11eb-89f1-e720d46b794c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/5c10b550-9560-11eb-89f1-e720d46b794c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/54af0f50-9560-11eb-89f1-e720d46b794c.png"
   },
   {
     "Name": "Intel核心管理器",
