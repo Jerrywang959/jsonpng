@@ -216,6 +216,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/29/d318f820-49fb-11eb-98c6-4bd0150970dc.png"
   },
   {
+    "Name": "钉钉",
+    "Version": "2.1.9",
+    "Filename": "dingtalk_2.1.9_amd64.deb",
+    "Pkgname": "dingtalk",
+    "Author": "nashaofu",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/nashaofu/dingtalk",
+    "Update": "2021-04-09 00:14:55",
+    "Size": "50.52 MB",
+    "More": "\n钉钉桌面版，基于electron和钉钉网页版开发",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/108838c0-9884-11eb-9329-ef4c8daacf1e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/fc816bd0-9883-11eb-9329-ef4c8daacf1e.png"
+  },
+  {
     "Name": "jitsi-meet",
     "Version": "2.3.1",
     "Filename": "jitsi-meet_2.3.1_a2d_amd64.deb",
