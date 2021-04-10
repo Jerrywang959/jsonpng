@@ -329,21 +329,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/07/ab941650-9757-11eb-974c-578f617d295d.png"
   },
   {
-    "Name": "深度梦境动态壁纸",
-    "Version": "0.0.5",
-    "Filename": "deepin-dreamscene-ui_0.0.5_amd64.deb",
-    "Pkgname": "deepin-dreamscene-ui",
-    "Author": "depend",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon",
-    "Update": "2021-03-15 21:34:19",
-    "Size": "18.31 MB",
-    "More": "用于在深度和uos系统下dde桌面设置动态壁纸,启动将系统dde关闭,开启透明的dde桌面,结束时关闭透明dde桌面,还原默认桌面",
-    "Tags": "uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/15/ff852f50-8592-11eb-822e-e7f7f944a04a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/15/fff974f0-8592-11eb-822e-e7f7f944a04a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/15/fa483e10-8592-11eb-822e-e7f7f944a04a.png"
-  },
-  {
     "Name": "VMware-Workstation",
     "Version": "15.5.6-16341506",
     "Filename": "VMware-Workstation-Full-15.5.6-16341506.x86_64.deb",
