@@ -250,18 +250,18 @@
   },
   {
     "Name": "losslessCut无损剪辑",
-    "Version": "3.34.3",
-    "Filename": "losslesscut.spark_3.34.3_amd64.deb",
+    "Version": "3.36.0",
+    "Filename": "losslesscut.spark_3.36.0_amd64.deb",
     "Pkgname": "losslesscut.spark",
     "Author": "Mikael Finstad",
     "Contributor": "Fredoong",
     "Website": "https://mifi.no/losslesscut/",
-    "Update": "2021-03-30 22:17:20",
-    "Size": "93.43 MB",
+    "Update": "2021-04-16 23:52:36",
+    "Size": "95.04 MB",
     "More": "采用Electron技术，\n被称为无损视频剪辑的瑞士军刀，常用于粗剪（无损剪切、合并）。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/30/7d32b5f0-9162-11eb-925e-7f95ace2f04f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/30/7651b1a0-9162-11eb-925e-7f95ace2f04f.png"
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/9039aa20-9ecb-11eb-b503-616cb4df12d1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/16/886f3030-9ecb-11eb-b503-616cb4df12d1.png"
   },
   {
     "Name": "kdenlive",
