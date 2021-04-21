@@ -1,15 +1,15 @@
 {
     "Name": "P3X-OneNote",
-    "Version": "2021.4.147",
-    "Filename": "p3x-onenote_2021.4.147_amd64.deb",
+    "Version": "2021.4.173",
+    "Filename": "p3x-onenote_2021.4.173_amd64.deb",
     "Pkgname": "p3x-onenote",
     "Author": "patrikx3",
     "Contributor": "安洛",
     "Website": "https://github.com/patrikx3/onenote",
-    "Update": "2021-03-14 12:28:02",
-    "Size": "60.39 MB",
-    "More": "A Linux compatible version of OneNote",
+    "Update": "2021-04-20 22:58:19",
+    "Size": "60.36 MB",
+    "More": "A Linux compatible version of OneNote\n一个linux原生的OneNote客户端，基于Office Online",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/14/6cc8a7c0-847d-11eb-9701-f9ebf3ef8e55.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/14/6ab2c010-847d-11eb-9701-f9ebf3ef8e55.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/20/c12d7b00-a1e8-11eb-9aa0-aff1d1270fdd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/20/be8a4770-a1e8-11eb-9aa0-aff1d1270fdd.png"
 }

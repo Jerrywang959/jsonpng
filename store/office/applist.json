@@ -663,6 +663,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/21/41abc8f0-2c13-11eb-b68b-f70830ee7b28.png"
   },
   {
+    "Name": "小书匠",
+    "Version": "8.5.0spark0",
+    "Filename": "com.story-writer.spark_8.5.0spark0_amd64.deb",
+    "Pkgname": "com.story-writer.spark",
+    "Author": "小书匠",
+    "Contributor": "sgb76",
+    "Website": "http://soft.xiaoshujiang.com/",
+    "Update": "2021-04-19 12:56:51",
+    "Size": "105.46 MB",
+    "More": "小书匠不仅仅是一款强大的 markdown 编辑器, 更是一款功能丰富的个人知识管理工具，同时支持真离线与真在线，并提供了多种主流平台客户端版本下载。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/5fe21770-a0cb-11eb-9d00-298b321716c4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/6cf73e40-a0cb-11eb-9d00-298b321716c4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/70fd5d30-a0cb-11eb-9d00-298b321716c4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/4b4c9f10-a0cb-11eb-9d00-298b321716c4.png"
+  },
+  {
     "Name": "myBase Desktop",
     "Version": "7.3.5",
     "Filename": "mybase-desktop_7.3.5_amd64.deb",
@@ -950,18 +965,18 @@
   },
   {
     "Name": "P3X-OneNote",
-    "Version": "2021.4.147",
-    "Filename": "p3x-onenote_2021.4.147_amd64.deb",
+    "Version": "2021.4.173",
+    "Filename": "p3x-onenote_2021.4.173_amd64.deb",
     "Pkgname": "p3x-onenote",
     "Author": "patrikx3",
     "Contributor": "安洛",
     "Website": "https://github.com/patrikx3/onenote",
-    "Update": "2021-03-14 12:28:02",
-    "Size": "60.39 MB",
-    "More": "A Linux compatible version of OneNote",
+    "Update": "2021-04-20 22:58:19",
+    "Size": "60.36 MB",
+    "More": "A Linux compatible version of OneNote\n一个linux原生的OneNote客户端，基于Office Online",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/14/6cc8a7c0-847d-11eb-9701-f9ebf3ef8e55.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/14/6ab2c010-847d-11eb-9701-f9ebf3ef8e55.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/20/c12d7b00-a1e8-11eb-9aa0-aff1d1270fdd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/20/be8a4770-a1e8-11eb-9aa0-aff1d1270fdd.png"
   },
   {
     "Name": "QOwnNotes",
