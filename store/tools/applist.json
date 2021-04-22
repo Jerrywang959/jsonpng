@@ -677,19 +677,19 @@
     "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。"
   },
   {
-    "Name": "keeweb",
-    "Version": "1.16.7-1",
-    "Filename": "keeweb-desktop_1.16.7-1_amd64.deb",
+    "Name": "Keeweb",
+    "Version": "1.17.6-1",
+    "Filename": "keeweb-desktop_1.17.6-1_amd64.deb",
     "Pkgname": "keeweb-desktop",
     "Author": "keeweb",
     "Contributor": "jerrywang",
-    "Website": "https://keeweb.info/",
-    "Update": "2021-02-03 22:37:37",
-    "Size": "73.38 MB",
-    "More": "keeweb是一个开源免费的密码管理器。可安装中文插件。\n此deb包名称为“keeweb-desktop\", 与原来的“keeweb”冲突，需要卸载原keeweb包",
-    "Tags": "ubuntu;community;uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/03/ae20a020-662c-11eb-b2b7-99472486f8a0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/03/acf343b0-662c-11eb-b2b7-99472486f8a0.png"
+    "Website": "keeweb",
+    "Update": "2021-04-21 23:18:26",
+    "Size": "76.32 MB",
+    "More": "keeweb是一个开源免费的密码管理器, 100%兼容keepass。\n可安装中文插件。",
+    "Tags": "ubuntu;community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/21/ae816260-a2b4-11eb-8bc4-3d1ce405dce1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/21/ae8707b0-a2b4-11eb-8bc4-3d1ce405dce1.png"
   },
   {
     "Name": "utools",
