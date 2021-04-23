@@ -294,6 +294,21 @@
     "More": "文件管理更便捷\n上传下载更稳定"
   },
   {
+    "Name": "双开第二个微信1",
+    "Version": "2.9.5.4.1deepin5",
+    "Filename": "com.qq.weixin1.deepin_2.9.5.4.1deepin5_i386.deb",
+    "Pkgname": "com.qq.weixin1.deepin",
+    "Author": "Deepin Wine Team/QSLS",
+    "Contributor": "QSLS",
+    "Website": "https://weixin.qq.com/",
+    "Update": "2021-04-19 11:42:18",
+    "Size": "156.97 MB",
+    "More": "在正常安装官网微信或星火应用商店微信后，一般只能有一个微信。安装双开第二个微信1后，可以实现微信双开，两个微信互相不干扰，卸载任何一个微信，不影响另外一个正常运行。",
+    "Tags": "dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/b31f25a0-a0c0-11eb-a974-3f61b77a914d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/b3454b40-a0c0-11eb-a974-3f61b77a914d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/a758c5f0-a0c0-11eb-a974-3f61b77a914d.png"
+  },
+  {
     "Name": "360国产浏览器-86内核尝鲜版",
     "Version": "10.4.1001.24-1",
     "Filename": "browser360-cn-stable_10.4.1001.24-1_amd64.deb",
@@ -304,6 +319,21 @@
     "Update": "2020-08-30 11:27",
     "Size": "70.28MB",
     "More": "360国产浏览器的86内核偷跑版本，bug较多，建议仅用于尝鲜"
+  },
+  {
+    "Name": "LIII BitTorrent Client（wine）",
+    "Version": "0.1.1.6spark0",
+    "Filename": "com.github.liii.spark_0.1.1.6spark0_i386.deb",
+    "Pkgname": "com.github.liii.spark",
+    "Author": "aliakseis",
+    "Contributor": "sgb76",
+    "Website": "https://codecpack.co/download/LIII-BitTorrent-Client.html",
+    "Update": "2021-04-18 11:52:37",
+    "Size": "18.93 MB",
+    "More": "LIII BitTorrent Client 是一款开源的bittorrent下载工具，软件资源占用非常小，而且下载速度很快，界面简洁、功能专一",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/18/50717ce0-9ff9-11eb-84fb-c34f26d672e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/18/574bca70-9ff9-11eb-84fb-c34f26d672e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/18/5ae0ff20-9ff9-11eb-84fb-c34f26d672e7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/18/410ff510-9ff9-11eb-84fb-c34f26d672e7.png"
   },
   {
     "Name": "Mailspring",

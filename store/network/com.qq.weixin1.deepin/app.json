@@ -1,0 +1,15 @@
+{
+    "Name": "双开第二个微信1",
+    "Version": "2.9.5.4.1deepin5",
+    "Filename": "com.qq.weixin1.deepin_2.9.5.4.1deepin5_i386.deb",
+    "Pkgname": "com.qq.weixin1.deepin",
+    "Author": "Deepin Wine Team/QSLS",
+    "Contributor": "QSLS",
+    "Website": "https://weixin.qq.com/",
+    "Update": "2021-04-19 11:42:18",
+    "Size": "156.97 MB",
+    "More": "在正常安装官网微信或星火应用商店微信后，一般只能有一个微信。安装双开第二个微信1后，可以实现微信双开，两个微信互相不干扰，卸载任何一个微信，不影响另外一个正常运行。",
+    "Tags": "dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/b31f25a0-a0c0-11eb-a974-3f61b77a914d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/b3454b40-a0c0-11eb-a974-3f61b77a914d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/a758c5f0-a0c0-11eb-a974-3f61b77a914d.png"
+}
