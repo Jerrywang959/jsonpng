@@ -1,15 +1,15 @@
 {
     "Name": "Pale Moon浏览器",
-    "Version": "29.0.1-1",
-    "Filename": "palemoon_29.0.1-1_amd64.deb",
+    "Version": "29.2.0-1.gtk2",
+    "Filename": "palemoon_29.2.0-1.gtk2_amd64.deb",
     "Pkgname": "palemoon",
     "Author": "Moonchild Productions",
     "Contributor": "sgb76",
     "Website": "https://www.palemoon.org/",
-    "Update": "2021-02-20 12:48:28",
-    "Size": "37.21 MB",
+    "Update": "2021-04-29 18:33:14",
+    "Size": "36.73 MB",
     "More": "一款基于Firefox的高效易用的web浏览器",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/20/55e74460-7336-11eb-9cb0-791d2412ced8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/20/5b7d2b10-7336-11eb-9cb0-791d2412ced8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/20/4f4b5f60-7336-11eb-9cb0-791d2412ced8.png"
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/29/127494f0-a8d6-11eb-aa3e-d31e82fdf378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/29/1cb31c20-a8d6-11eb-aa3e-d31e82fdf378.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/29/0bbcc380-a8d6-11eb-aa3e-d31e82fdf378.png"
 }

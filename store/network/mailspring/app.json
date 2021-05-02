@@ -1,15 +1,15 @@
 {
     "Name": "Mailspring",
-    "Version": "1.8.0",
-    "Filename": "mailspring_1.8.0_amd64.deb",
+    "Version": "1.9.1",
+    "Filename": "mailspring_1.9.1_amd64.deb",
     "Pkgname": "mailspring",
     "Author": "Foundry 376, LLC.",
     "Contributor": "sgb76",
     "Website": "https://www.getmailspring.com/",
-    "Update": "2021-02-22 19:22:11",
-    "Size": "76.05 MB",
+    "Update": "2021-04-29 19:09:31",
+    "Size": "83.72 MB",
     "More": "Mailspring是Mac、Linux和Windows上的最佳邮件客户端，它可以提高您的工作效率并更好的发送电子邮件。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/f626ea00-74ff-11eb-b967-012b464622b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/fa295f70-74ff-11eb-b967-012b464622b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/22/00b1bc70-7500-11eb-b967-012b464622b7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/22/e8a6f370-74ff-11eb-b967-012b464622b7.png"
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/29/2d668610-a8db-11eb-a236-d7cab87279a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/29/32ccd140-a8db-11eb-a236-d7cab87279a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/29/39267d20-a8db-11eb-a236-d7cab87279a3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/29/26d24230-a8db-11eb-a236-d7cab87279a3.png"
 }

@@ -82,18 +82,18 @@
   },
   {
     "Name": "Shotcut",
-    "Version": "21.02.27spark1",
-    "Filename": "org.shotcut.spark_21.02.27spark1_amd64.deb",
+    "Version": "21.03.21spark2",
+    "Filename": "org.shotcut.spark_21.03.21spark2_amd64.deb",
     "Pkgname": "org.shotcut.spark",
     "Author": "Meltytech, LLC",
     "Contributor": "sgb76",
     "Website": "https://www.shotcut.org/",
-    "Update": "2021-03-11 14:59:58",
-    "Size": "77.22 MB",
+    "Update": "2021-04-30 15:36:40",
+    "Size": "75.12 MB",
     "More": "一个免费、开源、跨平台的视频编辑器。",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/11/195c8cc0-8237-11eb-9e93-f10b978e54ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/11/20a94b30-8237-11eb-9e93-f10b978e54ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/11/278dd1f0-8237-11eb-9e93-f10b978e54ad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/11/0a620420-8237-11eb-9e93-f10b978e54ad.png"
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/30/9357f8e0-a986-11eb-8f03-1d4c06e84428.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/30/97623680-a986-11eb-8f03-1d4c06e84428.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/30/8a3038e0-a986-11eb-8f03-1d4c06e84428.png"
   },
   {
     "Name": "QMPlay2",

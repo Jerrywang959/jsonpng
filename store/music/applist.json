@@ -88,18 +88,18 @@
   },
   {
     "Name": "Moon FM",
-    "Version": "2.0.17spark0",
-    "Filename": "fm.moonfm.spark_2.0.17spark0_amd64.deb",
+    "Version": "2.0.36spark1",
+    "Filename": "fm.moonfm.spark_2.0.36spark1_amd64.deb",
     "Pkgname": "fm.moonfm.spark",
     "Author": "MoonFM",
     "Contributor": "sgb76",
     "Website": "http://www.moon.fm/",
-    "Update": "2021-01-22 19:49:15",
-    "Size": "61.13 MB",
+    "Update": "2021-04-30 11:30:53",
+    "Size": "60.86 MB",
     "More": "一款漂亮、易于使用的播客播放器",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/22/85620720-5ca7-11eb-a3db-df67796f5e40.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/22/8f599a40-5ca7-11eb-a3db-df67796f5e40.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/22/7c8077e0-5ca7-11eb-a3db-df67796f5e40.png"
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/30/41003b10-a964-11eb-973b-cfb5ca1ab76a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/30/45c2a520-a964-11eb-973b-cfb5ca1ab76a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/30/3b63c4b0-a964-11eb-973b-cfb5ca1ab76a.png"
   },
   {
     "Name": "Helio调音工作站",
