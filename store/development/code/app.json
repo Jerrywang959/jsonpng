@@ -1,15 +1,15 @@
 {
     "Name": "Visual Studio Code",
-    "Version": "1.52.0-1607640828",
-    "Filename": "code_1.52.0-1607640828_amd64.deb",
+    "Version": "1.55.2-1618307277",
+    "Filename": "code_1.55.2-1618307277_amd64.deb",
     "Pkgname": "code",
     "Author": "Microsoft",
     "Contributor": "Anysets",
     "Website": "https://code.visualstudio.com/",
-    "Update": "2020-12-12 02:54:52",
-    "Size": "62.53 MB",
+    "Update": "2021-05-04 10:14:02",
+    "Size": "67.73 MB",
     "More": "Visual Studio Code是一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代 Web 和云应用的跨平台源代码编辑器。该编辑器也集成了所有一款现代编辑器所应该具备的特性，包括语法高亮（syntax high lighting），可定制的热键绑定（customizable keyboard bindings），括号匹配（bracket matching）以及代码片段收集（snippets）。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/12/3493f3a0-3c25-11eb-be4f-c719c94e9ef6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/12/32a80220-3c25-11eb-be4f-c719c94e9ef6.png"
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/04/351557a0-ac7e-11eb-9b71-918340e8a85a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/04/36f3b490-ac7e-11eb-9b71-918340e8a85a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/04/38d56ce0-ac7e-11eb-9b71-918340e8a85a.png"
 }

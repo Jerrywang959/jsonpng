@@ -1,15 +1,15 @@
 {
     "Name": "deepin-wine5 软件打包器",
-    "Version": "1.0.0",
-    "Filename": "spark-deepin-wine5-application-packer_1.0.0_all.deb",
+    "Version": "1.0.1",
+    "Filename": "spark-deepin-wine5-application-packer_1.0.1_all.deb",
     "Pkgname": "spark-deepin-wine5-application-packer",
     "Author": "gfdgd xi",
     "Contributor": "gfdgd xi",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine5-application-packer",
-    "Update": "2021-02-17 10:37:29",
-    "Size": "41.14 KB",
-    "More": "一个方便使用的 deepin-wine5 应用打包器，可以和星火商店的 deepin-wine 运行器一起使用\n此软件使用 Python3 的 tkinter 构建",
-    "Tags": "community;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/079c18e0-70c9-11eb-adbd-ab6c7191669c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/07bbfcf0-70c9-11eb-adbd-ab6c7191669c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/07b40db0-70c9-11eb-adbd-ab6c7191669c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/fe57f740-70c8-11eb-adbd-ab6c7191669c.png"
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine5-application-packer/",
+    "Update": "2021-05-04 07:59:40",
+    "Size": "41.23 KB",
+    "More": "1.0.1 更新（大了 0.1 KB）：\n①修改 deb 安装脚本，不会出现系统未安装 PIL 而无法运行出现的情况",
+    "Tags": "community;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/04/73652a20-ac6b-11eb-b91f-f1d4381310d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/04/73788b10-ac6b-11eb-b91f-f1d4381310d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/04/73922d90-ac6b-11eb-b91f-f1d4381310d4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/04/6a3ca6d0-ac6b-11eb-b91f-f1d4381310d4.png"
 }
