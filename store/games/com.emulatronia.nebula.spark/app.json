@@ -1,12 +1,15 @@
 {
-   "Name":"星云模拟器（wine）",
-   "Version":"2.25b.0spark0",
-   "Filename":"com.emulatronia.nebula.spark_2.25b.0spark0_i386.deb",
-   "Pkgname":"com.emulatronia.nebula.spark",
-   "Author":"ElSemi",
-   "Contributor":"anima",
-   "Website":"http://nebula.emulatronia.com/",
-   "Update":"2020-08-29 20:30",
-   "Size":"7.12MB",
-   "More":"nebula模拟器是一款由EISemi所写的街机模拟器之一，nebula模拟器完美的支持三国战记、傲剑狂刀、大家来找碴、形意拳、西游记等国产PGM游戏！结构明晰运行稳定，界面简洁清爽功能强大全面占用体积小且专业。"
+    "Name": "星云模拟器（wine）",
+    "Version": "2.25bspark0",
+    "Filename": "com.emulatronia.nebula.spark_2.25bspark0_i386.deb",
+    "Pkgname": "com.emulatronia.nebula.spark",
+    "Author": "ElSemi",
+    "Contributor": "anima",
+    "Website": "http://nebula.emulatronia.com/",
+    "Update": "2021-05-07 11:52:11",
+    "Size": "75.23 MB",
+    "More": "Nebula是由ElSemi所写的最好的街机模拟器之一，支持CPS-1、CPS-2、NEOGEO、IGS、Konami等，NEOGEO、IGS游戏则需要BIOS的支持,分别为neogeo.zip和pgmbios.zip，都不解压的放入roms目录中即可，有多种画面显示处理效果。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/931a39e0-aee7-11eb-aedc-9596fee5f04c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/930a0d40-aee7-11eb-aedc-9596fee5f04c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/07/35ac8830-aee7-11eb-aedc-9596fee5f04c.png"
 }
