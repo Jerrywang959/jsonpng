@@ -474,6 +474,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/b9f11270-404f-11eb-b208-9f1d14fad35c.png"
   },
   {
+    "Name": "迅雷精简版",
+    "Version": "1.0",
+    "Filename": "spark-thundermini_1.0_i386.deb",
+    "Pkgname": "spark-thundermini",
+    "Author": "迅雷",
+    "Contributor": "gfdgd xi",
+    "Website": "https://www.xunlei.com/",
+    "Update": "2021-05-08 11:28:33",
+    "Size": "5.63 MB",
+    "More": "一个简简单单的迅雷精简版",
+    "Tags": "uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/6fd5aed0-afad-11eb-811b-7b480aaa7d4d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/6f54bf00-afad-11eb-811b-7b480aaa7d4d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/6fd81fd0-afad-11eb-811b-7b480aaa7d4d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/6fd316c0-afad-11eb-811b-7b480aaa7d4d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/08/22f35ef0-afad-11eb-811b-7b480aaa7d4d.png"
+  },
+  {
     "Name": "广发操盘手",
     "Version": "1.0spark0",
     "Filename": "web-gf-trader_1.0spark0_amd64.deb",
@@ -529,18 +544,18 @@
   },
   {
     "Name": "NeatDownloadManager（wine）",
-    "Version": "1.2.10spark1",
-    "Filename": "com.neatdownloadmanager.spark_1.2.10spark1_i386.deb",
+    "Version": "1.3.10spark1",
+    "Filename": "com.neatdownloadmanager.spark_1.3.10spark1_i386.deb",
     "Pkgname": "com.neatdownloadmanager.spark",
-    "Author": "未知",
+    "Author": "NeatDownloadManager",
     "Contributor": "anima",
-    "Website": "http://www.neatdownloadmanager.com/",
-    "Update": "2021-01-25 14:21:07",
-    "Size": "51.97 MB",
-    "More": "NeatDownloadManager on Deepin Wine。",
+    "Website": "https://www.neatdownloadmanager.com/",
+    "Update": "2021-05-07 12:38:05",
+    "Size": "74.18 MB",
+    "More": "NeatDownloadManager是一款免费轻量小巧的多线程下载工具，可以支持多线程下载和在线视频嗅探下载，功能和特性上和 IDM、FDM 或 Mac 上的 Folx 等下载软件非常相似。界面也简单易上手，可以轻松帮你提升网络下载速度。",
     "Tags": "dwine5;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/3b7aa330-5ed5-11eb-9642-8bb48878ba91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/3ba2ebb0-5ed5-11eb-9642-8bb48878ba91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/25/3ba70a60-5ed5-11eb-9642-8bb48878ba91.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/25/3ec5af80-5ed5-11eb-9642-8bb48878ba91.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/005d0e00-aeee-11eb-8b93-ef5cdc21d125.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/003d5100-aeee-11eb-8b93-ef5cdc21d125.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/07/006b17c0-aeee-11eb-8b93-ef5cdc21d125.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/07/c943fb90-aeed-11eb-8b93-ef5cdc21d125.png"
   },
   {
     "Name": "Filezilla",

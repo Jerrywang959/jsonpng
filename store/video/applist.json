@@ -27,6 +27,21 @@
     "More": "深度影院3.2.7版，从Debian 10仓库中翻出来的旧版本，修改了安装位置与桌面文件名称和图标并重新进行打包，与商店现有新版本进行区分。"
   },
   {
+    "Name": "视频监控软件",
+    "Version": "2.0.1.1",
+    "Filename": "vms_2.0.1.1_i386.deb",
+    "Pkgname": "vms",
+    "Author": "jf",
+    "Contributor": "jf",
+    "Website": "http://www.jufenginfo.com/",
+    "Update": "2021-05-08 10:04:59",
+    "Size": "58.1 MB",
+    "More": "专业视频监控软件,支持onvif标准及主流厂商摄像机",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/c53d5aa0-afa1-11eb-8a08-556381fa106f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/c5408ef0-afa1-11eb-8a08-556381fa106f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/c548cc50-afa1-11eb-8a08-556381fa106f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/c5537ab0-afa1-11eb-8a08-556381fa106f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/08/b31b7a50-afa1-11eb-8a08-556381fa106f.png"
+  },
+  {
     "Name": "腾讯视频",
     "Version": "1.0.10",
     "Filename": "Tenvideo_universal_1.0.10_amd64.deb",

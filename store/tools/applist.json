@@ -473,6 +473,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/29/bc05f0d0-19d0-11eb-b8b3-37b029de4eb6.png"
   },
   {
+    "Name": "QGIS",
+    "Version": "3.18.2",
+    "Filename": "qgis.gisshow_3.18.2_amd64.deb",
+    "Pkgname": "qgis.gisshow",
+    "Author": "QGIS",
+    "Contributor": "GisShow",
+    "Website": "www.qgis.org",
+    "Update": "2021-05-08 17:27:08",
+    "Size": "60.83 MB",
+    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/2f8168b0-afdf-11eb-9bc8-5d7a567363d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/2f9761b0-afdf-11eb-9bc8-5d7a567363d7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/08/24cb1970-afdf-11eb-9bc8-5d7a567363d7.png"
+  },
+  {
     "Name": "任务栏系统监视器",
     "Version": "1.7.1spark0",
     "Filename": "dde-dock-monitor-plugin_1.7.1spark0_amd64.deb",
