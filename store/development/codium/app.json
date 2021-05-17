@@ -1,15 +1,15 @@
 {
     "Name": "VSCodium",
-    "Version": "1.52.1-1608165473",
-    "Filename": "codium_1.52.1-1608165473_amd64.deb",
+    "Version": "1.56.2-1620951495",
+    "Filename": "codium_1.56.2-1620951495_amd64.deb",
     "Pkgname": "codium",
     "Author": "VSCodium",
     "Contributor": "OkayPJ",
     "Website": "https://vscodium.com/",
-    "Update": "2021-01-03 03:44:06",
-    "Size": "64.6 MB",
+    "Update": "2021-05-16 17:55:48",
+    "Size": "75.6 MB",
     "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VSCode",
-    "Tags": "community;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/03/6c2c0a30-4d75-11eb-9157-679ec8c18455.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/03/6bc9c5f0-4d75-11eb-9157-679ec8c18455.png"
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/16/28e00b80-b62c-11eb-a10f-8d9766dc2e83.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/16/274b88d0-b62c-11eb-a10f-8d9766dc2e83.png"
 }
