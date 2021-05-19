@@ -1,0 +1,15 @@
+{
+    "Name": "PDF OCR识别工具",
+    "Version": "0.1",
+    "Filename": "nexfia.pdf-ocr_0.1_amd64.deb",
+    "Pkgname": "nexfia.pdf-ocr",
+    "Author": "nexfia",
+    "Contributor": "nexfia",
+    "Website": "https://gitee.com/nexfia",
+    "Update": "2021-05-18 07:28:24",
+    "Size": "91.36 KB",
+    "More": "用单个PDF扫描件进进行OCR识别的小工具。\n会原有扫描件的基础添加一层文字层。\n输出的是能够复制文字的PDF文件。\n",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/913e0f10-b767-11eb-a122-ad7df6400e9c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/91536bd0-b767-11eb-a122-ad7df6400e9c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/9168efa0-b767-11eb-a122-ad7df6400e9c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/5ad95880-b767-11eb-a122-ad7df6400e9c.svg"
+}

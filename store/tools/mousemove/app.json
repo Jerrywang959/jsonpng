@@ -1,0 +1,15 @@
+{
+    "Name": "无线鼠标",
+    "Version": "1.0.0",
+    "Filename": "mousemove_1.0.0_amd64.deb",
+    "Pkgname": "mousemove",
+    "Author": "张永伟",
+    "Contributor": "张永伟",
+    "Website": "https://gitee.com/zhangyongwei11/mousemove/releases/1.0.0",
+    "Update": "2021-05-16 09:50:47",
+    "Size": "60.07 MB",
+    "More": "通过蓝牙或者无线网络，连接手机和电脑，使得手机可以操控电脑鼠标。\n手机Android端app下载地址：https://gitee.com/zhangyongwei11/mousemove/attach_files/702291/download/cn.yongw.mousemoveV1.0.1%E4%BD%93%E9%AA%8C%E7%89%88.apk，后续手机端正式版待软著申请成功后将上传华为小米等应用商店。\n使用蓝牙方式连接手机和电脑时，需要使用root权限，且需要做以下准备：1.安装libbluetooth-dev（依赖包）；2.设置蓝牙服务运行状态为兼容模式，到/etc/systemd/system/bluetooth.target.wants/目录下，以管理员权限打开bluetooth.service文件，在ExecStart=***这一行最后面添加 -C参数（记得添加空格），-C即-compat兼容性参数，然后重启电脑或者重新载入systemctl配置（sudo systemctl daemon-reload）并重启蓝牙服务（sudo systemctl restart bluetooth)。\n软包包安装后生成两个图标，带有root字样的图标点击后需要输入管理员密码， 然后可以使用蓝牙连接方式；另一个图标点击进入后可以使用无线网络连接方式。\n",
+    "Tags": "uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/16/0d651d70-b5e9-11eb-8d51-27bab678cd7c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/16/0df96e30-b5e9-11eb-8d51-27bab678cd7c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/16/0d8e9e70-b5e9-11eb-8d51-27bab678cd7c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/16/0ddbad00-b5e9-11eb-8d51-27bab678cd7c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/16/0db44ee0-b5e9-11eb-8d51-27bab678cd7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/16/ff643710-b5e8-11eb-8d51-27bab678cd7c.svg"
+}
