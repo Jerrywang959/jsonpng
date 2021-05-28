@@ -1,0 +1,15 @@
+{
+    "Name": "幻梦动态壁纸",
+    "Version": "1.0.5",
+    "Filename": "fantascene-dynamic-wallpaper_1.0.5_amd64.deb",
+    "Pkgname": "fantascene-dynamic-wallpaper",
+    "Author": "depend",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/fantascene-dynamic-wallpaper/",
+    "Update": "2021-05-28 09:34:43",
+    "Size": "18.52 MB",
+    "More": "用作深度dde环境下动态壁纸,基于mpv制作，可配置不同解码，帧率，智能暂停/播放等功能，查找本地wallaperper engine的壁纸，适用于deepinv20.2.1,deepin20.1/uos请在github下载uos版本",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/98234b20-bf54-11eb-8e19-69688e572d5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/98426be0-bf54-11eb-8e19-69688e572d5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/98670ae0-bf54-11eb-8e19-69688e572d5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/98862ba0-bf54-11eb-8e19-69688e572d5c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/28/d390e010-bf53-11eb-8e19-69688e572d5c.png"
+}
