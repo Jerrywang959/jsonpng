@@ -330,6 +330,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/f1385180-5ac1-11eb-97bf-ef654263344e.png"
   },
   {
+    "Name": "简单图像处理工具",
+    "Version": "1.0.1",
+    "Filename": "simple-image-filter_1.0.1_amd64.deb",
+    "Pkgname": "simple-image-filter",
+    "Author": "depend",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/simple-image-filter/",
+    "Update": "2021-05-28 13:43:15",
+    "Size": "265.15 KB",
+    "More": "能够做一些简单的图像处理，滤镜，裁剪等功能",
+    "Tags": "uos;deepin;community;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/905dc550-bf77-11eb-9e52-039865028d17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/907719b0-bf77-11eb-9e52-039865028d17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/909c2de0-bf77-11eb-9e52-039865028d17.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/28/1946dce0-bf77-11eb-9e52-039865028d17.png"
+  },
+  {
     "Name": "Photopea（web）",
     "Version": "1.0",
     "Filename": "spark.photopea.web_1.0_amd64.deb",
