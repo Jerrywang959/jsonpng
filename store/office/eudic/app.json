@@ -1,0 +1,15 @@
+{
+    "Name": "欧路词典",
+    "Version": "12.5.3",
+    "Filename": "eudic_12.5.3_amd64.deb",
+    "Pkgname": "eudic",
+    "Author": "EUSOFFT",
+    "Contributor": "FunnyAWM",
+    "Website": "eudic.net",
+    "Update": "2021-05-30 15:14:22",
+    "Size": "186.03 MB",
+    "More": "一个好用的Linux词典软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/92fdcd00-c116-11eb-89ca-cda9a7def069.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/93226c00-c116-11eb-89ca-cda9a7def069.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/30/9740cde0-c116-11eb-89ca-cda9a7def069.png"
+}

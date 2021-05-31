@@ -69,6 +69,21 @@
     "More": "谷歌地球 [1]  （Google Earth，GE）是一款谷歌公司开发的虚拟地球软件，它把卫星照片、航空照相和GIS布置在一个地球的三维模型上。谷歌地球于2005年向全球推出，被《PC 世界杂志》评为2005年全球100种最佳新产品之一。用户们可以通过一个下载到自己电脑上的客户端软件，免费浏览全球各地的高清晰度卫星图片。Google地球分为免费版、专业版。"
   },
   {
+    "Name": "欧路词典",
+    "Version": "12.5.3",
+    "Filename": "eudic_12.5.3_amd64.deb",
+    "Pkgname": "eudic",
+    "Author": "EUSOFFT",
+    "Contributor": "FunnyAWM",
+    "Website": "eudic.net",
+    "Update": "2021-05-30 15:14:22",
+    "Size": "186.03 MB",
+    "More": "一个好用的Linux词典软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/92fdcd00-c116-11eb-89ca-cda9a7def069.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/93226c00-c116-11eb-89ca-cda9a7def069.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/30/9740cde0-c116-11eb-89ca-cda9a7def069.png"
+  },
+  {
     "Name": "JabRef",
     "Version": "5.1.60000-1",
     "Filename": "jabref_5.1-1_amd64.deb",
