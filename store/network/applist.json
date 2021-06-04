@@ -322,18 +322,18 @@
   },
   {
     "Name": "LIII BitTorrent Client（wine）",
-    "Version": "0.1.1.6spark0",
-    "Filename": "com.github.liii.spark_0.1.1.6spark0_i386.deb",
+    "Version": "0.1.1.10spark1",
+    "Filename": "com.github.liii.spark_0.1.1.10spark1_i386.deb",
     "Pkgname": "com.github.liii.spark",
     "Author": "aliakseis",
     "Contributor": "sgb76",
     "Website": "https://codecpack.co/download/LIII-BitTorrent-Client.html",
-    "Update": "2021-04-18 11:52:37",
-    "Size": "18.93 MB",
+    "Update": "2021-05-25 13:31:03",
+    "Size": "19.18 MB",
     "More": "LIII BitTorrent Client 是一款开源的bittorrent下载工具，软件资源占用非常小，而且下载速度很快，界面简洁、功能专一",
     "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/18/50717ce0-9ff9-11eb-84fb-c34f26d672e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/18/574bca70-9ff9-11eb-84fb-c34f26d672e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/18/5ae0ff20-9ff9-11eb-84fb-c34f26d672e7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/18/410ff510-9ff9-11eb-84fb-c34f26d672e7.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/25/fc4c1a10-bd19-11eb-b6b0-530f826191a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/25/0028b800-bd1a-11eb-b6b0-530f826191a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/25/0cec1550-bd1a-11eb-b6b0-530f826191a8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/25/f68119a0-bd19-11eb-b6b0-530f826191a8.png"
   },
   {
     "Name": "Mailspring",

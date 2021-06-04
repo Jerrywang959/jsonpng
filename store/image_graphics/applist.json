@@ -291,6 +291,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/09/c02e4f10-39e0-11eb-9ae5-f7d98206edde.png"
   },
   {
+    "Name": "Inpaint（wine）",
+    "Version": "9.1spark0",
+    "Filename": "com.inpaint.spark_9.1spark0_amd64.deb",
+    "Pkgname": "com.inpaint.spark",
+    "Author": "Maxim Gapchenko",
+    "Contributor": "sgb76",
+    "Website": "https://theinpaint.com/",
+    "Update": "2021-05-26 11:25:06",
+    "Size": "92.69 MB",
+    "More": "一款专门用于图片去水印的软件，界面简洁明晰、操作方便快捷",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/4090d460-bdd1-11eb-b9d7-9bd8e457060d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/4406c140-bdd1-11eb-b9d7-9bd8e457060d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/3c406600-bdd1-11eb-b9d7-9bd8e457060d.png"
+  },
+  {
     "Name": "美图秀秀",
     "Version": "1.0.0.0",
     "Filename": "mtxx_1.0.0.0_amd64.deb",
