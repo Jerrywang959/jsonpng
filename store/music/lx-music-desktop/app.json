@@ -1,15 +1,15 @@
 {
     "Name": "洛雪音乐助手",
-    "Version": "1.9.0",
-    "Filename": "lx-music-desktop_1.9.0_amd64.deb",
+    "Version": "1.10.2",
+    "Filename": "lx-music-desktop_1.10.2_amd64.deb",
     "Pkgname": "lx-music-desktop",
     "Author": "lyswhut",
     "Contributor": "Anysets",
     "Website": "https://github.com/lyswhut/lx-music-desktop",
-    "Update": "2021-05-04 10:08:16",
-    "Size": "51.8 MB",
+    "Update": "2021-06-05 22:01:23",
+    "Size": "56.49 MB",
     "More": "一个基于 electron 的音乐软件\n全网搜音乐",
-    "Tags": "community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/04/843557f0-ac7d-11eb-b3b7-7950d8b5d9bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/04/868ba400-ac7d-11eb-b3b7-7950d8b5d9bf.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/04/7ad793d0-ac7d-11eb-b3b7-7950d8b5d9bf.png"
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/05/7d987920-c606-11eb-b702-4d1906dc8a9e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/05/7fd98f80-c606-11eb-b702-4d1906dc8a9e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/05/72119370-c606-11eb-b702-4d1906dc8a9e.png"
 }

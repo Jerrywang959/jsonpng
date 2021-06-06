@@ -624,19 +624,19 @@
     "More": "全球范围内最受欢迎的浏览器之一，得益于内置的 Google 智能工具，Chrome 现在更易用、更安全、更快速。"
   },
   {
-    "Name": "microsoft-edge-beta",
-    "Version": "91.0.864.11-1",
-    "Filename": "microsoft-edge-beta_91.0.864.11-1_amd64.deb",
+    "Name": "微軟前沿貝塔版",
+    "Version": "91.0.864.37-1",
+    "Filename": "microsoft-edge-beta_91.0.864.37-1_amd64.deb",
     "Pkgname": "microsoft-edge-beta",
-    "Author": "Microsoft",
-    "Contributor": "Microsoft",
-    "Website": "https://packages.microsoft.com/repos/edge/pool/main/m/",
-    "Update": "2021-05-02 21:52:07",
-    "Size": "93.95 MB",
-    "More": "是看了https://bbs.deepin.org/zh/post/219800\n之后，发现了Microsoft Edge beta的链接\n链接为：https://packages.microsoft.com/repos/edge/pool/main/m/",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/02/c1a43340-ab4c-11eb-88bd-d7f338cb95d5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/02/8f5ab4d0-ab4d-11eb-88bd-d7f338cb95d5.png"
+    "Author": "微軟",
+    "Contributor": "Windsejuk",
+    "Website": "https://www.microsoftedgeinsider.com/zh-tw/",
+    "Update": "2021-06-03 19:06:43",
+    "Size": "95.05 MB",
+    "More": "前沿網頁瀏覽器，基於Chromium開源核心，由微軟研磨改造。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/37ee1530-c45b-11eb-ae23-5fce96f1e4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/3b6b2e00-c45b-11eb-ae23-5fce96f1e4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/4eda27c0-c45b-11eb-ae23-5fce96f1e4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/88462ae0-c45b-11eb-ae23-5fce96f1e4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/b4895820-c45b-11eb-ae23-5fce96f1e4a2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/03/2d1b59c0-c45a-11eb-ae23-5fce96f1e4a2.png"
   },
   {
     "Name": "水狐",
@@ -754,6 +754,21 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095937c0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095c1df0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0960b1d0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0966cc50-402d-11eb-9901-b19676ce26f7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/066e4cd0-402d-11eb-9901-b19676ce26f7.png"
+  },
+  {
+    "Name": "猎鹰下载（wine）",
+    "Version": "2.1.6.70spark0",
+    "Filename": "com.eagleget.spark_2.1.6.70spark0_i386.deb",
+    "Pkgname": "com.eagleget.spark",
+    "Author": "eagleget",
+    "Contributor": "sgb76",
+    "Website": "www.eagleget.com",
+    "Update": "2021-05-26 15:37:56",
+    "Size": "62.47 MB",
+    "More": "一款界面美观、功能齐全、下载速度不错的下载器",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/ff8c5970-bdf4-11eb-bf52-21cd2e73e05d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/02b6be60-bdf5-11eb-bf52-21cd2e73e05d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/fc049240-bdf4-11eb-bf52-21cd2e73e05d.png"
   },
   {
     "Name": "摸鱼股票球",

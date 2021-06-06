@@ -1,15 +1,15 @@
 {
     "Name": "Neat Reader（wine）",
-    "Version": "5.0.4",
-    "Filename": "com.neatreader.spark_5.0.4_i386.deb",
+    "Version": "6.0.8spark0",
+    "Filename": "com.neatreader.spark_6.0.8spark0_amd64.deb",
     "Pkgname": "com.neatreader.spark",
     "Author": "北京高知图新教育科技有限公司",
     "Contributor": "sgb76",
     "Website": "https://www.neat-reader.cn/",
-    "Update": "2020-09-11 16:57:23",
-    "Size": "57.74 MB",
-    "More": "新世代 ePub 阅读器  支持各主流平台 开启阅读全新体验",
-    "tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/11/531a9f60-f40c-11ea-a420-810a61be25e7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/11/575fea30-f40c-11ea-a420-810a61be25e7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/11/420266e0-f40c-11ea-a420-810a61be25e7.png"
+    "Update": "2021-05-31 11:31:37",
+    "Size": "134.5 MB",
+    "More": "新世代 ePub 阅读器  支持各主流平台 开启阅读全新体验\n\n基于deepin-wine6重新打包，改变了容器名称。以前安装过旧版本的请先卸载并删除原来的容器再重新下载安装",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/31/51890d30-c1c0-11eb-85c3-7900041cea0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/31/54c2b460-c1c0-11eb-85c3-7900041cea0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/31/59edcb50-c1c0-11eb-85c3-7900041cea0f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/31/4a345f80-c1c0-11eb-85c3-7900041cea0f.png"
 }
