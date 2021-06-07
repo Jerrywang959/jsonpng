@@ -15,19 +15,19 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/10/0cdf9450-f34a-11ea-832a-f17f36aaea26.png"
   },
   {
-    "Name": "WiznoteLite",
-    "Version": "2.0.0",
-    "Filename": "wiznotelite.spark_2.0.0_amd64.deb",
+    "Name": "WizNote Lite",
+    "Version": "2.1.1",
+    "Filename": "wiznotelite.spark_2.1.1_all.deb",
     "Pkgname": "wiznotelite.spark",
     "Author": "WizTeam",
-    "Contributor": "jerrywang",
+    "Contributor": "jerrywang; OkayPJ",
     "Website": "https://www.wiz.cn/zh-cn/wiznote-lite",
-    "Update": "2020-11-04 11:09:27",
-    "Size": "111.65 MB",
-    "More": "为知笔记官方Linux客户端",
-    "Tags": "community;ubuntu;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/04/f7b37f50-1e8d-11eb-942c-7180648fb8b8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/04/d33f86f0-1e8d-11eb-942c-7180648fb8b8.png"
+    "Update": "2021-06-07 17:07:48",
+    "Size": "111.53 MB",
+    "More": "实时预览 Markdown 编辑器\n\n聚焦于输入，让写作与思考不受干扰",
+    "Tags": "community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/876dcf30-c76f-11eb-a635-71e04c3946d8.svg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/895c7fd0-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8b5e1c30-c76f-11eb-a635-71e04c3946d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/8e383e40-c76f-11eb-a635-71e04c3946d8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/81a58de0-c76f-11eb-a635-71e04c3946d8.png"
   },
   {
     "Name": "百度脑图",
@@ -418,15 +418,18 @@
   },
   {
     "Name": "Simplenote",
-    "Version": "1.19.0-14076",
-    "Filename": "Simplenote-linux-1.19.0-amd64.deb",
+    "Version": "2.12.0-24095",
+    "Filename": "simplenote_2.12.0-24095_amd64.deb",
     "Pkgname": "simplenote",
-    "Author": "Automattic ",
-    "Contributor": "Vlary",
+    "Author": "Automattic",
+    "Contributor": "Vlary; OkayPJ",
     "Website": "https://simplenote.com/",
-    "Update": "2020-07-07 10:05",
-    "Size": "59.61MB",
-    "More": "The simplest way to keep notes"
+    "Update": "2021-06-07 12:07:49",
+    "Size": "97.64 MB",
+    "More": "The simplest way to keep notes\n\nAll your notes, synced on all your devices. Get Simplenote now for iOS, Android, Mac, Windows, Linux, or in your browser.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/733a8d20-c745-11eb-a819-235b7a0b48f4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/406a9610-c745-11eb-a819-235b7a0b48f4.png"
   },
   {
     "Name": "Zim 桌面维基",

@@ -1,15 +1,15 @@
 {
-    "Name": "uengine 运行器 1.1.0",
-    "Version": "1.0.0",
-    "Filename": "spark-uengine-runner_1.0.0_all.deb",
+    "Name": "uengine 运行器",
+    "Version": "1.2.0",
+    "Filename": "spark-uengine-runner_1.2.0_all.deb",
     "Pkgname": "spark-uengine-runner",
     "Author": "gfdgd xi",
     "Contributor": "gfdgd xi",
     "Website": "https://gitee.com/gfdgd-xi/uengine-runner",
-    "Update": "2021-05-30 13:48:10",
-    "Size": "15.77 KB",
-    "More": "UOS 家庭版有一个功能就是可以运行 APK 的组件——uengine（好像是基于 anbox），但只能安装应用商店里的应用，虽然论坛有方法可以安装其他 APK，但不够简单，于是制作了这个程序\n\n相比于上一个版本（1.0.0），更新了以下内容：\n\n1、修改了因编写时出现的中、英文混用的情况\n2、支持一键连接默认 IP\n3、修复在不连接设备直接选择 apk 安装时会卡住的问题\n4、修复在把“uengine 程序菜单”发送到桌面或启动器如果询问覆盖时点击取消会卡住的问题\n5、修改了程序界面为白色调，不和标题栏冲突矛盾",
+    "Update": "2021-06-06 15:34:59",
+    "Size": "17.15 KB",
+    "More": "UOS 家庭版有一个功能就是可以运行 APK 的组件——uengine（好像是基于 anbox），但只能安装应用商店里的应用，虽然论坛有方法可以安装其他 APK，但不够简单，于是制作了这个程序\n\n相比于上一个版本（1.2.0），更新了以下内容：\n\n更新内容：\n1、支持安装自动添加快捷方式、卸载删除快捷方式；\n2、支持使用包名或 APK 文件卸载程序；\n3、支持查看安装的所有包名；\n4、支持终端连接默认 IP 和安装 APK 文件；\n5、进行了部分优化",
     "Tags": "uos;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/96f8e5e0-c10a-11eb-ba37-ad8ef6c1744b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/971b3af0-c10a-11eb-ba37-ad8ef6c1744b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/973b6d20-c10a-11eb-ba37-ad8ef6c1744b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/975b7840-c10a-11eb-ba37-ad8ef6c1744b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/30/977b8360-c10a-11eb-ba37-ad8ef6c1744b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/30/8d148ca0-c10a-11eb-ba37-ad8ef6c1744b.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/06/a88dbfd0-c699-11eb-8cde-2dcdbfd32f46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/06/a8b25ed0-c699-11eb-8cde-2dcdbfd32f46.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/06/97f0aac0-c699-11eb-8cde-2dcdbfd32f46.png"
 }
