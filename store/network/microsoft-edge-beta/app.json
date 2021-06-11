@@ -1,15 +1,15 @@
 {
-    "Name": "微軟前沿貝塔版",
-    "Version": "91.0.864.37-1",
-    "Filename": "microsoft-edge-beta_91.0.864.37-1_amd64.deb",
+    "Name": "微軟前沿（貝塔版）",
+    "Version": "92.0.902.9-1",
+    "Filename": "microsoft-edge-beta_92.0.902.9-1_amd64.deb",
     "Pkgname": "microsoft-edge-beta",
     "Author": "微軟",
-    "Contributor": "Windsejuk",
+    "Contributor": "windsejuk",
     "Website": "https://www.microsoftedgeinsider.com/zh-tw/",
-    "Update": "2021-06-03 19:06:43",
-    "Size": "95.05 MB",
+    "Update": "2021-06-09 12:26:32",
+    "Size": "96.41 MB",
     "More": "前沿網頁瀏覽器，基於Chromium開源核心，由微軟研磨改造。",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/37ee1530-c45b-11eb-ae23-5fce96f1e4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/3b6b2e00-c45b-11eb-ae23-5fce96f1e4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/4eda27c0-c45b-11eb-ae23-5fce96f1e4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/88462ae0-c45b-11eb-ae23-5fce96f1e4a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/03/b4895820-c45b-11eb-ae23-5fce96f1e4a2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/03/2d1b59c0-c45a-11eb-ae23-5fce96f1e4a2.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/09/aec4c950-c8da-11eb-bf52-5f8ffff76dda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/09/b2c8ec70-c8da-11eb-bf52-5f8ffff76dda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/09/b639d040-c8da-11eb-bf52-5f8ffff76dda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/09/b97e73f0-c8da-11eb-bf52-5f8ffff76dda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/09/c6502920-c8da-11eb-bf52-5f8ffff76dda.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/09/512025f0-c8d6-11eb-bf52-5f8ffff76dda.png"
 }
