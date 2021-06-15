@@ -1,15 +1,15 @@
 {
     "Name": "DBeaver Community",
-    "Version": "21.0.4",
-    "Filename": "org.dbeaver.sugarcane.deepin_21.0.4_amd64.deb",
+    "Version": "21.1.0",
+    "Filename": "org.dbeaver.sugarcane.deepin_21.1.0_amd64.deb",
     "Pkgname": "org.dbeaver.sugarcane.deepin",
     "Author": "Serge Rider",
     "Contributor": "zkqgxlbjx",
     "Website": "https://dbeaver.io/",
-    "Update": "2021-05-19 14:15:31",
-    "Size": "91.06 MB",
+    "Update": "2021-06-12 14:59:22",
+    "Size": "91.5 MB",
     "More": "免费的多平台数据库工具，面向开发人员、数据库管理员、分析师和所有需要使用数据库的人。支持所有流行的数据库：MySQL、PostgreSQL、SQLite、Oracle、DB2、SQL Server、Sybase、MS Access、Teradata、Firebird、Apache Hive、Phoenix、Presto等。",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/19/21de3660-b869-11eb-a405-b9d1f5bde7b6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/19/200c3580-b869-11eb-a405-b9d1f5bde7b6.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/12/6f480a30-cb4b-11eb-ad96-3d9d45dc80f6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/12/71102000-cb4b-11eb-ad96-3d9d45dc80f6.png"
 }

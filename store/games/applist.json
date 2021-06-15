@@ -348,6 +348,21 @@
     "More": "这是由暴雪公司开发的曾经风靡全球的竞技游戏，是如今很多moba类游戏的鼻祖。\n游戏通过wine技术运行在linux环境下，并加入了全屏补丁和启动器。"
   },
   {
+    "Name": "植物大战僵尸β版（Wine）",
+    "Version": "6.20.3",
+    "Filename": "cn.sugarcane.pvzbeta_6.20.3_amd64.deb",
+    "Pkgname": "cn.sugarcane.pvzbeta",
+    "Author": "Dr丶小黑、康师傅豆腐",
+    "Contributor": "zkqgxlbjx",
+    "Website": "https://pvz-beta.site/",
+    "Update": "2021-06-13 21:17:51",
+    "Size": "98.59 MB",
+    "More": "植物大战僵尸β版是由玩家基于美国宝开游戏公司(PopCap Games)开发的一款益智策略类单机游戏（植物大战僵尸）制作的修改版。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/13/b6616580-cc48-11eb-8260-2bd0ec128936.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/13/b68c6d20-cc48-11eb-8260-2bd0ec128936.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/13/b3898d60-cc48-11eb-8260-2bd0ec128936.png"
+  },
+  {
     "Name": "火炬之光",
     "Version": "1.5",
     "Filename": "torchlight_1.5_amd64.deb",
