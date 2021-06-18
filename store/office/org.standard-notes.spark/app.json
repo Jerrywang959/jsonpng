@@ -1,15 +1,15 @@
 {
     "Name": "Standard Notes",
-    "Version": "3.5.18spark0",
-    "Filename": "org.standard-notes.spark_3.5.18spark0_amd64.deb",
+    "Version": "3.8.0spark1",
+    "Filename": "org.standard-notes.spark_3.8.0spark1_amd64.deb",
     "Pkgname": "org.standard-notes.spark",
     "Author": "standard-notes",
     "Contributor": "sgb76",
     "Website": "https://standardnotes.org/",
-    "Update": "2021-02-18 18:53:09",
-    "Size": "54.18 MB",
+    "Update": "2021-06-11 13:15:29",
+    "Size": "54.48 MB",
     "More": "Standard Notes 是一款界面非常清爽的跨平台开源云笔记应用，支持点对点加密、安全传输，简单易用、支持多模板、不同编辑模式（Markdown、富文本、代码编辑、Github、VIM…）等功能，拥有 macOS、Windows、Linux 平台客户端，以及 iOS、Android 手机应用和 Web 网页端服务。",
-    "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/49dd2870-71d7-11eb-91c8-45b67fe5553e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/4dc07d20-71d7-11eb-91c8-45b67fe5553e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/4301a260-71d7-11eb-91c8-45b67fe5553e.png"
+    "Tags": "deepin;ubuntu;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/11/d7e57100-ca73-11eb-9cce-cb45e5b1186c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/11/ddd8e100-ca73-11eb-9cce-cb45e5b1186c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/11/c8d56490-ca73-11eb-9cce-cb45e5b1186c.png"
 }

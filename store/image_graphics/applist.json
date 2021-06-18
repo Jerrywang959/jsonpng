@@ -262,18 +262,18 @@
   },
   {
     "Name": "Ultimaker Cura",
-    "Version": "4.8.0spark0",
-    "Filename": "com.ultimaker-cura.spark_4.8.0spark0_amd64.deb",
+    "Version": "4.9.1spark1",
+    "Filename": "com.ultimaker-cura.spark_4.9.1spark1_amd64.deb",
     "Pkgname": "com.ultimaker-cura.spark",
-    "Author": "Ultimaker BV",
+    "Author": "Ultimaker BV ",
     "Contributor": "sgb76",
     "Website": "https://ultimaker.com/software/ultimaker-cura",
-    "Update": "2021-02-25 19:39:25",
-    "Size": "98.54 MB",
+    "Update": "2021-06-16 11:50:52",
+    "Size": "620.01 MB",
     "More": "一款流行的3D打印软件",
-    "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/25/3747ac40-775d-11eb-911e-73e9aac6d3c4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/25/3e76a980-775d-11eb-911e-73e9aac6d3c4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/25/310d2120-775d-11eb-911e-73e9aac6d3c4.png"
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/25207c00-ce55-11eb-9e4c-7dee8a2d16b4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/352a2ab0-ce55-11eb-9e4c-7dee8a2d16b4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/21188850-ce55-11eb-9e4c-7dee8a2d16b4.png"
   },
   {
     "Name": "Luminance HDR",
