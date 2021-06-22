@@ -165,21 +165,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
   },
   {
-    "Name": "深度云打印配置助手",
-    "Version": "1.2.5.2+spark1",
-    "Filename": "printer-driver-deepin-cloud-print_1.2.5.2_plus_spark1_amd64.deb",
-    "Pkgname": "printer-driver-deepin-cloud-print",
-    "Author": "Deepin",
-    "Contributor": "shenmo",
-    "Website": "https://www.deepin.org/original/deepin-cloud-print/",
-    "Update": "2020-11-03 05:09:58",
-    "Size": "297.57 KB",
-    "More": "深度云打印是由深度科技团队开发的一种新型打印解决方案，它可以将您的打印机连接到网络，借助深度云打印，您可以通过日常使用的应用程序进行网络打印。同时深度云打印适用于台式机、笔记本电脑、部分平板电脑以及其他所有您已授权打印的联网设备。\\n请使用dpkg方式安装\\n请使用dpkg方式安装\\n请使用dpkg方式安装",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/cc8a79b0-1d92-11eb-9764-4d1acd76fd3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/03/cd0e76c0-1d92-11eb-9764-4d1acd76fd3d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/03/cae02510-1d92-11eb-9764-4d1acd76fd3d.png"
-  },
-  {
     "Name": "uengine 运行器",
     "Version": "1.2.0",
     "Filename": "spark-uengine-runner_1.2.0_all.deb",
@@ -257,21 +242,6 @@
     "Tags": "deepin;ubuntu;dwine2",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/e7528480-9610-11eb-a883-b50638ee544b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/b8cf2b40-9610-11eb-a883-b50638ee544b.png"
-  },
-  {
-    "Name": "深度云扫描",
-    "Version": "1.2+spark0",
-    "Filename": "deepin-cloud-scanner_1.2spark0_amd64.deb",
-    "Pkgname": "deepin-cloud-scanner",
-    "Author": "The Deepin Team",
-    "Contributor": "shenmo",
-    "Website": "https://www.deepin.org/original/deepin-cloud-scan/",
-    "Update": "2020-11-23 09:35:22",
-    "Size": "370.01 KB",
-    "More": "深度云打印 请使用dpkg安装 请使用dpkg安装 请使用dpkg安装",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/300a6720-2d6f-11eb-aeb5-63f1705cc5a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/3010a8b0-2d6f-11eb-aeb5-63f1705cc5a0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/1cea0290-2d6f-11eb-aeb5-63f1705cc5a0.png"
   },
   {
     "Name": "共享文件夹",
