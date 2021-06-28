@@ -180,18 +180,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/06/97f0aac0-c699-11eb-8cde-2dcdbfd32f46.png"
   },
   {
-    "Name": "星火商店Appimage转制器",
-    "Version": "0.7+spark",
-    "Filename": "a2d_0.7_plus_spark2_amd64.deb",
-    "Pkgname": "a2d",
-    "Author": "maicss",
-    "Contributor": "shenmo",
-    "Website": " ",
-    "Update": "2020-07-14 12:48",
-    "Size": "289.24KB",
-    "More": "社区商店Appimage转制器，配合投递器，快速投稿商店必备哦～"
-  },
-  {
     "Name": "深度右键刷新插件",
     "Version": "1.0.0",
     "Filename": "sm-refresh_1.0.0_amd64.deb",
