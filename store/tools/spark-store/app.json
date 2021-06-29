@@ -1,15 +1,15 @@
 {
     "Name": "星火应用商店",
-    "Version": "3.0.2",
-    "Filename": "spark-store_3.0.2_amd64.deb",
+    "Version": "3.0.3",
+    "Filename": "spark-store_3.0.3_amd64.deb",
     "Pkgname": "spark-store",
     "Author": "Maicss/AdamSmith/moshengren/RigoLigo/Jerry/shenmo/zty199/lidanger/lvtommy/123456/metanoia1989/alvarosamudio",
     "Contributor": "shenmo/zty199/AdamSmith/Jerry/RigoLigo",
     "Website": "https://www.spark-app.store/",
-    "Update": "2021-06-13 15:04:30",
+    "Update": "2021-06-29 23:12:43",
     "Size": "2.48 MB",
-    "More": "星火商店 v3.0.2\n【更新说明】\n1.支持多线程下载，降低服务器带宽压力，提升下载速度（感谢 AdamSmith）；\n2.修改返回图标按钮以及返回按钮逻辑；\n3.修改默认源服务器列表；\n4.修复启动时首页颜色主题不跟随系统主题颜色的问题；\n5.修正设置界面源服务器选择下拉框中“开发者模式”提示文字可被选中的问题；\n6.使用 UOS 个人版 + Qt 5.11.3 编译，修复兼容性。",
+    "More": "星火商店 v3.0.3\n【更新说明】\n1.支持应用详情页提示应用是否需要升级；\n2.修复应用详情页经常加载失败的问题。",
     "Tags": "community;ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/13/8076f030-cc15-11eb-9c80-377b56f9a34f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/13/81d1c540-cc15-11eb-9c80-377b56f9a34f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/13/83e710b0-cc15-11eb-9c80-377b56f9a34f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/13/8536c230-cc15-11eb-9c80-377b56f9a34f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/13/79a3ce90-cc15-11eb-9c80-377b56f9a34f.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/2fb95a50-d8ec-11eb-bc68-75b8dc7384e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/313f5e10-d8ec-11eb-bc68-75b8dc7384e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/32b905c0-d8ec-11eb-bc68-75b8dc7384e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/55dadba0-d8ec-11eb-bc68-75b8dc7384e6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/29/27e59190-d8ec-11eb-bc68-75b8dc7384e6.png"
 }

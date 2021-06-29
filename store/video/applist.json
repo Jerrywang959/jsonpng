@@ -96,6 +96,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/05/71baf3a0-36da-11eb-8ba0-11cb974e4981.png"
   },
   {
+    "Name": "央视影音（wine）",
+    "Version": "4.6.8.2spark2",
+    "Filename": "com.cctv.ysyy.spark_4.6.8.2spark2_i386.deb",
+    "Pkgname": "com.cctv.ysyy.spark",
+    "Author": "中央广播电视总台",
+    "Contributor": "sgb76",
+    "Website": "https://app.cctv.com/appkhdxz/more/index.shtml#page5",
+    "Update": "2021-06-21 16:02:45",
+    "Size": "193.19 MB",
+    "More": "基于deepin-wine6重新打包，修复了应用启动界面轮播图色彩显示不正常的问题和窗口最大化后无法调整的问题。\n\n由于修改了包名、调整了容器位置并设置了与原ysyy.spark包冲突，如安装了原4.6.7.2版，建议自行删除原安装容器",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/21/65c1d0f0-d266-11eb-9001-b39825906417.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/21/7134b970-d266-11eb-9001-b39825906417.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/21/77f823a0-d266-11eb-9001-b39825906417.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/21/54352bc0-d266-11eb-9001-b39825906417.png"
+  },
+  {
     "Name": "Shotcut",
     "Version": "21.03.21spark2",
     "Filename": "org.shotcut.spark_21.03.21spark2_amd64.deb",
@@ -193,6 +208,21 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/09/cdcd2e90-80c9-11eb-9313-699bcbe867b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/09/d93df430-80c9-11eb-9313-699bcbe867b1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/09/c63891b0-80c9-11eb-9313-699bcbe867b1.png"
+  },
+  {
+    "Name": "PotPlayer（wine）",
+    "Version": "1.7.17105spark0",
+    "Filename": "org.potplayer.spark_1.7.17105spark0_i386.deb",
+    "Pkgname": "org.potplayer.spark",
+    "Author": "KaKao Corp.",
+    "Contributor": "sgb76",
+    "Website": "https://potplayer.org/",
+    "Update": "2021-06-24 10:32:20",
+    "Size": "99.62 MB",
+    "More": "一款非常专业的视频播放器",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/24/1a73ff30-d494-11eb-805e-4728718b5394.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/24/21856250-d494-11eb-805e-4728718b5394.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/24/26ef2ff0-d494-11eb-805e-4728718b5394.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/24/077a8390-d494-11eb-805e-4728718b5394.png"
   },
   {
     "Name": "ArctimePro",

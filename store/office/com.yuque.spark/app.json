@@ -1,0 +1,15 @@
+{
+    "Name": "语雀（wine）",
+    "Version": "0.8.17spark0",
+    "Filename": "com.yuque.spark_0.8.17spark0_amd64.deb",
+    "Pkgname": "com.yuque.spark",
+    "Author": "阿里巴巴集团",
+    "Contributor": "sgb76",
+    "Website": "https://www.yuque.com/",
+    "Update": "2021-06-28 17:17:00",
+    "Size": "259.03 MB",
+    "More": "新一代云端知识库，用于个人笔记与知识创作，团队协同与知识沉淀\n\n基于原生wine6.4打包，在Ubuntu20.04下运行基本完美；在deepin V20下由于dde-dock不兼容原生wine应用的托盘，因而无法通过右击托盘图标退出应用（其实关闭主窗口后，虽然托盘图标未退出，但再次启动应用也无影响，如果介意后台运行的话，可通过任务栏程序图标右键选择强制退出）；安装后首次运行程序，在配置wine时如提示是否安装Mono，点“否”即可继续。",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/28/41211770-d7f1-11eb-93c7-53cec1c98d94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/28/46993cf0-d7f1-11eb-93c7-53cec1c98d94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/28/49401a00-d7f1-11eb-93c7-53cec1c98d94.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/28/3432b280-d7f1-11eb-93c7-53cec1c98d94.png"
+}

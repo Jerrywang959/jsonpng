@@ -1,0 +1,15 @@
+{
+    "Name": "PotPlayer（wine）",
+    "Version": "1.7.17105spark0",
+    "Filename": "org.potplayer.spark_1.7.17105spark0_i386.deb",
+    "Pkgname": "org.potplayer.spark",
+    "Author": "KaKao Corp.",
+    "Contributor": "sgb76",
+    "Website": "https://potplayer.org/",
+    "Update": "2021-06-24 10:32:20",
+    "Size": "99.62 MB",
+    "More": "一款非常专业的视频播放器",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/24/1a73ff30-d494-11eb-805e-4728718b5394.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/24/21856250-d494-11eb-805e-4728718b5394.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/24/26ef2ff0-d494-11eb-805e-4728718b5394.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/24/077a8390-d494-11eb-805e-4728718b5394.png"
+}
