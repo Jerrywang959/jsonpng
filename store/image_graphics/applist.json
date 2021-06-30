@@ -361,18 +361,18 @@
   },
   {
     "Name": "简单图像处理工具",
-    "Version": "1.0.1",
-    "Filename": "simple-image-filter_1.0.1_amd64.deb",
+    "Version": "1.0.5",
+    "Filename": "simple-image-filter_1.0.5_amd64.deb",
     "Pkgname": "simple-image-filter",
     "Author": "depend",
     "Contributor": "depend",
-    "Website": "https://github.com/dependon/simple-image-filter/",
-    "Update": "2021-05-28 13:43:15",
-    "Size": "265.15 KB",
-    "More": "能够做一些简单的图像处理，滤镜，裁剪等功能",
-    "Tags": "uos;deepin;community;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/905dc550-bf77-11eb-9e52-039865028d17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/907719b0-bf77-11eb-9e52-039865028d17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/909c2de0-bf77-11eb-9e52-039865028d17.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/28/1946dce0-bf77-11eb-9e52-039865028d17.png"
+    "Website": "https://github.com/dependon/simple-image-filter",
+    "Update": "2021-06-29 19:29:40",
+    "Size": "276.25 KB",
+    "More": "能够进行简单的对图片裁剪,旋转,调整透明度,尺寸,美颜滤镜和其他部分简单滤镜的处理",
+    "Tags": "deepin;uos;dtk5;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/3e1486c0-d8cd-11eb-b61c-076b0bfb5963.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/3df4c9c0-d8cd-11eb-b61c-076b0bfb5963.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/3e2d8d00-d8cd-11eb-b61c-076b0bfb5963.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/29/f95e7fe0-d8cc-11eb-b61c-076b0bfb5963.png"
   },
   {
     "Name": "Photopea（web）",
@@ -640,6 +640,21 @@
     "Update": "2020-09-03 13:46",
     "Size": "16.85MB",
     "More": "一款简单好用的CAD绘图工具，具有许多特色功能。"
+  },
+  {
+    "Name": "光影魔术手（wine）",
+    "Version": "4.4.1spark0",
+    "Filename": "cn.neoimaging.spark_4.4.1spark0_amd64.deb",
+    "Pkgname": "cn.neoimaging.spark",
+    "Author": "深圳市迅雷网文化有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.neoimaging.cn/",
+    "Update": "2021-06-08 21:23:52",
+    "Size": "113.87 MB",
+    "More": "一款简单、易用、功能丰富的经典图片处理工具",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/08/70c53190-c85c-11eb-8067-fbe0158e617d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/08/74cf4820-c85c-11eb-8067-fbe0158e617d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/08/77d00500-c85c-11eb-8067-fbe0158e617d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/08/64e75240-c85c-11eb-8067-fbe0158e617d.png"
   },
   {
     "Name": "RawTherapee",

@@ -1,0 +1,15 @@
+{
+    "Name": "MindMaster",
+    "Version": "8.5.2",
+    "Filename": "mindmaster_8.5.2_amd64.deb",
+    "Pkgname": "mindmaster",
+    "Author": "SHENZHEN EDRAW SOFTWARE CO.LTD",
+    "Contributor": "sgb76",
+    "Website": "https://www.edrawsoft.cn/mindmaster/",
+    "Update": "2021-06-16 13:33:33",
+    "Size": "114.07 MB",
+    "More": "一款基于云的跨端思维导图软件。MindMaster可以将纷繁复杂的想法、知识和信息，如学习笔记、会议纪要、项目需求等简化成一张张清晰的思维导图，以结构化有序化的方式呈现，提高归纳、学习和记忆的效率，方便展示和讲解。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/e3e51f20-ce63-11eb-babe-f372f888b6e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/e759ac70-ce63-11eb-babe-f372f888b6e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/ec0b9bc0-ce63-11eb-babe-f372f888b6e2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/da2b0a30-ce63-11eb-babe-f372f888b6e2.png"
+}

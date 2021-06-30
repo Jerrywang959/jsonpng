@@ -1,15 +1,15 @@
 {
     "Name": "Biscuit浏览器",
-    "Version": "1.2.15spark0",
-    "Filename": "com.biscuit.spark_1.2.15spark0_amd64.deb",
+    "Version": "1.2.20spark1",
+    "Filename": "com.biscuit.spark_1.2.20spark1_amd64.deb",
     "Pkgname": "com.biscuit.spark",
     "Author": "Biscuit Project.",
     "Contributor": "sgb76",
     "Website": "https://eatbiscuit.com/",
-    "Update": "2021-02-27 18:32:55",
-    "Size": "66.36 MB",
+    "Update": "2021-06-18 23:27:55",
+    "Size": "67.35 MB",
     "More": "Biscuit 是一款超方便的多开浏览器，通过在边栏分组标签页来实现不同场景，每个组都可单独登录账号，互不影响。\nBiscuit is a browser where you can organize your apps.",
-    "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/27/056fbec0-78e7-11eb-a2ce-3d203b5dbe17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/27/09dfc310-78e7-11eb-a2ce-3d203b5dbe17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/27/10c31150-78e7-11eb-a2ce-3d203b5dbe17.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/27/fd01b1d0-78e6-11eb-a2ce-3d203b5dbe17.png"
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/18/9ce9cc50-d049-11eb-9044-d9c72fd149b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/18/a0b21ef0-d049-11eb-9044-d9c72fd149b6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/18/979fe2c0-d049-11eb-9044-d9c72fd149b6.png"
 }

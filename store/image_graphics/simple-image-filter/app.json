@@ -1,15 +1,15 @@
 {
     "Name": "简单图像处理工具",
-    "Version": "1.0.1",
-    "Filename": "simple-image-filter_1.0.1_amd64.deb",
+    "Version": "1.0.5",
+    "Filename": "simple-image-filter_1.0.5_amd64.deb",
     "Pkgname": "simple-image-filter",
     "Author": "depend",
     "Contributor": "depend",
-    "Website": "https://github.com/dependon/simple-image-filter/",
-    "Update": "2021-05-28 13:43:15",
-    "Size": "265.15 KB",
-    "More": "能够做一些简单的图像处理，滤镜，裁剪等功能",
-    "Tags": "uos;deepin;community;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/905dc550-bf77-11eb-9e52-039865028d17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/907719b0-bf77-11eb-9e52-039865028d17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/28/909c2de0-bf77-11eb-9e52-039865028d17.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/28/1946dce0-bf77-11eb-9e52-039865028d17.png"
+    "Website": "https://github.com/dependon/simple-image-filter",
+    "Update": "2021-06-29 19:29:40",
+    "Size": "276.25 KB",
+    "More": "能够进行简单的对图片裁剪,旋转,调整透明度,尺寸,美颜滤镜和其他部分简单滤镜的处理",
+    "Tags": "deepin;uos;dtk5;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/3e1486c0-d8cd-11eb-b61c-076b0bfb5963.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/3df4c9c0-d8cd-11eb-b61c-076b0bfb5963.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/3e2d8d00-d8cd-11eb-b61c-076b0bfb5963.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/29/f95e7fe0-d8cc-11eb-b61c-076b0bfb5963.png"
 }
