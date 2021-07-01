@@ -153,21 +153,6 @@
     "More": "B站录播机，不再错过每一场直播。\n*建议和BUG反馈\nQQ交流群：7307708\n来自打包者吐槽：不知道 shenmo 从哪里翻出来的远古版本，更新了一下还要重新打包，也不晓得作者信息啥的对不对......看着像是 Electron 封装的网页？不过至少能用。"
   },
   {
-    "Name": "央视影音（wine）",
-    "Version": "4.6.7.0spark1",
-    "Filename": "ysyy.spark_4.6.7.0spark1_i386.deb",
-    "Pkgname": "ysyy.spark",
-    "Author": "中央广播电视总台",
-    "Contributor": "sgb76",
-    "Website": "https://app.cctv.com/appkhdxz/more/index.shtml#page5",
-    "Update": "2020-12-08 04:23:03",
-    "Size": "78.74 MB",
-    "More": "央视影音，回播随时看。升级后重新打包，修复了视频下载目录无法设置的问题，改为调用原生文件管理器。",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/a7a9b580-390c-11eb-b875-036cf987f6d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/08/afd450d0-390c-11eb-b875-036cf987f6d5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/08/98dc7e70-390c-11eb-b875-036cf987f6d5.png"
-  },
-  {
     "Name": "mpv 媒体播放器",
     "Version": "0.32.0-2",
     "Filename": "mpv_0.32.0-2_amd64.deb",
