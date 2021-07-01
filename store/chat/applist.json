@@ -147,19 +147,19 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/19/7f3f6130-2a5c-11eb-848c-e55ce84765f9.svg"
   },
   {
-    "Name": "雷鸟邮件（最新版）",
-    "Version": "78.4.3",
-    "Filename": "thunderbird.spark_78.4.3_amd64.deb",
+    "Name": "雷鸟邮件",
+    "Version": "78.11.0",
+    "Filename": "thunderbird.spark_78.11.0_amd64.deb",
     "Pkgname": "thunderbird.spark",
-    "Author": "thunderbird",
-    "Contributor": "jerrywang",
-    "Website": "https://www.thunderbird.net",
-    "Update": "2020-11-17 15:30:33",
-    "Size": "49.69 MB",
-    "More": "Thunderbird 是一款免费的电子邮件应用程序，配置简单，定制自由——还附有强大功能！",
+    "Author": "Mozilla",
+    "Contributor": "shenmo",
+    "Website": "https://www.thunderbird.net/",
+    "Update": "2021-07-01 19:33:28",
+    "Size": "49.83 MB",
+    "More": "Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/c76295f0-28e9-11eb-ab93-1ffbc58afee4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/cfed0480-28e9-11eb-ab93-1ffbc58afee4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/17/5183df60-28e9-11eb-ab93-1ffbc58afee4.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/01/261e7d20-da60-11eb-bc57-490da4413c26.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/01/261ad3a0-da60-11eb-bc57-490da4413c26.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/01/26104c50-da60-11eb-bc57-490da4413c26.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/01/83603240-da5f-11eb-bc57-490da4413c26.png"
   },
   {
     "Name": "zoom",
