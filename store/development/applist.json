@@ -508,5 +508,20 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/30/6f218970-62df-11eb-bcf8-1d3b0b329f62.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/30/f7b07310-62de-11eb-bcf8-1d3b0b329f62.png"
+  },
+  {
+    "Name": "Dev-C++（wine）",
+    "Version": "5.11spark0",
+    "Filename": "net.bloodshed.spark_5.11spark0_i386.deb",
+    "Pkgname": "net.bloodshed.spark",
+    "Author": "BloodShed, Orwell, BanzhuSoft",
+    "Contributor": "anima",
+    "Website": "https://sourceforge.net/projects/orwelldevcpp/",
+    "Update": "2021-06-30 19:04:05",
+    "Size": "89.55 MB",
+    "More": "Dev-C++（或者叫做 Dev-Cpp）是 Windows 环境下的一个轻量级 C/C++ 集成开发环境（IDE）。它是一款自由软件，遵守GPL许可协议分发源代码。它集合了功能强大的源码编辑器、MingW64/TDM-GCC 编译器、GDB 调试器和 AStyle 格式整理器等众多自由软件，适合于在教学中供 C/C++语言初学者使用，也适合于非商业级普通开发者使用。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/30/cde54760-d992-11eb-83c8-0f81c17d3120.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/30/cdefa7a0-d992-11eb-83c8-0f81c17d3120.png"
   }
 ]

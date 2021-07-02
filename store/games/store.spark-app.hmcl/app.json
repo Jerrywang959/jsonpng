@@ -1,15 +1,15 @@
 {
-    "Name": "HMCL 我的世界启动器",
-    "Version": "3.3.176+sm2",
-    "Filename": "store.spark-app.hmcl_3.3.176_plus_sm2_amd64.deb",
+    "Name": "HMCL我的世界启动器",
+    "Version": "3.3.188",
+    "Filename": "store.spark-app.hmcl_3.3.188_amd64.deb",
     "Pkgname": "store.spark-app.hmcl",
     "Author": "huanghongxun",
     "Contributor": "shenmo",
     "Website": "https://hmcl.huangyuhui.net/",
-    "Update": "2020-12-28 07:42:50",
-    "Size": "64.28 MB",
-    "More": "HMCL 是一个免费、开源的 Minecraft 启动器，允许玩家方便快捷的安装、管理、运行游戏。\n\n创建游戏并安装 Fabric、Forge、LiteLoader、OptiFine\n\n支持导出 HMCL、MultiMC 整合包\n\n自带了 Java 环境，免配置\n\n",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/28/b1536650-48dc-11eb-8d07-b1069db61e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/28/adceac60-48dc-11eb-8d07-b1069db61e33.png"
+    "Update": "2021-07-01 19:47:29",
+    "Size": "64.39 MB",
+    "More": "HMCL是一款广受欢迎的开源《我的世界》(Minecraft)启动器\n支持导入 Curse、MultiMC 整合包\n创建游戏并安装 Fabric、Forge、LiteLoader、OptiFine\n支持导出 HMCL、MultiMC 整合包\n多种启动器配色方案\n支持更换背景图\n\n本软件包自带了Java环境，无需配置，不修改系统环境变量",
+    "Tags": "community;deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/01/03bfe550-da62-11eb-ac0f-3b6a4e91ec94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/01/03bd9b60-da62-11eb-ac0f-3b6a4e91ec94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/01/03c319a0-da62-11eb-ac0f-3b6a4e91ec94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/01/03c19300-da62-11eb-ac0f-3b6a4e91ec94.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/01/00af22e0-da62-11eb-ac0f-3b6a4e91ec94.png"
 }
