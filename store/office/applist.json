@@ -660,6 +660,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/24/6fa7c2e0-8c80-11eb-ad89-2582f45c19a4.png"
   },
   {
+    "Name": "飞书",
+    "Version": "4.2.0-3",
+    "Filename": "com.bytedance.feishu_4.2.0-3_amd64.deb",
+    "Pkgname": "com.bytedance.feishu",
+    "Author": "Feishu Linux Team <contact@feishu.cn>",
+    "Contributor": "Fredoong",
+    "Website": "https://www.feishu.cn/",
+    "Update": "2021-07-03 21:35:05",
+    "Size": "216.25 MB",
+    "More": "飞书Linux版本\n飞书整合即时消息、日历、音视频会议、云文档、工作台等功能于一体，成就团队和个人，更高效、更愉悦。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/03/c860bb40-dc02-11eb-b05f-5783acfdc7bf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/03/a8b93f10-dc02-11eb-b05f-5783acfdc7bf.png"
+  },
+  {
     "Name": "洋葱学院",
     "Version": "4.0.0-11",
     "Filename": "com.yangcong.yzf.spark_4.0.0-11_amd64.deb",
