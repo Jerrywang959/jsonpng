@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Eagle（wine）",
+    "Version": "2.0.22spark0",
+    "Filename": "cool.eagle.spark_2.0.22spark0_amd64.deb",
+    "Pkgname": "cool.eagle.spark",
+    "Author": "ogdesign.inc",
+    "Contributor": "sgb76",
+    "Website": "https://eagle.cool/",
+    "Update": "2021-07-04 11:31:37",
+    "Size": "375.65 MB",
+    "More": "素材管理,从未如此简单!\nEagle 可以轻松收集及整理设计项目的“案例、灵感、截图、图片、视频、音频、情绪板”等各种素材，激发更多创意灵感，让工作变得更有效率！\n\n注：使用原生wine打包，在Ubuntu下测试运行正常，托盘图标可用；在deepin下托盘图标无法弹出菜单，退出程序可通过应用左上角菜单",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/04/aa577790-dc77-11eb-8450-9f3250953d5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/04/acde7090-dc77-11eb-8450-9f3250953d5a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/04/b034ee90-dc77-11eb-8450-9f3250953d5a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/04/a6a014e0-dc77-11eb-8450-9f3250953d5a.png"
+  },
+  {
     "Name": "ProcessOn（web）",
     "Version": "1.0spark0",
     "Filename": "web-processon_1.0spark0_amd64.deb",
@@ -319,6 +334,21 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/4090d460-bdd1-11eb-b9d7-9bd8e457060d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/4406c140-bdd1-11eb-b9d7-9bd8e457060d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/3c406600-bdd1-11eb-b9d7-9bd8e457060d.png"
+  },
+  {
+    "Name": "洋芋田图像工具箱（wine）",
+    "Version": "3.1.3spark0",
+    "Filename": "cn.imagetoolkit.potatofield.spark_3.1.3spark0_amd64.deb",
+    "Pkgname": "cn.imagetoolkit.potatofield.spark",
+    "Author": "张志毅",
+    "Contributor": "sgb76",
+    "Website": "https://imagetoolkit.potatofield.cn/",
+    "Update": "2021-07-04 12:56:50",
+    "Size": "175.89 MB",
+    "More": "一款实用的图像处理工具箱\n\n注：首次运行配置wine时，如提示是否安装Mono，点否即可",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/04/bfca3a20-dc83-11eb-91cd-290ee19cd596.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/04/c5922d50-dc83-11eb-91cd-290ee19cd596.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/04/ab551b00-dc83-11eb-91cd-290ee19cd596.png"
   },
   {
     "Name": "美图秀秀",
