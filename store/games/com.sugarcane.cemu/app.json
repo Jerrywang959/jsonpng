@@ -1,0 +1,15 @@
+{
+    "Name": "Cemu 模拟器（Wine）",
+    "Version": "1.23.1b",
+    "Filename": "com.sugarcane.cemu_1.23.1b_amd64.deb",
+    "Pkgname": "com.sugarcane.cemu",
+    "Author": "Team Cemu",
+    "Contributor": "zkqgxlbjx",
+    "Website": "http://cemu.info/",
+    "Update": "2021-07-07 19:57:12",
+    "Size": "102.96 MB",
+    "More": "Experimental software to emulate Wii U applications on PC(在 PC 上模拟 Wii U 应用程序的软件)。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/07/47f53c90-df1a-11eb-bcac-d1252b05fa65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/07/483308e0-df1a-11eb-bcac-d1252b05fa65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/07/48693410-df1a-11eb-bcac-d1252b05fa65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/07/48a308c0-df1a-11eb-bcac-d1252b05fa65.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/07/43836380-df1a-11eb-bcac-d1252b05fa65.png"
+}

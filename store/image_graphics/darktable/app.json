@@ -1,15 +1,15 @@
 {
     "Name": "darktable",
-    "Version": "3.4.0-1.1",
-    "Filename": "darktable_3.4.0-1.1_amd64.deb",
+    "Version": "3.6.0-1.1",
+    "Filename": "darktable_3.6.0-1.1_amd64.deb",
     "Pkgname": "darktable",
     "Author": "darktable team.",
     "Contributor": "sgb76",
     "Website": "http://www.darktable.org/",
-    "Update": "2021-01-29 11:12:50",
-    "Size": "4.42 MB",
-    "More": "darktable是一个开源的摄影工作应用和raw处理工具，可以给摄影师提供一个虚拟的灯光台和暗室。",
+    "Update": "2021-07-08 12:16:13",
+    "Size": "4.69 MB",
+    "More": "darktable是一个开源的摄影工作应用和raw处理工具,可以给摄影师提供一个虚拟的灯光台和暗室 ",
     "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c12ec080-61df-11eb-b19d-5936867f484a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c9bab5b0-61df-11eb-b19d-5936867f484a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/cf7c4040-61df-11eb-b19d-5936867f484a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/b05f77e0-61df-11eb-b19d-5936867f484a.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/0d6c0b60-dfa3-11eb-a4ed-637b7c43d4bc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/16584900-dfa3-11eb-a4ed-637b7c43d4bc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/1e2dbf70-dfa3-11eb-a4ed-637b7c43d4bc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/08/016d0f80-dfa3-11eb-a4ed-637b7c43d4bc.png"
 }
