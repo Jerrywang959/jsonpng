@@ -129,6 +129,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/ed1e35b0-595e-11eb-94ea-4b6de6939328.png"
   },
   {
+    "Name": "Effie（wine）",
+    "Version": "1.0.8spark0",
+    "Filename": "co.effie.spark_1.0.8spark0_amd64.deb",
+    "Pkgname": "co.effie.spark",
+    "Author": "上海七加二科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.effie.co/",
+    "Update": "2021-07-09 11:50:02",
+    "Size": "272.8 MB",
+    "More": "一款思想家专用的写作软件。无论是严肃写作,随手记录,亦或是把逻辑完善成思维导图,Effie都是您明智的选择",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/6eb490c0-e068-11eb-ba34-31069133b8cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/72bc3650-e068-11eb-ba34-31069133b8cf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/64fb1810-e068-11eb-ba34-31069133b8cf.png"
+  },
+  {
     "Name": "Standard Notes",
     "Version": "3.8.0spark1",
     "Filename": "org.standard-notes.spark_3.8.0spark1_amd64.deb",
@@ -376,6 +391,21 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/144a5240-77f5-11eb-9190-c146382386db.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/26/1285bee0-77f5-11eb-9190-c146382386db.png"
+  },
+  {
+    "Name": "专注笔记（wine）",
+    "Version": "2.12.1-638spark0",
+    "Filename": "ink.focusapp.focusnote.spark_2.12.1-638spark0_amd64.deb",
+    "Pkgname": "ink.focusapp.focusnote.spark",
+    "Author": "广州市风荷科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.focusapp.ink/#/",
+    "Update": "2021-07-09 15:24:14",
+    "Size": "204.83 MB",
+    "More": "一款精美的电子笔记软件，可折叠段落、多种高亮颜色、支持 LaTeX 数学公式、外框、拟真的笔记本及分页、分组管理...一切为了让您更简单地做出高可读性的学习笔记 \n\n注：基于原生wine打包，deepin下系统托盘图标不可用，但不影响使用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/44ac8ad0-e086-11eb-a769-e55204eef49a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/4869e0f0-e086-11eb-a769-e55204eef49a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/3efe6130-e086-11eb-a769-e55204eef49a.png"
   },
   {
     "Name": "TickTick",

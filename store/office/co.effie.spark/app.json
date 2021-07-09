@@ -1,0 +1,15 @@
+{
+    "Name": "Effie（wine）",
+    "Version": "1.0.8spark0",
+    "Filename": "co.effie.spark_1.0.8spark0_amd64.deb",
+    "Pkgname": "co.effie.spark",
+    "Author": "上海七加二科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.effie.co/",
+    "Update": "2021-07-09 11:50:02",
+    "Size": "272.8 MB",
+    "More": "一款思想家专用的写作软件。无论是严肃写作,随手记录,亦或是把逻辑完善成思维导图,Effie都是您明智的选择",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/6eb490c0-e068-11eb-ba34-31069133b8cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/72bc3650-e068-11eb-ba34-31069133b8cf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/64fb1810-e068-11eb-ba34-31069133b8cf.png"
+}

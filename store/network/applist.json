@@ -574,15 +574,18 @@
   },
   {
     "Name": "Motrix",
-    "Version": "1.5.15",
-    "Filename": "motrix_1.5.15_amd64.deb",
+    "Version": "1.6.11",
+    "Filename": "motrix_1.6.11_amd64.deb",
     "Pkgname": "motrix",
     "Author": "agalwood",
-    "Contributor": "shenmo",
-    "Website": "https://motrix.app",
-    "Update": "2020-07-01 02:15",
-    "Size": "56.34MB",
-    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。"
+    "Contributor": "shenmo; OkayPJ",
+    "Website": "https://motrix.app/",
+    "Update": "2021-07-09 13:07:56",
+    "Size": "58.7 MB",
+    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/056cf660-e073-11eb-b402-61a83f036e82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/05f168a0-e073-11eb-b402-61a83f036e82.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/05784100-e073-11eb-b402-61a83f036e82.png"
   },
   {
     "Name": "闪电下载（wine）",
@@ -727,6 +730,21 @@
     "Tags": "community;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/06/e0ef8990-7e45-11eb-9687-1db62951827f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/06/d0f85170-7e45-11eb-9687-1db62951827f.png"
+  },
+  {
+    "Name": "阿里云盘（wine）",
+    "Version": "2.1.9spark0",
+    "Filename": "com.aliyundrive.spark_2.1.9spark0_amd64.deb",
+    "Pkgname": "com.aliyundrive.spark",
+    "Author": "杭州短趣网络传媒技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.aliyundrive.com/",
+    "Update": "2021-07-09 15:17:50",
+    "Size": "173.94 MB",
+    "More": "阿里云盘是一款速度快、不打扰、够安全、易于分享的网盘，你可以在这里存储、管理和探索内容，尽情打造丰富的数字世界。 \n\n注：1.基于原生wine打包，在deepin下托盘图标不可用，其他功能正常；\n   2.进入软件后请在设置里自行修改下载路径，下载完成后通过文件管理器打开查看（软件里下载完成列表貌似无法直接打开下载文件所在位置，疑似是bug）",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/47a85b20-e085-11eb-a769-e55204eef49a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/4c2c0e80-e085-11eb-a769-e55204eef49a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/4fa61a10-e085-11eb-a769-e55204eef49a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/41a11500-e085-11eb-a769-e55204eef49a.png"
   },
   {
     "Name": "迅雷极速版",

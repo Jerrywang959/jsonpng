@@ -1,0 +1,15 @@
+{
+    "Name": "专注笔记（wine）",
+    "Version": "2.12.1-638spark0",
+    "Filename": "ink.focusapp.focusnote.spark_2.12.1-638spark0_amd64.deb",
+    "Pkgname": "ink.focusapp.focusnote.spark",
+    "Author": "广州市风荷科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.focusapp.ink/#/",
+    "Update": "2021-07-09 15:24:14",
+    "Size": "204.83 MB",
+    "More": "一款精美的电子笔记软件，可折叠段落、多种高亮颜色、支持 LaTeX 数学公式、外框、拟真的笔记本及分页、分组管理...一切为了让您更简单地做出高可读性的学习笔记 \n\n注：基于原生wine打包，deepin下系统托盘图标不可用，但不影响使用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/44ac8ad0-e086-11eb-a769-e55204eef49a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/4869e0f0-e086-11eb-a769-e55204eef49a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/3efe6130-e086-11eb-a769-e55204eef49a.png"
+}

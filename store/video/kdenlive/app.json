@@ -1,0 +1,15 @@
+{
+    "Name": "Kdenlive",
+    "Version": "21.04.3",
+    "Filename": "kdenlive_21.04.3_amd64.deb",
+    "Pkgname": "kdenlive",
+    "Author": "KDE",
+    "Contributor": "chaodn",
+    "Website": "https://kdenlive.org",
+    "Update": "2021-07-09 13:27:01",
+    "Size": "175.53 MB",
+    "More": "Kdenlive 是一款自由开源的免费视频剪辑软件，项目发起于 2003 年。Kdenlive 基于 Qt 和 KDE 程序库框架构建，大部分的视频处理功能则是通过 MLT 媒体程序框架实现，而 MLT 的功能则是基于 FFmpeg、frei0r、movit、ladspa、sox 等自由开源软件项目实现。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/e2773230-e075-11eb-91af-99651ea2e729.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/e624f7f0-e075-11eb-91af-99651ea2e729.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/e8ee9f40-e075-11eb-91af-99651ea2e729.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/09/ece5ca10-e075-11eb-91af-99651ea2e729.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/09/dd7fae60-e075-11eb-91af-99651ea2e729.png"
+}
