@@ -195,19 +195,34 @@
     "More": "网文码字，就用灯果写作！专业团队打造，专为网文创作者而生的码字工具！在这里，我们给你更专注 更纯粹的创作空间，给你更温暖、更贴心的写作服务。你可以随时随地的在这里享受自己的世界，记录灵感，创作精妙绝伦的故事！"
   },
   {
+    "Name": "班级优化大师",
+    "Version": "2.0.11",
+    "Filename": "com.seewo.easicare.spark_2.0.11_amd64.deb",
+    "Pkgname": "com.seewo.easicare.spark",
+    "Author": "广州视睿电子科技有限公司",
+    "Contributor": "chaodn",
+    "Website": "https://care.seewo.com/",
+    "Update": "2021-07-10 16:29:46",
+    "Size": "56.89 MB",
+    "More": " 班级优化大师是一款由希沃（seewo）自主研发的针对教师教学管理优化的软件，功能覆盖课堂管理、班级管理、家校管理三大场景。以学生综合素质评价系统为核心，班级优化大师可以帮助教师实现游戏化的师生互动教学体验、高效率的班级管理和有质量的家校沟通。 ",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e232be00-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e51fa4c0-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e76bb7a0-e158-11eb-b946-b94100980c83.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/e9b8dbf0-e158-11eb-b946-b94100980c83.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/d7874430-e158-11eb-b946-b94100980c83.ico"
+  },
+  {
     "Name": "Freeplane",
-    "Version": "1.8.11~upstream-1",
-    "Filename": "freeplane_1.8.11~upstream-1_all.deb",
+    "Version": "1.9.5~upstream-1",
+    "Filename": "freeplane_1.9.5~upstream-1_all.deb",
     "Pkgname": "freeplane",
-    "Author": "Freeplane",
+    "Author": "Freeplane Team",
     "Contributor": "OkayPJ",
     "Website": "https://www.freeplane.org/",
-    "Update": "2021-02-17 07:37:31",
-    "Size": "41.37 MB",
-    "More": "Freeplane is a free and open source software application that supports thinking, sharing information and getting things done at work, in school and at home. The software can be used for mind mapping and analyzing the information contained in mind maps. Freeplane runs on any operating system that has a current version of Java installed. It can be run locally or portably from removable storage like a USB drive. ",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/d3096c90-70af-11eb-8f3d-356efe35e640.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/d6048420-70af-11eb-8f3d-356efe35e640.jpg\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/ce4a0fc0-70af-11eb-8f3d-356efe35e640.png"
+    "Update": "2021-07-10 15:45:53",
+    "Size": "43.32 MB",
+    "More": "\"Freeplane is a free and open source software application that supports thinking, sharing information and getting things done at work, in school and at home. The software can be used for mind mapping and analyzing the information contained in mind maps. Freeplane runs on any operating system that has a current version of Java installed. It can be run locally or portably from removable storage like a USB drive. \"",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/a8dce9b0-e152-11eb-a884-9dcbca0f7b8c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/b11f52c0-e152-11eb-a884-9dcbca0f7b8c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/b5db7b40-e152-11eb-a884-9dcbca0f7b8c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/bca79800-e152-11eb-a884-9dcbca0f7b8c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/c0965e60-e152-11eb-a884-9dcbca0f7b8c.jpg\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/a442c820-e152-11eb-a884-9dcbca0f7b8c.png"
   },
   {
     "Name": "Microsoft Office Visio 2007",
@@ -490,6 +505,21 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/733a8d20-c745-11eb-a819-235b7a0b48f4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/406a9610-c745-11eb-a819-235b7a0b48f4.png"
+  },
+  {
+    "Name": "希沃白板5",
+    "Version": "5.1.17.1049",
+    "Filename": "com.seewo.easinote5.spark_5.1.17.1049_amd64.deb",
+    "Pkgname": "com.seewo.easinote5.spark",
+    "Author": "广州视睿电子科技有限公司",
+    "Contributor": "chaodn",
+    "Website": "https://easinote.seewo.com",
+    "Update": "2021-07-10 16:51:00",
+    "Size": "136.72 MB",
+    "More": "希沃白板5是一款由希沃（seewo）自主研发，专为老师打造的互动教学平台。针对信息化教学场景，提供课件制作、互动授课、在线课堂、微课录制、课件资源库等多项功能，满足线上、线下教学的多个场景，让老师能一站式完成教学环节的主要流程。 ",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/caa58210-e15b-11eb-8925-e57fa7ca20c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/cd1a79b0-e15b-11eb-8925-e57fa7ca20c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/cfc3eed0-e15b-11eb-8925-e57fa7ca20c7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/c7d65c80-e15b-11eb-8925-e57fa7ca20c7.png"
   },
   {
     "Name": "Zim 桌面维基",

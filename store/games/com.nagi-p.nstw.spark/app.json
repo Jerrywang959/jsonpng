@@ -1,15 +1,15 @@
 {
     "Name": "NS-Tower（wine）",
-    "Version": "2.5j-1",
-    "Filename": "com.nagi-p.nstw.spark_2.5j-1_amd64.deb",
+    "Version": "2.5j-2",
+    "Filename": "com.nagi-p.nstw.spark_2.5j-2_amd64.deb",
     "Pkgname": "com.nagi-p.nstw.spark",
     "Author": "NAGI-P SOFT",
     "Contributor": "OkayPJ",
     "Website": "https://www.nagi-p.com/v1/",
-    "Update": "2021-02-21 12:58:07",
+    "Update": "2021-07-10 16:24:14",
     "Size": "127.9 KB",
-    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏。\n\n2020.02.21 更新：\n修改了运行脚本，在使用不同的 wine 时可以在不同的容器中运行。",
-    "Tags": "ubuntu;deepin;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/21/5b348510-7401-11eb-9bae-f7723d010fd5.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/21/58599fb0-7401-11eb-9bae-f7723d010fd5.png"
+    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏。\n\n2021.02.21 更新：\n修改了运行脚本，在使用不同的 wine 时可以在不同的容器中运行。\n\n2021.07.10 更新：\n更改了依赖，将 wine 改成 wine32。当前依赖：\ndeepin-wine | deepin-wine5 | wine32 | winehq-stable | winehq-devel | winehq-staging\n",
+    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/2b15c230-e158-11eb-857d-ed2b6e86048a.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/26064990-e158-11eb-857d-ed2b6e86048a.png"
 }

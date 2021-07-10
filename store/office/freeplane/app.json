@@ -1,15 +1,15 @@
 {
     "Name": "Freeplane",
-    "Version": "1.8.10~upstream-1",
-    "Filename": "freeplane_1.8.10~upstream-1_all.deb",
+    "Version": "1.9.5~upstream-1",
+    "Filename": "freeplane_1.9.5~upstream-1_all.deb",
     "Pkgname": "freeplane",
-    "Author": "Freeplane team",
+    "Author": "Freeplane Team",
     "Contributor": "OkayPJ",
     "Website": "https://www.freeplane.org/",
-    "Update": "2021-01-03 03:59:35",
-    "Size": "41.35 MB",
-    "More": "Freeplane 是一个自由开源的思维到图软件。\nFreeplane is a free and open source software application that supports thinking, sharing information and getting things done at work, in school and at home. The software can be used for mind mapping and analyzing the information contained in mind maps. Freeplane runs on any operating system that has a current version of Java installed. It can be run locally or portably from removable storage like a USB drive. ",
-    "Tags": "community;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/03/d2751eb0-4d77-11eb-8fdd-751102018b27.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/03/d26f5250-4d77-11eb-8fdd-751102018b27.jpg\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/03/c97c0fd0-4d77-11eb-8fdd-751102018b27.png"
+    "Update": "2021-07-10 15:45:53",
+    "Size": "43.32 MB",
+    "More": "\"Freeplane is a free and open source software application that supports thinking, sharing information and getting things done at work, in school and at home. The software can be used for mind mapping and analyzing the information contained in mind maps. Freeplane runs on any operating system that has a current version of Java installed. It can be run locally or portably from removable storage like a USB drive. \"",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/a8dce9b0-e152-11eb-a884-9dcbca0f7b8c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/b11f52c0-e152-11eb-a884-9dcbca0f7b8c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/b5db7b40-e152-11eb-a884-9dcbca0f7b8c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/bca79800-e152-11eb-a884-9dcbca0f7b8c.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/c0965e60-e152-11eb-a884-9dcbca0f7b8c.jpg\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/a442c820-e152-11eb-a884-9dcbca0f7b8c.png"
 }
