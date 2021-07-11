@@ -1,15 +1,15 @@
 {
     "Name": "Koodo Reader",
-    "Version": "1.2.6-509",
-    "Filename": "koodo-reader_1.2.6-509_amd64.deb",
+    "Version": "1.2.7-565",
+    "Filename": "koodo-reader_1.2.7-565_amd64.deb",
     "Pkgname": "koodo-reader",
     "Author": "Troye",
     "Contributor": "sgb76",
     "Website": "https://koodo.960960.xyz/",
-    "Update": "2021-06-09 22:14:59",
-    "Size": "57.91 MB",
-    "More": "Koodo Reader 是一款开源的电子书阅读器，支持epub，pdf，mobi，azw3 和 txt 格式的电子书，让您轻松管理和阅读各种格式的电子书，助力更高效书籍阅读和学习",
+    "Update": "2021-07-11 15:14:20",
+    "Size": "57.88 MB",
+    "More": "Koodo Reader 是一款开源的电子书阅读器，支持epub、pdf、mobi、azw3、txt、docx、rtf、cbz、cbr、cbt、fb2、html和xml等格式的电子书，让您轻松管理和阅读各种格式的电子书，助力更高效书籍阅读和学习",
     "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/09/de27d060-c92b-11eb-98a9-732a6dbf818e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/09/e32aecf0-c92b-11eb-98a9-732a6dbf818e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/09/e85d56e0-c92b-11eb-98a9-732a6dbf818e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/09/d6821c80-c92b-11eb-98a9-732a6dbf818e.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/5cf64260-e217-11eb-bb02-4904154321f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/642a21a0-e217-11eb-bb02-4904154321f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/690c48b0-e217-11eb-bb02-4904154321f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/11/570ae8b0-e217-11eb-bb02-4904154321f1.png"
 }

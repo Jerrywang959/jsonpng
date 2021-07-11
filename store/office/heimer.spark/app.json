@@ -1,0 +1,15 @@
+{
+    "Name": "Heimer",
+    "Version": "2.6.0spark0",
+    "Filename": "heimer.spark_2.6.0spark0_amd64.deb",
+    "Pkgname": "heimer.spark",
+    "Author": "juzzlin",
+    "Contributor": "OkayPJ",
+    "Website": "https://github.com/juzzlin/Heimer/",
+    "Update": "2021-07-11 07:29:43",
+    "Size": "22.77 MB",
+    "More": "简单易用的思维导图制作软件，用 Qt 写成。\n\n为避免使用 Ubuntu 版本在未来造成可能的不必要的以来问题，本软件包位 AppImage 版本而成。",
+    "Tags": "community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/8d009a50-e1d6-11eb-96c5-dd47da2aa968.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/11/8ba0bc30-e1d6-11eb-96c5-dd47da2aa968.png"
+}
