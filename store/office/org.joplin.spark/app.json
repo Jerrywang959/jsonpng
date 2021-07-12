@@ -1,15 +1,15 @@
 {
     "Name": "Joplin",
-    "Version": "1.7.11",
-    "Filename": "org.joplin.spark_1.7.11_amd64.deb",
+    "Version": "2.1.8",
+    "Filename": "org.joplin.spark_2.1.8_all.deb",
     "Pkgname": "org.joplin.spark",
     "Author": "laurent22",
-    "Contributor": "jerrywang",
+    "Contributor": "jerrywang; OkayPJ",
     "Website": "https://github.com/laurent22/joplin",
-    "Update": "2021-02-03 23:54:21",
-    "Size": "138.88 MB",
+    "Update": "2021-07-12 10:30:39",
+    "Size": "140.15 MB",
     "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容的Windows, macOS, Linux, Android和iOS。",
     "Tags": "community;ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/03/f5000b20-6636-11eb-8d78-813ea487580c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/03/e43a3860-6636-11eb-8d78-813ea487580c.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/0e83f180-e2b8-11eb-a5e3-f1b9a36cae78.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/0c103260-e2b8-11eb-a5e3-f1b9a36cae78.png"
 }

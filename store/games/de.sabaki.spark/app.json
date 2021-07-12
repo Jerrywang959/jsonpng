@@ -1,0 +1,15 @@
+{
+    "Name": "Sabaki",
+    "Version": "0.51.1spark0",
+    "Filename": "de.sabaki.spark_0.51.1spark0_amd64.deb",
+    "Pkgname": "de.sabaki.spark",
+    "Author": "yichuanshen",
+    "Contributor": "sgb76",
+    "Website": "https://sabaki.yichuanshen.de/",
+    "Update": "2021-07-12 18:15:19",
+    "Size": "72.36 MB",
+    "More": "一款非常优秀的围棋打谱软件",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/ce091d50-e2f9-11eb-a093-efd466a33955.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/d3e5d100-e2f9-11eb-a093-efd466a33955.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/d80459f0-e2f9-11eb-a093-efd466a33955.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/c6c73450-e2f9-11eb-a093-efd466a33955.png"
+}

@@ -285,6 +285,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/2e6c9680-2eec-11eb-b3df-b5cb960c2aac.png"
   },
   {
+    "Name": "Sabaki",
+    "Version": "0.51.1spark0",
+    "Filename": "de.sabaki.spark_0.51.1spark0_amd64.deb",
+    "Pkgname": "de.sabaki.spark",
+    "Author": "yichuanshen",
+    "Contributor": "sgb76",
+    "Website": "https://sabaki.yichuanshen.de/",
+    "Update": "2021-07-12 18:15:19",
+    "Size": "72.36 MB",
+    "More": "一款非常优秀的围棋打谱软件",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/ce091d50-e2f9-11eb-a093-efd466a33955.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/d3e5d100-e2f9-11eb-a093-efd466a33955.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/d80459f0-e2f9-11eb-a093-efd466a33955.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/c6c73450-e2f9-11eb-a093-efd466a33955.png"
+  },
+  {
     "Name": "OpenTTD",
     "Version": "1.10.3-0",
     "Filename": "openttd_1.10.3-0_amd64.deb",
@@ -793,18 +808,18 @@
   },
   {
     "Name": "NS-Shaft（wine）",
-    "Version": "1.3j-2",
-    "Filename": "com.nagi-p.nssh.spark_1.3j-2_amd64.deb",
+    "Version": "1.3j-3",
+    "Filename": "com.nagi-p.nssh.spark_1.3j-3_amd64.deb",
     "Pkgname": "com.nagi-p.nssh.spark",
     "Author": "NAGI-P SOFT",
     "Contributor": "OkayPJ",
     "Website": "https://www.nagi-p.com/v1/",
-    "Update": "2021-03-11 19:52:42",
-    "Size": "180.45 KB",
-    "More": "NAGI-P 公司开发的一款 Windows 平台下的 2D 休闲游戏。\n\n依赖：deepin-wine | deepin-wine5 | wine32 | winehq-stable | winehq-devel | winehq-staging\n\n更新 1.3j-2（2021-03-11）：\n更改了依赖，将 wine 改成 wine32。",
-    "Tags": "ubuntu;deepin;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/11/2c696cb0-8260-11eb-9033-47f50d617d6a.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/11/2a282f40-8260-11eb-9033-47f50d617d6a.png"
+    "Update": "2021-07-12 09:01:30",
+    "Size": "180.1 KB",
+    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏。\n\n2021.02.21 更新：\n修改了运行脚本，在使用不同的 wine 时可以在不同的容器中运行。\n\n2021.03.11 更新：\n更改了依赖，将 wine 改成 wine32。当前依赖：\ndeepin-wine | deepin-wine5 | wine32 | winehq-stable | winehq-devel | winehq-staging\n\n2021.07.12 更新：\n更改的运行脚本，避免 .deepinwine 文件夹未创建时无法运行的错误。",
+    "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/ac4dbc40-e2ac-11eb-b260-f9f0b056153d.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/aaecccb0-e2ac-11eb-b260-f9f0b056153d.png"
   },
   {
     "Name": "OpenRA:罗曼诺夫的复仇",
@@ -837,19 +852,19 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/64292e60-2eb9-11eb-87d8-d39c5bb910b6.png"
   },
   {
-    "Name": "三国志9威力加强版",
-    "Version": "1.0spark0",
-    "Filename": "com.sanguozhipk.spark_1.0spark0_i386.deb",
+    "Name": "三国志9威力加强版（wine）",
+    "Version": "1.1spark1",
+    "Filename": "com.sanguozhipk.spark_1.1spark1_i386.deb",
     "Pkgname": "com.sanguozhipk.spark",
     "Author": "KOEI",
     "Contributor": "sgb76",
     "Website": "不详",
-    "Update": "2020-11-21 14:17:42",
-    "Size": "415.65 MB",
-    "More": "《三国志9》是由光荣公司研发的一款三国策略类游戏，为《三国志》系列游戏作品。 通过扮演一位君主在三国这个风云时代完成统一天下的目标。",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/21/be4a5a80-2c03-11eb-9648-45d5cc7e2742.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/21/d38a1ca0-2c03-11eb-9648-45d5cc7e2742.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/21/eee744f0-2c03-11eb-9648-45d5cc7e2742.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/21/b861e700-2c03-11eb-9648-45d5cc7e2742.png"
+    "Update": "2021-07-12 17:04:32",
+    "Size": "420.57 MB",
+    "More": "《三国志9》是由光荣公司研发的一款三国策略类游戏，为《三国志》系列游戏作品。 通过扮演一位君主在三国这个风云时代完成统一天下的目标。 \n\n注：基于deepin-wine5重新打包，修复了之前游戏无法存档的问题。如安装过旧版，请先卸载并手动删除原安装容器",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/84670fe0-e2ef-11eb-81e0-39564ad40c4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/89d179c0-e2ef-11eb-81e0-39564ad40c4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/9239ba50-e2ef-11eb-81e0-39564ad40c4f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/7cc37ee0-e2ef-11eb-81e0-39564ad40c4f.png"
   },
   {
     "Name": "美味星球2",
@@ -949,18 +964,18 @@
   },
   {
     "Name": "Caller's Bane（wine）",
-    "Version": "2.0.1-1",
-    "Filename": "com.callersbane.spark_2.0.1-1_amd64.deb",
+    "Version": "2.0.1-2",
+    "Filename": "com.callersbane.spark_2.0.1-2_amd64.deb",
     "Pkgname": "com.callersbane.spark",
     "Author": "Mojang",
     "Contributor": "OkayPJ",
     "Website": "https://callersbane.com/",
-    "Update": "2021-07-10 16:40:59",
+    "Update": "2021-07-12 09:27:31",
     "Size": "174.3 MB",
-    "More": "Mojang 开发的卡牌对战游戏。\n\n2021.07.10 更新：\n更改了依赖，将 wine 改成 wine32。当前依赖：\ndeepin-wine | deepin-wine5 | wine32 | winehq-stable | winehq-devel | winehq-staging\n",
+    "More": "Mojang 开发的卡牌对战游戏。\n\n2021.07.10 更新：\n更改了依赖，将 wine 改成 wine32。当前依赖：\ndeepin-wine | deepin-wine5 | wine32 | winehq-stable | winehq-devel | winehq-staging\n\n2021.07.12 更新：\n更改的运行脚本，避免 .deepinwine 文件夹未创建时无法运行的错误。",
     "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/45e71350-e15a-11eb-9eba-f52d85106d4a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/45e2f4a0-e15a-11eb-9eba-f52d85106d4a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/42ca1be0-e15a-11eb-9eba-f52d85106d4a.svg"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/12f80390-e2af-11eb-8d07-db1ed01073a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/158ae370-e2af-11eb-8d07-db1ed01073a6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/102ab2c0-e2af-11eb-8d07-db1ed01073a6.svg"
   },
   {
     "Name": "星云模拟器（wine）",
@@ -978,18 +993,18 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/07/35ac8830-aee7-11eb-aedc-9596fee5f04c.png"
   },
   {
-    "Name": "NS-Tower（wine）",
-    "Version": "2.5j-2",
-    "Filename": "com.nagi-p.nstw.spark_2.5j-2_amd64.deb",
+    "Name": "NS-Towser（wine）",
+    "Version": "2.5j-3",
+    "Filename": "com.nagi-p.nstw.spark_2.5j-3_amd64.deb",
     "Pkgname": "com.nagi-p.nstw.spark",
     "Author": "NAGI-P SOFT",
     "Contributor": "OkayPJ",
     "Website": "https://www.nagi-p.com/v1/",
-    "Update": "2021-07-10 16:24:14",
+    "Update": "2021-07-12 08:52:46",
     "Size": "127.9 KB",
-    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏。\n\n2021.02.21 更新：\n修改了运行脚本，在使用不同的 wine 时可以在不同的容器中运行。\n\n2021.07.10 更新：\n更改了依赖，将 wine 改成 wine32。当前依赖：\ndeepin-wine | deepin-wine5 | wine32 | winehq-stable | winehq-devel | winehq-staging\n",
+    "More": "日本 NAGI-P SOFT 开发的一款 Windows 95 平台上的 2D 休闲游戏。\n\n2021.02.21 更新：\n修改了运行脚本，在使用不同的 wine 时可以在不同的容器中运行。\n\n2021.07.10 更新：\n更改了依赖，将 wine 改成 wine32。当前依赖：\ndeepin-wine | deepin-wine5 | wine32 | winehq-stable | winehq-devel | winehq-staging\n\n2021.07.12 更新：\n更改的运行脚本，避免 .deepinwine 文件夹未创建时无法运行的错误。",
     "Tags": "ubuntu;deepin;uos;dwine2;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/10/2b15c230-e158-11eb-857d-ed2b6e86048a.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/10/26064990-e158-11eb-857d-ed2b6e86048a.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/719a8890-e2ab-11eb-b260-f9f0b056153d.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/705bee10-e2ab-11eb-b260-f9f0b056153d.png"
   }
 ]

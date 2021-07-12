@@ -1,0 +1,15 @@
+{
+    "Name": "同花顺",
+    "Version": "1.6.1.2",
+    "Filename": "cn.com.10jqka_1.6.1.2_amd64.deb",
+    "Pkgname": "cn.com.10jqka",
+    "Author": "浙江核新同花顺网络信息股份有限公司",
+    "Contributor": "chaodn",
+    "Website": "https://www.10jqka.com.cn",
+    "Update": "2021-07-12 15:38:00",
+    "Size": "51.87 MB",
+    "More": "同花顺股票行情快、数据全、性能优，是一款受股民欢迎的免费炒股软件：具有沪深两市股票、基金行情；在线股票买卖委托交易功能等强大功能。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/af566360-e2e3-11eb-800d-ebafda67edb9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/b231e500-e2e3-11eb-800d-ebafda67edb9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/ac09d070-e2e3-11eb-800d-ebafda67edb9.png"
+}

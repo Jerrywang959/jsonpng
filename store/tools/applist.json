@@ -839,6 +839,21 @@
     "More": "海天翼屏幕画笔，在屏幕上画图，配合腾讯会议上网课，岂不美哉～"
   },
   {
+    "Name": "A2D转制工具",
+    "Version": "2.0.1",
+    "Filename": "appimage2deb_2.0.1_amd64.deb",
+    "Pkgname": "appimage2deb",
+    "Author": "dfc643",
+    "Contributor": "shenmo",
+    "Website": "https://gitlab.com/dfc643/appimage2deb/",
+    "Update": "2021-07-11 22:32:42",
+    "Size": "2.43 MB",
+    "More": "shenmo修改内容：因为无法改动Appimage内容且无法联系到原作者，我添加了个“硬核”启动器来告知大家已知问题以及如何避免\n\n以下为原简介\n因为之前那个 DTK 的“星火商店打包器”存在打包问题，之前也说过要写一个的，这次加了简单的UI。\n使用方法：从“主菜单-系统管理-A2D软件打包”打开\n深度论坛帖子：https://bbs.deepin.org/post/208284",
+    "Tags": "community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/cebc28a0-e254-11eb-bb77-6537dcf77079.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/ced61940-e254-11eb-bb77-6537dcf77079.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/11/cf878ef0-e254-11eb-bb77-6537dcf77079.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/11/b4440920-e254-11eb-bb77-6537dcf77079.png"
+  },
+  {
     "Name": "Slimbook Battery",
     "Version": "3.97beta",
     "Filename": "slimbookbattery_3.97beta_all.deb",
