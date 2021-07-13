@@ -1,12 +1,15 @@
 {
-   "Name":"GitHub Desktop",
-   "Version":"2.5.3",
-   "Filename":"github-desktop_2.5.3_amd64.deb",
-   "Pkgname":"github-desktop",
-   "Author":"Brendan Forster",
-   "Contributor":"zty199",
-   "Website":"https://github.com/shiftkey/desktop",
-   "Update":"2020-07-01 16:55",
-   "Size":"76.95MB",
-   "More":"GitHub Desktop 的第三方 Linux 发行版。"
+    "Name": "GitHub Desktop",
+    "Version": "2.9.0-linux2",
+    "Filename": "github-desktop_2.9.0-linux2_amd64.deb",
+    "Pkgname": "github-desktop",
+    "Author": "Brendan Forster&GitHub, Inc.",
+    "Contributor": "chaodn",
+    "Website": "https://github.com/shiftkey/desktop",
+    "Update": "2021-07-13 12:14:14",
+    "Size": "67.43 MB",
+    "More": "GitHub Desktop 是一个基于 Electron 的开源 GitHub 应用程序。它是用 TypeScript 编写的，并使用 React。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/13/b2a70c60-e390-11eb-876a-45abdefa23b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/13/b5ef80a0-e390-11eb-876a-45abdefa23b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/13/b8a63c30-e390-11eb-876a-45abdefa23b6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/13/a437fae0-e390-11eb-876a-45abdefa23b6.svg"
 }

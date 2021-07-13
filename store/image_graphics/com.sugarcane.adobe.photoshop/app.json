@@ -1,0 +1,15 @@
+{
+    "Name": "Adobe Photoshop CC 2018",
+    "Version": "19.0",
+    "Filename": "com.sugarcane.adobe.photoshop_19.0_amd64.deb",
+    "Pkgname": "com.sugarcane.adobe.photoshop",
+    "Author": "San Jose",
+    "Contributor": "zkqgxlbjx",
+    "Website": "https://www.adobe.com/cn/products/photoshop.html",
+    "Update": "2021-07-12 16:43:38",
+    "Size": "980.53 MB",
+    "More": "Adobe PhotoShop CC是一款强大的图片编辑软件。可对已有的位图图像进行编辑加工处理以及运用一些特殊效果，其重点在于对图像的处理加工；可按照自己的构思创意，使用矢量图形等来设计图形。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/04e5f270-e2ec-11eb-ac26-631dbc6def3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/064e8320-e2ec-11eb-ac26-631dbc6def3d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/085cc9b0-e2ec-11eb-ac26-631dbc6def3d.svg"
+}

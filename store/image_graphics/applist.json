@@ -42,6 +42,21 @@
     "More": "PhotoGIMP，是在GIMP基础上修改了界面布局，看起来更像PhotoShop的版本，原作者为来自Diolinux的Dionathan Simione。这个appimage版本基于他的flatpak版本补丁打包而来。"
   },
   {
+    "Name": "幻影图像",
+    "Version": "1.0.1.10701",
+    "Filename": "himirage_1.0.1.10701_amd64.deb",
+    "Pkgname": "himirage",
+    "Author": "北京亦心科技有限公司",
+    "Contributor": "chaodn",
+    "Website": "http://baishibos.com",
+    "Update": "2021-07-13 12:29:34",
+    "Size": "52.11 MB",
+    "More": "幻影图像是一款强大的图像处理软件，照片裁剪、图像编辑、特效蒙版、图形设计、炫彩文字随心创作，让设计触手可得。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/13/a22312b0-e392-11eb-876a-45abdefa23b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/13/a6b87950-e392-11eb-876a-45abdefa23b6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/13/9db8dac0-e392-11eb-876a-45abdefa23b6.png"
+  },
+  {
     "Name": "Squoosh Desktop",
     "Version": "1.0.0",
     "Filename": "squoosh-desktop-app_1.0.0_amd64.deb",
@@ -187,6 +202,21 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/13/9bc8c7e0-cc57-11eb-b301-4d101dc32d86.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/13/9bd63560-cc57-11eb-b301-4d101dc32d86.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/13/9dae77d0-cc57-11eb-b301-4d101dc32d86.png"
+  },
+  {
+    "Name": "Adobe Photoshop CC 2018",
+    "Version": "19.0",
+    "Filename": "com.sugarcane.adobe.photoshop_19.0_amd64.deb",
+    "Pkgname": "com.sugarcane.adobe.photoshop",
+    "Author": "San Jose",
+    "Contributor": "zkqgxlbjx",
+    "Website": "https://www.adobe.com/cn/products/photoshop.html",
+    "Update": "2021-07-12 16:43:38",
+    "Size": "980.53 MB",
+    "More": "Adobe PhotoShop CC是一款强大的图片编辑软件。可对已有的位图图像进行编辑加工处理以及运用一些特殊效果，其重点在于对图像的处理加工；可按照自己的构思创意，使用矢量图形等来设计图形。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/04e5f270-e2ec-11eb-ac26-631dbc6def3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/064e8320-e2ec-11eb-ac26-631dbc6def3d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/085cc9b0-e2ec-11eb-ac26-631dbc6def3d.svg"
   },
   {
     "Name": "tupitube",
