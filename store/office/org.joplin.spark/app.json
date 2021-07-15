@@ -1,15 +1,15 @@
 {
     "Name": "Joplin",
-    "Version": "2.1.8",
-    "Filename": "org.joplin.spark_2.1.8_all.deb",
+    "Version": "2.2.1",
+    "Filename": "org.joplin.spark_2.2.1_all.deb",
     "Pkgname": "org.joplin.spark",
     "Author": "laurent22",
     "Contributor": "jerrywang; OkayPJ",
-    "Website": "https://github.com/laurent22/joplin",
-    "Update": "2021-07-12 10:30:39",
-    "Size": "140.15 MB",
-    "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容的Windows, macOS, Linux, Android和iOS。",
+    "Website": "https://github.com/laurent22/joplin/",
+    "Update": "2021-07-15 09:11:11",
+    "Size": "140.11 MB",
+    "More": "一个具有同步能力的开源笔记和待办事项应用程序，兼容 Windows, macOS, Linux, Android 和 iOS。",
     "Tags": "community;ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/0e83f180-e2b8-11eb-a5e3-f1b9a36cae78.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/0c103260-e2b8-11eb-a5e3-f1b9a36cae78.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/481e0c80-e508-11eb-a3a4-abcf423781bc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/8758e0a0-e508-11eb-a3a4-abcf423781bc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/a7745450-e508-11eb-a3a4-abcf423781bc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/ccaf1f20-e508-11eb-a3a4-abcf423781bc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/15/43ea74f0-e508-11eb-a3a4-abcf423781bc.png"
 }

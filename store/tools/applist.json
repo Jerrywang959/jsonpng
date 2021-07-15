@@ -165,19 +165,19 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
   },
   {
-    "Name": "uengine 运行器 1.2.1",
-    "Version": "1.2.1",
-    "Filename": "spark-uengine-runner_1.2.1_all.deb",
+    "Name": "uengine 运行器",
+    "Version": "1.2.2",
+    "Filename": "spark-uengine-runner_1.2.2_all.deb",
     "Pkgname": "spark-uengine-runner",
     "Author": "gfdgd xi",
     "Contributor": "gfdgd xi",
     "Website": "https://gitee.com/gfdgd-xi/uengine-runner",
-    "Update": "2021-07-03 06:44:29",
-    "Size": "17.06 KB",
-    "More": "UOS 和 deepin 有一个功能是可以运行 APK 的组件——uengine（似乎是基于 anbox），但目前只支持安装应用商店和源里面的应用，论坛里的方法要么过时要么复杂，于是制作了这个程序\n1.2.1更新内容：\n※1、进行了安装方式的修改（不使用 adb），修复原无法安装和卸载的问题；\n2、进行了部分优化；\n3、进行了功能缩水；\n4、修复 deb 打包错误。",
-    "Tags": "uos;deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/03/d1e63e00-db86-11eb-99e8-c5eed0e56268.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/03/d20f97f0-db86-11eb-99e8-c5eed0e56268.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/03/d1fad770-db86-11eb-99e8-c5eed0e56268.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/03/d2243160-db86-11eb-99e8-c5eed0e56268.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/03/cce9b120-db86-11eb-99e8-c5eed0e56268.png"
+    "Update": "2021-07-15 16:48:57",
+    "Size": "16.68 KB",
+    "More": "UOS 和 deepin 有一个功能是可以运行 APK 的组件——uengine（似乎是基于 anbox），但目前只支持安装应用商店和源里面的应用，论坛里的方法要么过时要么复杂，于是制作了这个程序\n注意：部分 apk 是无法正常显示 .desktop 文件的（例如微信、抖音），如果不可以正常显示可以打开“uengine 程序菜单”打开\n更新内容：\n※1、对程序错误的显示更加人性化；\n2、对 icon 的获取方式进行了升级；\n3、增加了注释、删除部分冗余代码。",
+    "Tags": "community;uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/2e9a9cb0-e549-11eb-a332-57e0db92e893.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/15/1d8d87c0-e549-11eb-a332-57e0db92e893.png"
   },
   {
     "Name": "深度右键刷新插件",
