@@ -1,15 +1,15 @@
 {
     "Name": "星火应用商店",
-    "Version": "3.0.3",
-    "Filename": "spark-store_3.0.3_amd64.deb",
+    "Version": "3.0.3-2",
+    "Filename": "spark-store_3.0.3-2_amd64.deb",
     "Pkgname": "spark-store",
     "Author": "Maicss/AdamSmith/moshengren/RigoLigo/Jerry/shenmo/zty199/lidanger/lvtommy/123456/metanoia1989/alvarosamudio",
     "Contributor": "shenmo/zty199/AdamSmith/Jerry/RigoLigo",
     "Website": "https://www.spark-app.store/",
-    "Update": "2021-06-29 23:12:43",
+    "Update": "2021-07-15 23:06:09",
     "Size": "2.48 MB",
-    "More": "星火商店 v3.0.3\n【更新说明】\n1.支持应用详情页提示应用是否需要升级；\n2.修复应用详情页经常加载失败的问题。",
+    "More": "星火商店 v3.0.3\n【更新说明】\n1.支持应用详情页提示应用是否需要升级；\n2.修复应用详情页经常加载失败的问题；\n3.修复下载列表以及通知栏不显示应用缩略图的问题；\n4.修复应用详情页卸载失败的问题;\n5.优化多线程下载的镜像源获取方式。",
     "Tags": "community;ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/2fb95a50-d8ec-11eb-bc68-75b8dc7384e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/313f5e10-d8ec-11eb-bc68-75b8dc7384e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/32b905c0-d8ec-11eb-bc68-75b8dc7384e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/29/55dadba0-d8ec-11eb-bc68-75b8dc7384e6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/29/27e59190-d8ec-11eb-bc68-75b8dc7384e6.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/157792d0-e57e-11eb-b6f2-afd363eace1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/1a800690-e57e-11eb-b6f2-afd363eace1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/1c7e95b0-e57e-11eb-b6f2-afd363eace1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/15/1e1a9270-e57e-11eb-b6f2-afd363eace1a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/15/d7b5f130-e57d-11eb-b6f2-afd363eace1a.png"
 }
