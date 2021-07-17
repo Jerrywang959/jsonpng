@@ -129,6 +129,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/ac09d070-e2e3-11eb-800d-ebafda67edb9.png"
   },
   {
+    "Name": "极度公式",
+    "Version": "1.1.3spark0",
+    "Filename": "com.jidugs.spark_1.1.3spark0_amd64.deb",
+    "Pkgname": "com.jidugs.spark",
+    "Author": "成都微致汇网络科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://jidugs.wrste.com/#page1",
+    "Update": "2021-07-17 11:21:22",
+    "Size": "70.46 MB",
+    "More": "极度公式是一款强大的跨平台专业级LaTex公式软件\n",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/d0021460-e6ad-11eb-8704-37b917386974.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/d468f0f0-e6ad-11eb-8704-37b917386974.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/d93964c0-e6ad-11eb-8704-37b917386974.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/17/c7e8b720-e6ad-11eb-8704-37b917386974.png"
+  },
+  {
     "Name": "Cmd Markdown 编辑阅读器",
     "Version": "2.0",
     "Filename": "com.cmd-markdown.spark_2.0_amd64.deb",
