@@ -42,6 +42,21 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/28/cec05ba0-798b-11eb-829a-13b137392b43.jpg"
   },
   {
+    "Name": "Electron QQ",
+    "Version": "1.5.7",
+    "Filename": "electron-qq_1.5.7_amd64.deb",
+    "Pkgname": "electron-qq",
+    "Author": "Clansty",
+    "Contributor": "Hibanaw",
+    "Website": "https://github.com/Clansty/electron-qq",
+    "Update": "2021-07-17 22:21:06",
+    "Size": "67.88 MB",
+    "More": "一个 Electron 写的跨平台QQ客户端\n喜欢可以去原 repo 给作者打星\n以下是作者的 readme\nQwQ 妳们点星星的速度好快，electron-qq 的星星要比 MtF-Wiki 高了，大家多给 MtF-Wiki 点点星星吧\n为啥这个 repo 这么多星星，AUR 上只有 7 票呢，为什么呢\n",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/ef73fcd0-e709-11eb-83d7-6ddb78dfd8f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/17/349e9770-e70a-11eb-83d7-6ddb78dfd8f7.png"
+  },
+  {
     "Name": "rocketchat",
     "Version": "3.2.2",
     "Filename": "rocketchat_3.2.2_amd64.deb",

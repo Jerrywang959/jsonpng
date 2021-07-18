@@ -1,18 +1,18 @@
 [
   {
     "Name": "资源播放器",
-    "Version": "2.8.2",
-    "Filename": "zyplayer_2.8.2_amd64.deb",
+    "Version": "2.8.4",
+    "Filename": "zyplayer_2.8.4_amd64.deb",
     "Pkgname": "zyplayer",
-    "Author": "Hunlongyu",
-    "Contributor": "sgb76",
-    "Website": "https://gitee.com/fanych/ZY-Player",
-    "Update": "2021-05-11 12:35:06",
-    "Size": "55.73 MB",
-    "More": "一款跨平台的视频资源播放器，简单免费，无广告",
+    "Author": "cuiocean",
+    "Contributor": "kite",
+    "Website": "https://github.com/cuiocean/ZY-Player",
+    "Update": "2021-07-18 21:23:19",
+    "Size": "77.99 MB",
+    "More": "对商店版本进行更新对商店版本进行更新，使用商店的AppImage转换器进行转换（A2D转制工具），也看了打包说明。可直接从旧版本更新至新版本。\n2.8.4更新日志:\n1. 更多豆瓣推荐列表\n2. 推荐页面支持\"按评分\"排序\n",
     "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/11/de32a020-b211-11eb-9d24-4126daa26272.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/11/e5e4fe30-b211-11eb-9d24-4126daa26272.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/11/d9e19580-b211-11eb-9d24-4126daa26272.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/18/e9dfa410-e7ca-11eb-9622-297c3f02f7c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/18/ea7c3230-e7ca-11eb-9622-297c3f02f7c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/18/eb13de50-e7ca-11eb-9622-297c3f02f7c0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/18/b14f0cd0-e7ca-11eb-9622-297c3f02f7c0.png"
   },
   {
     "Name": "Kdenlive",
